@@ -11,7 +11,8 @@ fetch("https://cors-anywhere.herokuapp.com/" + RSS_URL)
         <div class="workshop">
           <img src="${el
             .querySelector("enclosure")
-            .getAttribute("url")}" alt="">
+            .getAttribute("url")
+            .replace(/^http:/, "https:")}" alt="">
           <h3>
             <a href="${
               el.querySelector("link").innerHTML
