@@ -1,5 +1,20 @@
 const RSS_URL = "https://events.stanford.edu/xml/byOrganization/411/rss.xml";
 
+const reEscapedHtml = /&(?:amp|lt|gt|quot|#39|#96);/g,
+  reHasEscapedHtml = RegExp(reEscapedHtml.source),
+  htmlUnescapes = {
+    "&amp;": "&",
+    "&lt;": "<",
+    "&gt;": ">",
+    "&quot;": '"',
+    "&#39;": "'",
+    "&#96;": "`",
+  },
+  unescape = (string) =>
+    string && reHasEscapedHtml.test(string)
+      ? string.replace(reEscapedHtml, (x) => htmlUnescapes[x])
+      : string;
+
 fetch("https://cors-anywhere.herokuapp.com/" + RSS_URL)
   .then((response) => response.text())
   .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
@@ -20,7 +35,7 @@ fetch("https://cors-anywhere.herokuapp.com/" + RSS_URL)
               ${el.querySelector("title").innerHTML}
             </a>
           </h3>
-          ${_.unescape(el.querySelector("description").innerHTML).replace(
+          ${unescape(el.querySelector("description").innerHTML).replace(
             "\\",
             "",
           )}
