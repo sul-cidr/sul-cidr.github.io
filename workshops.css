@@ -1,5 +1,8 @@
+h2 {
+  font-size: min(1.5em, 6vw);
+}
 #workshops {
-  margin: 0;
+  margin: 0 auto;
 }
 
 .workshop {
@@ -15,9 +18,9 @@
 }
 
 .workshop img {
-  float: left;
-  margin-right: 1em;
-  width: 150px;
+  display: block;
+  margin: 0 auto 1em;
+  width: 100px;
 }
 
 .workshop h3 {
@@ -25,16 +28,26 @@
   margin-bottom: 0.5em;
 }
 
-.workshop h3,
-.workshop div {
-  margin-left: calc(150px + 2rem);
-}
-
 .stanford-events-description {
   display: none;
 }
 
 @media (min-width: 768px) {
+  #workshops {
+    columns: 1;
+    margin: 0 1em;
+  }
+  .workshop img {
+    float: left;
+    margin: 0 1em 0 0;
+    width: 150px;
+  }
+  .workshop h3,
+  .workshop div {
+    margin-left: calc(150px + 2rem);
+  }
+}
+@media (min-width: 1025px) {
   #workshops {
     columns: 2;
     margin: 0 4em;

@@ -10,8 +10,10 @@
 
   <style>
     body {
+      background-color: #eff0f1;
       color: #333;
       font: 20px 'Source Sans Pro', sans-serif;
+      padding-top: 15px;
       text-align: center;
       margin: 0;
     }
@@ -23,6 +25,7 @@
 
     article {
       background: #fff;
+      box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .12), 0 1px 2px 0 rgba(0, 0, 0, .24);
       display: inline-block;
       padding: 20px 20px 40px;
       margin-bottom: 2em;
@@ -31,6 +34,11 @@
     p {
       margin: 0;
       text-align: center;
+    }
+
+    p,
+    div {
+      font-size: min(1em, 5vw);
     }
 
     a {
@@ -45,12 +53,12 @@
 
     @media (min-width: 768px) {
       body {
-        background-color: #eff0f1;
-        padding-top: 150px;
+        padding-top: 50px;
       }
+    }
 
+    @media (min-width: 1024px) {
       article {
-        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .12), 0 1px 2px 0 rgba(0, 0, 0, .24);
         width: 755px;
       }
 
