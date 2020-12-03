@@ -21,8 +21,14 @@ fetch("https://cors-anywhere.herokuapp.com/" + RSS_URL)
   .then((data) => {
     const items = data.querySelectorAll("item");
     let html = ``;
-    items.forEach((el) => {
-      html += `
+    Array.from(items)
+      .filter((el) =>
+        el
+          .querySelector("title")
+          .innerHTML.includes("Digital Tools and Methods"),
+      )
+      .forEach((el) => {
+        html += `
         <div class="workshop">
           <img src="${el
             .querySelector("enclosure")
@@ -41,6 +47,6 @@ fetch("https://cors-anywhere.herokuapp.com/" + RSS_URL)
           )}
         </div>
       `;
-    });
+      });
     document.querySelector("#workshops").insertAdjacentHTML("beforeend", html);
   });
