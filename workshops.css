@@ -1,6 +1,5 @@
 #workshops {
-  columns: 2;
-  margin: 0 4em;
+  margin: 0;
 }
 
 .workshop {
@@ -33,4 +32,11 @@
 
 .stanford-events-description {
   display: none;
+}
+
+@media (min-width: 768px) {
+  #workshops {
+    columns: 2;
+    margin: 0 4em;
+  }
 }
