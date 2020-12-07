@@ -1,6 +1,8 @@
 h2 {
   font-size: min(1.5em, 6vw);
+  text-shadow: 1px 1px 1px white;
 }
+
 #workshops {
   margin: 0 auto;
 }
