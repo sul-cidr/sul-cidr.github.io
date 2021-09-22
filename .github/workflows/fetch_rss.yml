@@ -1,7 +1,8 @@
 name: Fetch SUL Events RSS Feed
 
 on:
-  workflow_dispatch:
+  schedule:
+  - cron: "0 12 * * *"
 
 jobs:
   fetch_rss:
