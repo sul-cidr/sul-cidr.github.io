@@ -1,4 +1,4 @@
-const RSS_URL = "https://events.stanford.edu/xml/byOrganization/411/rss.xml";
+const RSS_URL = "sul-events-feed.rss.xml";
 
 const reEscapedHtml = /&(?:amp|lt|gt|quot|#39|#96);/g,
   reHasEscapedHtml = RegExp(reEscapedHtml.source),
@@ -15,7 +15,7 @@ const reEscapedHtml = /&(?:amp|lt|gt|quot|#39|#96);/g,
       ? string.replace(reEscapedHtml, (x) => htmlUnescapes[x])
       : string;
 
-fetch("https://cors-anywhere.herokuapp.com/" + RSS_URL)
+fetch(RSS_URL)
   .then((response) => response.text())
   .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
   .then((data) => {
