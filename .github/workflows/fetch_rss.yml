@@ -1,0 +1,22 @@
+name: Fetch SUL Events RSS Feed
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch_rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Fetch Library Events RSS Feed
+        run: |
+          wget -O sul-events-feed.rss.xml https://events.stanford.edu/xml/byOrganization/411/rss.xml
+          git config user.email "simonjwiles@gmail.com"
+          git config user.name "Simon Wiles"
+          git add .
+          if ! git diff --exit-code --quiet HEAD --; then
+            git commit -m "Update RSS feed at $(date +"%Y-%m-%d %H:%M:%S %Z")"
+            git push
+          fi
