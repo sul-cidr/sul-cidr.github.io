@@ -38,6 +38,30 @@
                     length="239706"/>
       </item>
       <item>
+         <title>Intro to QGIS (Sept 24th)</title>
+         <link>http://events.stanford.edu/events/923/92344</link>
+         <guid>http://events.stanford.edu/events/923/92344</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Friday, September 24, 2021.  9:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory session will focus upon the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics will include:&lt;/p&gt;&#xD;
+&lt;p&gt;What is GIS?&lt;/p&gt;&#xD;
+&lt;p&gt;Spatial Data Models and Formats&lt;/p&gt;&#xD;
+&lt;p&gt;Projections and Coordinate Systems&lt;/p&gt;&#xD;
+&lt;p&gt;Basic Data Management&lt;/p&gt;&#xD;
+&lt;p&gt;The QGIS User Interface&lt;/p&gt;&#xD;
+&lt;p&gt;Simple Analysis using Visualization&lt;/p&gt;&#xD;
+&lt;p&gt;This workshop will be held online. Participation will be via a short initial Zoom meeting followed by a self directed lab. Your instructor will be available via Zoom during the full workshop for help and questions.&lt;/p&gt;&#xD;
+&lt;p&gt;Please visit the "More Info" or "Ticketing" links to register via Eventbrite. The Eventbrite registration contains the workshop landing page and Zoom links.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Wed, 01 Sep 2021 11:23:49 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
+                    type="image/jpeg"
+                    length="28030"/>
+      </item>
+      <item>
          <title>Say Their Names - No More Names</title>
          <link>http://events.stanford.edu/events/889/88910</link>
          <guid>http://events.stanford.edu/events/889/88910</guid>
@@ -77,30 +101,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Intro to QGIS (Sept 24th)</title>
-         <link>http://events.stanford.edu/events/923/92344</link>
-         <guid>http://events.stanford.edu/events/923/92344</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, September 24, 2021.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory session will focus upon the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics will include:&lt;/p&gt;&#xD;
-&lt;p&gt;What is GIS?&lt;/p&gt;&#xD;
-&lt;p&gt;Spatial Data Models and Formats&lt;/p&gt;&#xD;
-&lt;p&gt;Projections and Coordinate Systems&lt;/p&gt;&#xD;
-&lt;p&gt;Basic Data Management&lt;/p&gt;&#xD;
-&lt;p&gt;The QGIS User Interface&lt;/p&gt;&#xD;
-&lt;p&gt;Simple Analysis using Visualization&lt;/p&gt;&#xD;
-&lt;p&gt;This workshop will be held online. Participation will be via a short initial Zoom meeting followed by a self directed lab. Your instructor will be available via Zoom during the full workshop for help and questions.&lt;/p&gt;&#xD;
-&lt;p&gt;Please visit the "More Info" or "Ticketing" links to register via Eventbrite. The Eventbrite registration contains the workshop landing page and Zoom links.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Wed, 01 Sep 2021 11:23:49 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
-                    type="image/jpeg"
-                    length="28030"/>
       </item>
       <item>
          <title>Intro to Python: Digital Tools and Methods for Humanities and Social Sciences</title>
@@ -192,6 +192,30 @@
                     length="60813"/>
       </item>
       <item>
+         <title>Carpentries @ Stanford - Python Introduction</title>
+         <link>http://events.stanford.edu/events/924/92492</link>
+         <guid>http://events.stanford.edu/events/924/92492</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Wednesday, October 6, 2021.  1:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Li Ma Library Room 402 (Sapp Center)&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Wednesday, 2021-10-06 / 13:00 - 16:00 (Pacific Daylight Time)&lt;/p&gt;&#xD;
+&lt;p&gt;Location: &lt;br /&gt;Li Ma Library Room 402 (Sapp Center For Teaching And Learning)&lt;br /&gt;This is tentatively an in-person workshop; we may need to change to a virtual event but we plan to do in-person. Attendance will be limited. All entry policies to the building and Libraries will be enforced.&lt;/p&gt;&#xD;
+&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
+&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/FXcV2QdyuJ73a3aw5&lt;/p&gt;&#xD;
+&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
+&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
+&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
+&lt;p&gt;Instructors: &lt;br /&gt;Linnea Shieh, Librarian (Engineering)&lt;br /&gt;Mary-Ellen Petrich, Digital Preservation Analyst (LOCKSS)&lt;/p&gt;&#xD;
+&lt;p&gt;Course Description: &lt;br /&gt;Python has rapidly become the programming language of choice for many people across the world, thanks to its flexibility and ease of use. In this hands-on workshop, attendees will learn some of the basics behind how to program in Python, and how they can leverage the language for different tasks. No prior experience is required.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Thu, 23 Sep 2021 16:38:27 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92492/92492-1.jpg"
+                    type="image/jpeg"
+                    length="17930"/>
+      </item>
+      <item>
          <title>Precession: R. Buckminster Fuller's Creative Connections</title>
          <link>http://events.stanford.edu/events/924/92480</link>
          <guid>http://events.stanford.edu/events/924/92480</guid>
@@ -200,7 +224,7 @@
 
         &lt;div class="stanford-events-location"&gt;Location: Green Library Bing Wing, 2nd Floor&lt;/div&gt;
 
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Exhibition to show October 7, 2021 — January 3, 2022, in Cecil H. Green Library &lt;/p&gt;&#xD;
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;Exhibition to show October 7, 2021 — January 3, 2022, in Cecil H. Green Library &lt;/a&gt;&lt;/p&gt;&#xD;
 &lt;p&gt;&lt;em&gt;Precession: The effect of bodies in motion on other bodies in motion.&lt;/em&gt;&lt;/p&gt;&#xD;
 &lt;p&gt;&lt;em&gt;All the inner effects of all, or most bodies in motion, and all other bodies in motion in [the] Universe is all "precessional." So I hope that instead of this just being a word that seems remote to you now, it suddenly begins to be important.&lt;/em&gt;&lt;/p&gt;&#xD;
 &lt;p&gt;-R. Buckminster Fuller&lt;/p&gt;&#xD;
@@ -213,7 +237,7 @@
 &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;&#xD;
 &lt;p&gt;The exhibition is free and currently restricted to the following current Stanford ID cardholders: students, post-docs, professors (including emeriti), academic staff, fellows, and Stanford visiting scholars. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Wed, 15 Sep 2021 01:30:17 PDT</pubDate>
+         <pubDate>Thu, 23 Sep 2021 18:02:25 PDT</pubDate>
          <enclosure url="http://events.stanford.edu/events/924/92480/92480-2.jpg"
                     type="image/jpeg"
                     length="279939"/>
@@ -323,13 +347,13 @@
 &lt;p&gt;&lt;strong&gt;Eva Diaz&lt;/strong&gt; is &lt;a href="https://www.pratt.edu/faculty_and_staff/bio/?id=ediaz3" target="_blank" rel="noopener"&gt;Associate Professor of Contemporary Art History at Pratt&lt;/a&gt;. Her teaching and scholarship are informed by historical and contemporary interdisciplinary collaborations between artists and other cultural producers. She has written extensively on Black Mountain College and R. Buckminster Fuller.&lt;/p&gt;&#xD;
 &lt;p&gt;&lt;strong&gt;Dakin Hart&lt;/strong&gt; is &lt;a href="https://www.noguchi.org/about/contact/" target="_blank" rel="noopener"&gt;Senior Curator&lt;/a&gt; at The Noguchi Museum in Long Island City, New York. He has extensive experience in both nonprofit arts administration and curatorial work, having worked with or for the Fine Arts Museum of San Francisco, the Montalvo Arts Center, the Nasher Sculpture Center, and Gagosian Gallery, among others.&lt;/p&gt;&#xD;
 &lt;p&gt;&lt;strong&gt;Daniel López-Pérez&lt;/strong&gt; is an &lt;a href="https://www.sandiego.edu/directory/biography.php?profile_id=385" target="_blank" rel="noopener"&gt;Associate Professor of Architecture&lt;/a&gt; and a founding faculty member of the Architecture Program at the University of San Diego. In addition to other honors, López-Pérez was awarded a Barr Ferree Foundation Publication Grant from Princeton University to author &lt;em&gt;R. Buckminster Fuller, Pattern-Thinking &lt;/em&gt;(Lars Müller Publishers, 2020). It provides a major contextual reassessment of Fuller’s legacy by investigating his unique design process, and redefines our understanding of the relationships between geometry, structure, language, and intellectual property.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Fred Turner&lt;/strong&gt; is &lt;a href="https://comm.stanford.edu/faculty-turner/" target="_blank" rel="noopener"&gt;Harry and Norman Chandler Professor of Communication at Stanford University&lt;/a&gt; and Professor by courtesy appointment in the Departments of History and Art &amp; Art History. An award-winning author and former journalist, his research and writing explore media, technology, and American cultural history.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;Fred Turner&lt;/strong&gt; is &lt;a href="https://fredturner.stanford.edu/" target="_blank" rel="noopener"&gt;Harry and Norman Chandler Professor of Communication at Stanford University&lt;/a&gt; and Professor by courtesy appointment in the Departments of History and Art &amp; Art History. An award-winning author and former journalist, his research and writing explore media, technology, and American cultural history.&lt;/p&gt;&#xD;
 &lt;p&gt;&lt;strong&gt;Moderators&lt;/strong&gt;&lt;/p&gt;&#xD;
 &lt;p&gt;&lt;strong&gt;Hsiao-Yun Chu&lt;/strong&gt; is a &lt;a href="https://design.sfsu.edu/people/faculty/hsiao-yun-chu" target="_blank" rel="noopener"&gt;Professor of Design&lt;/a&gt; at San Francisco State University and former Assistant Curator of the R. Buckminster Fuller Collection at Stanford University Libraries. Her research work investigates the role and meaning of nature in Fuller’s work, among other topics. She was the guest curator for the current exhibition on Precession.&lt;/p&gt;&#xD;
 &lt;p&gt;&lt;strong&gt;Robert G. Trujillo&lt;/strong&gt; is &lt;a href="https://library.stanford.edu/people/trujillo" target="_blank" rel="noopener"&gt;Associate University Librarian and Director of Special Collections&lt;/a&gt; at Stanford University Libraries. Among many other accomplishments, he championed the acquisition of the R. Buckminster Fuller Collection, the Ruth Asawa Collection, the Herbert Matter Collection, and the World Game Collection, all of which are featured in the current exhibition.&lt;/p&gt;&#xD;
 &lt;p&gt;This talk is hosted by the Stanford Libraries Department of Special Collections.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Tue, 21 Sep 2021 16:50:46 PDT</pubDate>
+         <pubDate>Thu, 23 Sep 2021 18:00:49 PDT</pubDate>
          <enclosure url="http://events.stanford.edu/events/924/92478/92478-1.jpg"
                     type="image/jpeg"
                     length="268485"/>
@@ -435,9 +459,9 @@
 &lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
 &lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
 &lt;p&gt;Instructors: &lt;br /&gt;Dr. Alma Parada, Librarian (Earth Science)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;This workshop will examine a sequence processing structure based on the Holmes Lab dada2 pipeline. Some scripting in a Unix/Shell environment, and use of R, is recommended.&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Course Description: &lt;br /&gt;This workshop will provide an introduction to processing 16S rRNA gene amplicon sequences and microbial community analysis. We will use command line tools such as cutadapt and trimmomatic, and R based tools such as dada2 and phyloseq, though others will be discussed. Some scripting in a Unix/Shell environment, and use of R, is recommended.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Mon, 20 Sep 2021 11:25:56 PDT</pubDate>
+         <pubDate>Thu, 23 Sep 2021 15:55:02 PDT</pubDate>
          <enclosure url="http://events.stanford.edu/events/924/92493/92493-1.jpg"
                     type="image/jpeg"
                     length="17930"/>
