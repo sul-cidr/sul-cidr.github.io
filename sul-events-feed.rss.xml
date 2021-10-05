@@ -15,6 +15,23 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
+         <title>Intro to R: Digital Tools and Methods for Humanities and Social Sciences</title>
+         <link>http://events.stanford.edu/events/924/92416</link>
+         <guid>http://events.stanford.edu/events/924/92416</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 5, 2021.  2:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/p&gt;&#xD;
+&lt;p&gt;Prerequisites: None. Please come with R and RStudio installed: &lt;a href="https://cengel.github.io/R-intro" target="_blank" rel="noopener"&gt;https://cengel.github.io/R-intro&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Mon, 13 Sep 2021 14:32:13 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92416/92416-2.jpg"
+                    type="image/jpeg"
+                    length="60813"/>
+      </item>
+      <item>
          <title>Say Their Names - No More Names</title>
          <link>http://events.stanford.edu/events/889/88910</link>
          <guid>http://events.stanford.edu/events/889/88910</guid>
@@ -54,23 +71,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Intro to R: Digital Tools and Methods for Humanities and Social Sciences</title>
-         <link>http://events.stanford.edu/events/924/92416</link>
-         <guid>http://events.stanford.edu/events/924/92416</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 5, 2021.  2:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/p&gt;&#xD;
-&lt;p&gt;Prerequisites: None. Please come with R and RStudio installed: &lt;a href="https://cengel.github.io/R-intro" target="_blank" rel="noopener"&gt;https://cengel.github.io/R-intro&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Mon, 13 Sep 2021 14:32:13 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92416/92416-2.jpg"
-                    type="image/jpeg"
-                    length="60813"/>
       </item>
       <item>
          <title>Carpentries @ Stanford - Python Introduction</title>
@@ -182,7 +182,7 @@
 
         &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop is geared toward those working with humanities data and will teach the foundations of data organization and best practices for building a structured dataset. Working through use cases, we’ll cover both good data management practices and working with data in spreadsheets to make them useful for a variety of research applications.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Mon, 13 Sep 2021 14:32:20 PDT</pubDate>
+         <pubDate>Mon, 04 Oct 2021 15:49:37 PDT</pubDate>
          <enclosure url="http://events.stanford.edu/events/924/92417/92417-2.jpg"
                     type="image/jpeg"
                     length="60813"/>
