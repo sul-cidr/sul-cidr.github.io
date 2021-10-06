@@ -15,21 +15,28 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
-         <title>Intro to R: Digital Tools and Methods for Humanities and Social Sciences</title>
-         <link>http://events.stanford.edu/events/924/92416</link>
-         <guid>http://events.stanford.edu/events/924/92416</guid>
+         <title>Carpentries @ Stanford - Python Introduction</title>
+         <link>http://events.stanford.edu/events/924/92492</link>
+         <guid>http://events.stanford.edu/events/924/92492</guid>
          <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 5, 2021.  2:00 PM.&lt;/div&gt;
+          &lt;div class="stanford-events-date"&gt;Date: Wednesday, October 6, 2021.  1:00 PM.&lt;/div&gt;
 
-        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
+        &lt;div class="stanford-events-location"&gt;Location: Li Ma Library Room 402 (Sapp Center)&lt;/div&gt;
 
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/p&gt;&#xD;
-&lt;p&gt;Prerequisites: None. Please come with R and RStudio installed: &lt;a href="https://cengel.github.io/R-intro" target="_blank" rel="noopener"&gt;https://cengel.github.io/R-intro&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Wednesday, 2021-10-06 / 13:00 - 16:00 (Pacific Daylight Time)&lt;/p&gt;&#xD;
+&lt;p&gt;Location: &lt;br /&gt;Li Ma Library Room 402 (Sapp Center For Teaching And Learning)&lt;br /&gt;This is tentatively an in-person workshop; we may need to change to a virtual event but we plan to do in-person. Attendance will be limited. All entry policies to the building and Libraries will be enforced.&lt;/p&gt;&#xD;
+&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
+&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/FXcV2QdyuJ73a3aw5&lt;/p&gt;&#xD;
+&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
+&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
+&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
+&lt;p&gt;Instructors: &lt;br /&gt;Linnea Shieh, Librarian (Engineering)&lt;br /&gt;Mary-Ellen Petrich, Digital Preservation Analyst (LOCKSS)&lt;/p&gt;&#xD;
+&lt;p&gt;Course Description: &lt;br /&gt;Python has rapidly become the programming language of choice for many people across the world, thanks to its flexibility and ease of use. In this hands-on workshop, attendees will learn some of the basics behind how to program in Python, and how they can leverage the language for different tasks. No prior experience is required.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Mon, 13 Sep 2021 14:32:13 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92416/92416-2.jpg"
+         <pubDate>Thu, 23 Sep 2021 16:38:27 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92492/92492-1.jpg"
                     type="image/jpeg"
-                    length="60813"/>
+                    length="17930"/>
       </item>
       <item>
          <title>Say Their Names - No More Names</title>
@@ -71,30 +78,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Carpentries @ Stanford - Python Introduction</title>
-         <link>http://events.stanford.edu/events/924/92492</link>
-         <guid>http://events.stanford.edu/events/924/92492</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Wednesday, October 6, 2021.  1:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Li Ma Library Room 402 (Sapp Center)&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Wednesday, 2021-10-06 / 13:00 - 16:00 (Pacific Daylight Time)&lt;/p&gt;&#xD;
-&lt;p&gt;Location: &lt;br /&gt;Li Ma Library Room 402 (Sapp Center For Teaching And Learning)&lt;br /&gt;This is tentatively an in-person workshop; we may need to change to a virtual event but we plan to do in-person. Attendance will be limited. All entry policies to the building and Libraries will be enforced.&lt;/p&gt;&#xD;
-&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
-&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/FXcV2QdyuJ73a3aw5&lt;/p&gt;&#xD;
-&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
-&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
-&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
-&lt;p&gt;Instructors: &lt;br /&gt;Linnea Shieh, Librarian (Engineering)&lt;br /&gt;Mary-Ellen Petrich, Digital Preservation Analyst (LOCKSS)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;Python has rapidly become the programming language of choice for many people across the world, thanks to its flexibility and ease of use. In this hands-on workshop, attendees will learn some of the basics behind how to program in Python, and how they can leverage the language for different tasks. No prior experience is required.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Thu, 23 Sep 2021 16:38:27 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92492/92492-1.jpg"
-                    type="image/jpeg"
-                    length="17930"/>
       </item>
       <item>
          <title>Precession: R. Buckminster Fuller's Creative Connections</title>
@@ -186,6 +169,23 @@
          <enclosure url="http://events.stanford.edu/events/924/92417/92417-2.jpg"
                     type="image/jpeg"
                     length="60813"/>
+      </item>
+      <item>
+         <title>White Borders by Reece Jones | Book Launch</title>
+         <link>http://events.stanford.edu/events/929/92949</link>
+         <guid>http://events.stanford.edu/events/929/92949</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 12, 2021.  3:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Zoom&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;The David Rumsey Map Center is pleased to feature Reece Jones, Professor and Chair of the Department of Geography, University of Hawaiʻi at Mānoa to speak on his book &lt;em&gt;White Borders: The History of Race and Immigration in the United Sates from Chinese Exclusion to the Border Wall&lt;/em&gt; which will launch on Oct 12, 2021 along with his talk on the book. Dr. Reece Jones is a renowned expert in this field and has written several books on the subject of borders.  We are excited to have the Center help him launch his latest book.&lt;br /&gt;&lt;br /&gt;In conversation with Reece Jones will be Sonia Shah a science journalist and author of THE NEXT GREAT MIGRATION: the beauty and terror of life on the move (Bloomsbury 2020), a finalist for the PEN/EO Wilson Science Literary Writing Award, and PANDEMIC: tracking contagions from cholera to coronaviruses and beyond (Farrar, Straus &amp; Giroux 2016), among other books.&lt;br /&gt;&lt;br /&gt;Racist anti-immigration policies, from the border wall to the Muslim ban, have left many Americans wondering: How did we get here? In a sweeping account, Reece Jones reveals that although the US is often mythologized as a nation of immigrants, it has a long history of immigration restrictions that are rooted in the racist fear of the “great replacement” of whites with non-white immigrants.  For more on the book, visit &lt;a href="https://www.penguinrandomhouse.com/books/676268/white-borders-by-reece-jones/" target="_blank" data-cke-saved-href="https://www.penguinrandomhouse.com/books/676268/white-borders-by-reece-jones/" rel="noopener"&gt;this page.&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;The launch will take place Tuesday&lt;strong&gt;,&lt;/strong&gt; &lt;strong&gt;October 12, 2021&lt;/strong&gt; on Zoom and follows the schedule below:&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;2:45pm PST:&lt;/strong&gt; Zoom room opens.&lt;br /&gt;&lt;strong&gt;3:00pm PST:&lt;/strong&gt; Talk begins, followed by Q&amp;A.&lt;/p&gt;&#xD;
+&lt;p&gt;The event is free but you need to RSVP/Register to get your zoom link.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Tue, 05 Oct 2021 18:33:04 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/929/92949/92949-1.jpg"
+                    type="image/jpeg"
+                    length="40540"/>
       </item>
       <item>
          <title>Carpentries @ Stanford - R Statistics</title>
