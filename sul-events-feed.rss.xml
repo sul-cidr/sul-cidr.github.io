@@ -15,6 +15,30 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
+         <title>Intro to QGIS (Oct 8th)</title>
+         <link>http://events.stanford.edu/events/923/92347</link>
+         <guid>http://events.stanford.edu/events/923/92347</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Friday, October 8, 2021.  9:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory session will focus upon the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics will include:&lt;/p&gt;&#xD;
+&lt;p&gt;What is GIS?&lt;/p&gt;&#xD;
+&lt;p&gt;Spatial Data Models and Formats&lt;/p&gt;&#xD;
+&lt;p&gt;Projections and Coordinate Systems&lt;/p&gt;&#xD;
+&lt;p&gt;Basic Data Management&lt;/p&gt;&#xD;
+&lt;p&gt;The QGIS User Interface&lt;/p&gt;&#xD;
+&lt;p&gt;Simple Analysis using Visualization&lt;/p&gt;&#xD;
+&lt;p&gt;This workshop will be held online. Participation will be via a short initial Zoom meeting followed by a self directed lab. Your instructor will be available via Zoom during the full workshop for help and questions.&lt;/p&gt;&#xD;
+&lt;p&gt;Please visit the "More Info" or "Ticketing" links to register via Eventbrite. The Eventbrite registration contains the workshop landing page and Zoom links.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Wed, 01 Sep 2021 11:22:59 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
+                    type="image/jpeg"
+                    length="28030"/>
+      </item>
+      <item>
          <title>Precession: R. Buckminster Fuller's Creative Connections</title>
          <link>http://events.stanford.edu/events/924/92480</link>
          <guid>http://events.stanford.edu/events/924/92480</guid>
@@ -40,30 +64,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92480/92480-2.jpg"
                     type="image/jpeg"
                     length="279939"/>
-      </item>
-      <item>
-         <title>Carpentries @ Stanford - R Introduction</title>
-         <link>http://events.stanford.edu/events/924/92488</link>
-         <guid>http://events.stanford.edu/events/924/92488</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Thursday, October 7, 2021.  09:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Thursday, October 07, 2021 / 09:00 - 12:00 (Pacific Daylight Time) &lt;/p&gt;&#xD;
-&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
-&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
-&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/w1aEgFdaP1M3YBKK6&lt;/p&gt;&#xD;
-&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
-&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
-&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
-&lt;p&gt;Lead Instructors: &lt;br /&gt;Dr. Magdalena Matusiak, Postdoctoral Research Fellow (Pathology)&lt;br /&gt;Dr. Menglan Xiang, Postdoctoral Research Fellow (Pathology)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;This workshop is a gentle introduction to the R programming language for those who have never (or barely) programmed in R, and especially to those who are new to programming in general. If you are unfamiliar with working with variables, vectors, and dataframes, then you are a good fit for this class! By the end of this workshop, you will have learned some of what R can do, explored the ecosystem of R and RStudio, modified/extracted data, and discovered resources to continue your learning even after this session.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Wed, 15 Sep 2021 13:56:44 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92488/92488-1.jpg"
-                    type="image/jpeg"
-                    length="17930"/>
       </item>
       <item>
          <title>Say Their Names - No More Names</title>
@@ -105,30 +105,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Intro to QGIS (Oct 8th)</title>
-         <link>http://events.stanford.edu/events/923/92347</link>
-         <guid>http://events.stanford.edu/events/923/92347</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, October 8, 2021.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory session will focus upon the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics will include:&lt;/p&gt;&#xD;
-&lt;p&gt;What is GIS?&lt;/p&gt;&#xD;
-&lt;p&gt;Spatial Data Models and Formats&lt;/p&gt;&#xD;
-&lt;p&gt;Projections and Coordinate Systems&lt;/p&gt;&#xD;
-&lt;p&gt;Basic Data Management&lt;/p&gt;&#xD;
-&lt;p&gt;The QGIS User Interface&lt;/p&gt;&#xD;
-&lt;p&gt;Simple Analysis using Visualization&lt;/p&gt;&#xD;
-&lt;p&gt;This workshop will be held online. Participation will be via a short initial Zoom meeting followed by a self directed lab. Your instructor will be available via Zoom during the full workshop for help and questions.&lt;/p&gt;&#xD;
-&lt;p&gt;Please visit the "More Info" or "Ticketing" links to register via Eventbrite. The Eventbrite registration contains the workshop landing page and Zoom links.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Wed, 01 Sep 2021 11:22:59 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
-                    type="image/jpeg"
-                    length="28030"/>
       </item>
       <item>
          <title>Data Management: Digital Tools and Methods for Humanities and Social Sciences</title>
