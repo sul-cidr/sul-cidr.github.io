@@ -15,6 +15,30 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
+         <title>Google Earth Engine 101: An Introduction for Absolute Beginners</title>
+         <link>http://events.stanford.edu/events/901/90107</link>
+         <guid>http://events.stanford.edu/events/901/90107</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Friday, October 15, 2021.  9:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Zoom Workshop&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;&lt;strong&gt;Google Earth Engine 101: Introduction to Earth Engine for beginners&lt;/strong&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;Meet Earth Engine&lt;/p&gt;&#xD;
+&lt;p&gt;Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform. The purpose of Earth Engine is to:&lt;/p&gt;&#xD;
+&lt;p&gt;Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;Presenter: &lt;/strong&gt;Stace Maples - Stanford Geospatial Center&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: The Earth Engine API (application programming interface) provides the ability to create your own algorithms to process raster and vector imagery. This session is geared toward people who would like to analyze satellite and vector data. The session will be hands-on, using the Earth Engine Javascript code editor.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;Prerequisites: &lt;/strong&gt;No previous experience with Earth Engine or JavaScript is necessary for the beginner workshop&lt;/p&gt;&#xD;
+&lt;p data-key="89" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJoZWFkaW5nLXR3byUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJTaWduJTIwdXAlMjBmb3IlMjBHb29nbGUlMjBFYXJ0aCUyMEVuZ2luZSUyMEltbWVkaWF0ZWx5ISUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMklmJTIweW91JTIwYXJlJTIwbm90JTIwcmVnaXN0ZXJpbmclMjB3aXRoJTIwYSUyMCU0MFN0YW5mb3JkLmVkdSUyMGVtYWlsJTIwYWRkcmVzcyUyQyUyMHdlJTIwYXJlJTIwdW5hYmxlJTIwdG8lMjBwcm92aWRlJTIwYWNjZXNzJTIwdG8lMjBHb29nbGUlMjBFYXJ0aCUyMEVuZ2luZSUyQyUyMHRocm91Z2glMjBvdXIlMjBvcmdhbml6YXRpb24uJTIwUGxlYXNlJTIwYmUlMjBjZXJ0YWluJTIwdGhhdCUyMHlvdSUyMGFwcGx5JTIwZm9yJTIwYWNjZXNzJTIwd2VsbCUyMGFoZWFkJTIwb2YlMjB0aGUlMjB3b3Jrc2hvcCUzQSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRvJTIwc2lnbiUyMHVwJTIwZm9yJTIwR29vZ2xlJTIwRWFydGglMjBFbmdpbmUlMkMlMjBnbyUyMHRvJTNBJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJpbmxpbmUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIybGluayUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTJDJTIyaHJlZiUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGc2lnbnVwLmVhcnRoZW5naW5lLmdvb2dsZS5jb20lMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGc2lnbnVwLmVhcnRoZW5naW5lLmdvb2dsZS5jb20lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE"&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;Read more about Google Earth Engine &lt;a href="https://developers.google.com/earth-engine/" target="_blank" rel="noopener"&gt;here&lt;/a&gt;, or browse the &lt;a href="https://developers.google.com/earth-engine/datasets" target="_blank" rel="noopener"&gt;Data Catalog&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Wed, 13 Oct 2021 12:48:36 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/901/90107/90107-1.jpg"
+                    type="image/jpeg"
+                    length="50867"/>
+      </item>
+      <item>
          <title>Precession: R. Buckminster Fuller's Creative Connections</title>
          <link>http://events.stanford.edu/events/924/92480</link>
          <guid>http://events.stanford.edu/events/924/92480</guid>
@@ -42,49 +66,28 @@
                     length="279939"/>
       </item>
       <item>
-         <title>Scribe C: Rewriting the Beowulf Manuscript - a Seminar with Cheryl Jacobsen</title>
-         <link>http://events.stanford.edu/events/929/92955</link>
-         <guid>http://events.stanford.edu/events/929/92955</guid>
+         <title>Carpentries @ Stanford - R Visualization</title>
+         <link>http://events.stanford.edu/events/924/92490</link>
+         <guid>http://events.stanford.edu/events/924/92490</guid>
          <description>
-          &lt;div class="stanford-events-date"&gt;Date: Thursday, October 14, 2021.  10:00 AM.&lt;/div&gt;
+          &lt;div class="stanford-events-date"&gt;Date: Friday, October 15, 2021.  9:00 AM.&lt;/div&gt;
 
-        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
+        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
 
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;The Nowell Codex has vast significance for literary history as the unique copy of &lt;em&gt;Beowulf&lt;/em&gt; but few have looked at it with the experience of a working scribe. What would be learned about the writing of the manuscript if one was to make a new copy looking at the amazing scans of the British library? Modern Scribe Cheryl Jacobsen has had a chance to explore this question when she fulfilled a commission to copy the text of &lt;em&gt;Beowulf&lt;/em&gt; in the original language and script with facing translation into a parchment book. Cheryl collaborated with early medieval scholar Jonathan Wilcox on questions about the Old English. The book resulting from the commission holds both the English Vernacular Minuscule reproduced page-by-page and a facing translation in modern English, both written by hand on goat skin. In the many of hours of writing, Cheryl came to understand the sequence of strokes in the letter formation of Scribes A and B in intimate detail along with something of their aesthetic and practical decisions. The many aspects of planning, organizing, and writing a manuscript of over 280 pages all presented opportunities to understand how the scribes may have thought as they did their work.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Cheryl Jacobsen&lt;/strong&gt; is Adjunct Assistant Professor of lettering at the University of Iowa Center for the Book and the author of “A Modern Scribe Views Scribes of the Past” in &lt;em&gt;Scraped, Stroked, and Bound: Materially Engaged Readings of Medieval Manuscripts&lt;/em&gt; (Brepols 2013)&lt;/p&gt;&lt;/div&gt;
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Friday, October 15, 2021 / 09:00 - 12:00 (Pacific Daylight Time) &lt;/p&gt;&#xD;
+&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
+&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
+&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/oMXxq1dGNRhPVZna8&lt;/p&gt;&#xD;
+&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
+&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
+&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
+&lt;p&gt;Lead Instructors: &lt;br /&gt;Dr. Menglan Xiang, Postdoctoral Research Fellow (Pathology)&lt;br /&gt;Dr. Melissa Ko, Science and Engineering Education Fellow (Bioengineering)&lt;/p&gt;&#xD;
+&lt;p&gt;Course Description: &lt;br /&gt;This workshop is a gentle introduction to working with the ggplot2 visualization library in R for those who have moderate programming experience in R. If you know how to work with datasets (variables, matrices, dataframes) and functions in R, but you have never created figures beyond maybe a few base R visualizations (using the plot, hist, barplot functions), then this class is a good fit for you! By the end of this workshop, you will have learned the syntax of ggplot2, how to modify and customize graph aesthetics, how to generate 1D and 2D plots, and how to save your figures to your computer. Time permitting, we will explore a few extra features such as faceting, custom colors, and themes!&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Wed, 06 Oct 2021 08:58:35 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/929/92955/92955-1.jpg"
+         <pubDate>Wed, 15 Sep 2021 13:56:53 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92490/92490-1.jpg"
                     type="image/jpeg"
-                    length="74775"/>
-      </item>
-      <item>
-         <title>Panel Discussion: R. Buckminster Fuller's Creative Connections</title>
-         <link>http://events.stanford.edu/events/924/92478</link>
-         <guid>http://events.stanford.edu/events/924/92478</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Thursday, October 14, 2021.  4:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Online via Zoom&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Stanford Libraries invites you to a panel discussion on the subject of creative connections between R. Buckminster Fuller and his contemporaries to commemorate Stanford University Libraries’ opening of the exhibition &lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;&lt;em&gt;Precession: R. Buckminster Fuller’s Creative Connections.&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Schedule:&lt;/strong&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Thursday, October 14, 2021 &lt;/strong&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;4:00 - 5:30 pm PT: &lt;/strong&gt;&lt;strong&gt;Panel Discussion&lt;/strong&gt;&lt;strong&gt;: R. Buckminster Fuller’s Creative Connections followed by Q&amp;A&lt;/strong&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;This event is free and open to the public. Registration is required; &lt;a href="https://stanford.zoom.us/webinar/register/WN_VtdxQ1vyRN-CSEHLTeaq3Q" target="_blank" rel="noopener"&gt;please register here&lt;/a&gt;.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Eva Diaz&lt;/strong&gt; is &lt;a href="https://www.pratt.edu/faculty_and_staff/bio/?id=ediaz3" target="_blank" rel="noopener"&gt;Associate Professor of Contemporary Art History at Pratt&lt;/a&gt;. Her teaching and scholarship are informed by historical and contemporary interdisciplinary collaborations between artists and other cultural producers. She has written extensively on Black Mountain College and R. Buckminster Fuller.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Dakin Hart&lt;/strong&gt; is &lt;a href="https://www.noguchi.org/about/contact/" target="_blank" rel="noopener"&gt;Senior Curator&lt;/a&gt; at The Noguchi Museum in Long Island City, New York. He has extensive experience in both nonprofit arts administration and curatorial work, having worked with or for the Fine Arts Museum of San Francisco, the Montalvo Arts Center, the Nasher Sculpture Center, and Gagosian Gallery, among others.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Daniel López-Pérez&lt;/strong&gt; is an &lt;a href="https://www.sandiego.edu/directory/biography.php?profile_id=385" target="_blank" rel="noopener"&gt;Associate Professor of Architecture&lt;/a&gt; and a founding faculty member of the Architecture Program at the University of San Diego. In addition to other honors, López-Pérez was awarded a Barr Ferree Foundation Publication Grant from Princeton University to author &lt;em&gt;R. Buckminster Fuller, Pattern-Thinking &lt;/em&gt;(Lars Müller Publishers, 2020). It provides a major contextual reassessment of Fuller’s legacy by investigating his unique design process, and redefines our understanding of the relationships between geometry, structure, language, and intellectual property.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Fred Turner&lt;/strong&gt; is &lt;a href="https://fredturner.stanford.edu/" target="_blank" rel="noopener"&gt;Harry and Norman Chandler Professor of Communication at Stanford University&lt;/a&gt; and Professor by courtesy appointment in the Departments of History and Art &amp; Art History. An award-winning author and former journalist, his research and writing explore media, technology, and American cultural history.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Moderators&lt;/strong&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Hsiao-Yun Chu&lt;/strong&gt; is a &lt;a href="https://design.sfsu.edu/people/faculty/hsiao-yun-chu" target="_blank" rel="noopener"&gt;Professor of Design&lt;/a&gt; at San Francisco State University and former Assistant Curator of the R. Buckminster Fuller Collection at Stanford University Libraries. Her research work investigates the role and meaning of nature in Fuller’s work, among other topics. She was the guest curator for the current exhibition on Precession.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Robert G. Trujillo&lt;/strong&gt; is &lt;a href="https://library.stanford.edu/people/trujillo" target="_blank" rel="noopener"&gt;Associate University Librarian and Director of Special Collections&lt;/a&gt; at Stanford University Libraries. Among many other accomplishments, he championed the acquisition of the R. Buckminster Fuller Collection, the Ruth Asawa Collection, the Herbert Matter Collection, and the World Game Collection, all of which are featured in the current exhibition.&lt;/p&gt;&#xD;
-&lt;p&gt;This talk is hosted by the Stanford Libraries Department of Special Collections.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Tue, 28 Sep 2021 08:54:48 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92478/92478-1.jpg"
-                    type="image/jpeg"
-                    length="268485"/>
+                    length="17930"/>
       </item>
       <item>
          <title>Say Their Names - No More Names</title>
@@ -126,54 +129,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Google Earth Engine 101: An Introduction for Absolute Beginners</title>
-         <link>http://events.stanford.edu/events/901/90107</link>
-         <guid>http://events.stanford.edu/events/901/90107</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, October 15, 2021.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Zoom Workshop&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;&lt;strong&gt;Google Earth Engine 101: Introduction to Earth Engine for beginners&lt;/strong&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;Meet Earth Engine&lt;/p&gt;&#xD;
-&lt;p&gt;Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform. The purpose of Earth Engine is to:&lt;/p&gt;&#xD;
-&lt;p&gt;Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Presenter: &lt;/strong&gt;Stace Maples - Stanford Geospatial Center&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: The Earth Engine API (application programming interface) provides the ability to create your own algorithms to process raster and vector imagery. This session is geared toward people who would like to analyze satellite and vector data. The session will be hands-on, using the Earth Engine Javascript code editor.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Prerequisites: &lt;/strong&gt;No previous experience with Earth Engine or JavaScript is necessary for the beginner workshop&lt;/p&gt;&#xD;
-&lt;p data-key="89" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJoZWFkaW5nLXR3byUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJTaWduJTIwdXAlMjBmb3IlMjBHb29nbGUlMjBFYXJ0aCUyMEVuZ2luZSUyMEltbWVkaWF0ZWx5ISUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMklmJTIweW91JTIwYXJlJTIwbm90JTIwcmVnaXN0ZXJpbmclMjB3aXRoJTIwYSUyMCU0MFN0YW5mb3JkLmVkdSUyMGVtYWlsJTIwYWRkcmVzcyUyQyUyMHdlJTIwYXJlJTIwdW5hYmxlJTIwdG8lMjBwcm92aWRlJTIwYWNjZXNzJTIwdG8lMjBHb29nbGUlMjBFYXJ0aCUyMEVuZ2luZSUyQyUyMHRocm91Z2glMjBvdXIlMjBvcmdhbml6YXRpb24uJTIwUGxlYXNlJTIwYmUlMjBjZXJ0YWluJTIwdGhhdCUyMHlvdSUyMGFwcGx5JTIwZm9yJTIwYWNjZXNzJTIwd2VsbCUyMGFoZWFkJTIwb2YlMjB0aGUlMjB3b3Jrc2hvcCUzQSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRvJTIwc2lnbiUyMHVwJTIwZm9yJTIwR29vZ2xlJTIwRWFydGglMjBFbmdpbmUlMkMlMjBnbyUyMHRvJTNBJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJpbmxpbmUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIybGluayUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTJDJTIyaHJlZiUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGc2lnbnVwLmVhcnRoZW5naW5lLmdvb2dsZS5jb20lMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGc2lnbnVwLmVhcnRoZW5naW5lLmdvb2dsZS5jb20lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE"&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;Read more about Google Earth Engine &lt;a href="https://developers.google.com/earth-engine/" target="_blank" rel="noopener"&gt;here&lt;/a&gt;, or browse the &lt;a href="https://developers.google.com/earth-engine/datasets" target="_blank" rel="noopener"&gt;Data Catalog&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Wed, 13 Oct 2021 12:48:36 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/901/90107/90107-1.jpg"
-                    type="image/jpeg"
-                    length="50867"/>
-      </item>
-      <item>
-         <title>Carpentries @ Stanford - R Visualization</title>
-         <link>http://events.stanford.edu/events/924/92490</link>
-         <guid>http://events.stanford.edu/events/924/92490</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, October 15, 2021.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Friday, October 15, 2021 / 09:00 - 12:00 (Pacific Daylight Time) &lt;/p&gt;&#xD;
-&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
-&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
-&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/oMXxq1dGNRhPVZna8&lt;/p&gt;&#xD;
-&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
-&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
-&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
-&lt;p&gt;Lead Instructors: &lt;br /&gt;Dr. Menglan Xiang, Postdoctoral Research Fellow (Pathology)&lt;br /&gt;Dr. Melissa Ko, Science and Engineering Education Fellow (Bioengineering)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;This workshop is a gentle introduction to working with the ggplot2 visualization library in R for those who have moderate programming experience in R. If you know how to work with datasets (variables, matrices, dataframes) and functions in R, but you have never created figures beyond maybe a few base R visualizations (using the plot, hist, barplot functions), then this class is a good fit for you! By the end of this workshop, you will have learned the syntax of ggplot2, how to modify and customize graph aesthetics, how to generate 1D and 2D plots, and how to save your figures to your computer. Time permitting, we will explore a few extra features such as faceting, custom colors, and themes!&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Wed, 15 Sep 2021 13:56:53 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92490/92490-1.jpg"
-                    type="image/jpeg"
-                    length="17930"/>
       </item>
       <item>
          <title>The Beats Within: Comparing AI &amp; Human Adaptations of “Howl” (HOWLoween 2021)</title>
