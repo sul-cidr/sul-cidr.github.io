@@ -15,81 +15,6 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
-         <title>Google Earth Engine 101: An Introduction for Absolute Beginners</title>
-         <link>http://events.stanford.edu/events/901/90107</link>
-         <guid>http://events.stanford.edu/events/901/90107</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, October 15, 2021.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Zoom Workshop&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;&lt;strong&gt;Google Earth Engine 101: Introduction to Earth Engine for beginners&lt;/strong&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;Meet Earth Engine&lt;/p&gt;&#xD;
-&lt;p&gt;Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform. The purpose of Earth Engine is to:&lt;/p&gt;&#xD;
-&lt;p&gt;Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Presenter: &lt;/strong&gt;Stace Maples - Stanford Geospatial Center&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: The Earth Engine API (application programming interface) provides the ability to create your own algorithms to process raster and vector imagery. This session is geared toward people who would like to analyze satellite and vector data. The session will be hands-on, using the Earth Engine Javascript code editor.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;strong&gt;Prerequisites: &lt;/strong&gt;No previous experience with Earth Engine or JavaScript is necessary for the beginner workshop&lt;/p&gt;&#xD;
-&lt;p data-key="89" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJoZWFkaW5nLXR3byUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJTaWduJTIwdXAlMjBmb3IlMjBHb29nbGUlMjBFYXJ0aCUyMEVuZ2luZSUyMEltbWVkaWF0ZWx5ISUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMklmJTIweW91JTIwYXJlJTIwbm90JTIwcmVnaXN0ZXJpbmclMjB3aXRoJTIwYSUyMCU0MFN0YW5mb3JkLmVkdSUyMGVtYWlsJTIwYWRkcmVzcyUyQyUyMHdlJTIwYXJlJTIwdW5hYmxlJTIwdG8lMjBwcm92aWRlJTIwYWNjZXNzJTIwdG8lMjBHb29nbGUlMjBFYXJ0aCUyMEVuZ2luZSUyQyUyMHRocm91Z2glMjBvdXIlMjBvcmdhbml6YXRpb24uJTIwUGxlYXNlJTIwYmUlMjBjZXJ0YWluJTIwdGhhdCUyMHlvdSUyMGFwcGx5JTIwZm9yJTIwYWNjZXNzJTIwd2VsbCUyMGFoZWFkJTIwb2YlMjB0aGUlMjB3b3Jrc2hvcCUzQSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRvJTIwc2lnbiUyMHVwJTIwZm9yJTIwR29vZ2xlJTIwRWFydGglMjBFbmdpbmUlMkMlMjBnbyUyMHRvJTNBJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJpbmxpbmUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIybGluayUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTJDJTIyaHJlZiUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGc2lnbnVwLmVhcnRoZW5naW5lLmdvb2dsZS5jb20lMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGc2lnbnVwLmVhcnRoZW5naW5lLmdvb2dsZS5jb20lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE"&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;Read more about Google Earth Engine &lt;a href="https://developers.google.com/earth-engine/" target="_blank" rel="noopener"&gt;here&lt;/a&gt;, or browse the &lt;a href="https://developers.google.com/earth-engine/datasets" target="_blank" rel="noopener"&gt;Data Catalog&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Wed, 13 Oct 2021 12:48:36 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/901/90107/90107-1.jpg"
-                    type="image/jpeg"
-                    length="50867"/>
-      </item>
-      <item>
-         <title>Precession: R. Buckminster Fuller's Creative Connections</title>
-         <link>http://events.stanford.edu/events/924/92480</link>
-         <guid>http://events.stanford.edu/events/924/92480</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Ongoing  from October 7, 2021 through January 3, 2022.  See details for exact dates and times.  &lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Green Library Bing Wing, 2nd Floor&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;Exhibition to show October 7, 2021 — January 3, 2022, in Cecil H. Green Library &lt;/a&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;em&gt;Precession: The effect of bodies in motion on other bodies in motion.&lt;/em&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;em&gt;All the inner effects of all, or most bodies in motion, and all other bodies in motion in [the] Universe is all "precessional." So I hope that instead of this just being a word that seems remote to you now, it suddenly begins to be important.&lt;/em&gt;&lt;/p&gt;&#xD;
-&lt;p&gt;-R. Buckminster Fuller&lt;/p&gt;&#xD;
-&lt;p&gt;Stanford Libraries presents &lt;em&gt;Precession: R. Buckminster Fuller’s Creative Connections&lt;/em&gt;, on view October 7, 2021, through January 3, 2022, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library Bing Wing. Fuller is perhaps best known as the patent-holder of the geodesic dome. Yet his projects were quite varied and touched upon many principles of creative scientific inquiry. The exhibition celebrates the creative connections between R. Buckminster Fuller and his contemporaries.&lt;/p&gt;&#xD;
-&lt;p&gt;In 1999, Stanford University Libraries acquired the archive of R. Buckminster Fuller, currently our largest single manuscript collection with over 1300 linear feet of papers and numerous recordings and models spanning the years 1920—1983. This massive collection has brought new insights about Fuller to light and illuminated key relationships with Fuller and other creative thinkers across the course of his multifaceted career as a mathematician, professor, and public intellectual. More than just acquaintances, these meetings of minds created what Fuller might have called “precessional” effects, with each exerting incremental influences on one another’s paths.&lt;/p&gt;&#xD;
-&lt;p&gt;Fuller had hundreds of friendships, professional relationships, and collaborators throughout his life, which he maintained through travel as well as copious correspondence. This exhibit focuses on just a handful of the many well-documented relationships within the Fuller Collection and other manuscript collections at Stanford University Libraries.&lt;/p&gt;&#xD;
-&lt;p&gt;In conjunction with the exhibition’s opening, a virtual &lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;Panel Discussion: R. Buckminster Fuller’s Creative Connections&lt;/a&gt;, hosted by the Department of Special Collections and Stanford Libraries, will occur online on October 14th, 2021, from 4:00 pm - 5:00 pm PT. This event is free and open to the public; &lt;a href="https://stanford.zoom.us/webinar/register/WN_VtdxQ1vyRN-CSEHLTeaq3Q" target="_blank" rel="noopener"&gt;registration is required&lt;/a&gt;.&lt;/p&gt;&#xD;
-&lt;p&gt;NOTE: In addition to the physical exhibition, there is a forthcoming online exhibition; stay tuned to the &lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;Current&lt;/a&gt; Exhibits page for updates.&lt;/p&gt;&#xD;
-&lt;p&gt;&lt;em&gt;Fuller's Creative Connections&lt;/em&gt; will be on display in the Peterson Gallery and Munger Rotunda exhibit cases from October 7, 2021—January 3, 2022.&lt;/p&gt;&#xD;
-&lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;&#xD;
-&lt;p&gt;The exhibition is free and currently restricted to the following current Stanford ID cardholders: students, post-docs, professors (including emeriti), academic staff, fellows, and Stanford visiting scholars. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Tue, 28 Sep 2021 08:53:32 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92480/92480-2.jpg"
-                    type="image/jpeg"
-                    length="279939"/>
-      </item>
-      <item>
-         <title>Carpentries @ Stanford - R Visualization</title>
-         <link>http://events.stanford.edu/events/924/92490</link>
-         <guid>http://events.stanford.edu/events/924/92490</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, October 15, 2021.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Friday, October 15, 2021 / 09:00 - 12:00 (Pacific Daylight Time) &lt;/p&gt;&#xD;
-&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
-&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
-&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/oMXxq1dGNRhPVZna8&lt;/p&gt;&#xD;
-&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
-&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
-&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
-&lt;p&gt;Lead Instructors: &lt;br /&gt;Dr. Menglan Xiang, Postdoctoral Research Fellow (Pathology)&lt;br /&gt;Dr. Melissa Ko, Science and Engineering Education Fellow (Bioengineering)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;This workshop is a gentle introduction to working with the ggplot2 visualization library in R for those who have moderate programming experience in R. If you know how to work with datasets (variables, matrices, dataframes) and functions in R, but you have never created figures beyond maybe a few base R visualizations (using the plot, hist, barplot functions), then this class is a good fit for you! By the end of this workshop, you will have learned the syntax of ggplot2, how to modify and customize graph aesthetics, how to generate 1D and 2D plots, and how to save your figures to your computer. Time permitting, we will explore a few extra features such as faceting, custom colors, and themes!&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Wed, 15 Sep 2021 13:56:53 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92490/92490-1.jpg"
-                    type="image/jpeg"
-                    length="17930"/>
-      </item>
-      <item>
          <title>Say Their Names - No More Names</title>
          <link>http://events.stanford.edu/events/889/88910</link>
          <guid>http://events.stanford.edu/events/889/88910</guid>
@@ -129,6 +54,33 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
+      </item>
+      <item>
+         <title>Precession: R. Buckminster Fuller's Creative Connections</title>
+         <link>http://events.stanford.edu/events/924/92480</link>
+         <guid>http://events.stanford.edu/events/924/92480</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Ongoing  from October 7, 2021 through January 3, 2022.  See details for exact dates and times.  &lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Green Library Bing Wing, 2nd Floor&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;Exhibition to show October 7, 2021 — January 3, 2022, in Cecil H. Green Library &lt;/a&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;em&gt;Precession: The effect of bodies in motion on other bodies in motion.&lt;/em&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;em&gt;All the inner effects of all, or most bodies in motion, and all other bodies in motion in [the] Universe is all "precessional." So I hope that instead of this just being a word that seems remote to you now, it suddenly begins to be important.&lt;/em&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;-R. Buckminster Fuller&lt;/p&gt;&#xD;
+&lt;p&gt;Stanford Libraries presents &lt;em&gt;Precession: R. Buckminster Fuller’s Creative Connections&lt;/em&gt;, on view October 7, 2021, through January 3, 2022, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library Bing Wing. Fuller is perhaps best known as the patent-holder of the geodesic dome. Yet his projects were quite varied and touched upon many principles of creative scientific inquiry. The exhibition celebrates the creative connections between R. Buckminster Fuller and his contemporaries.&lt;/p&gt;&#xD;
+&lt;p&gt;In 1999, Stanford University Libraries acquired the archive of R. Buckminster Fuller, currently our largest single manuscript collection with over 1300 linear feet of papers and numerous recordings and models spanning the years 1920—1983. This massive collection has brought new insights about Fuller to light and illuminated key relationships with Fuller and other creative thinkers across the course of his multifaceted career as a mathematician, professor, and public intellectual. More than just acquaintances, these meetings of minds created what Fuller might have called “precessional” effects, with each exerting incremental influences on one another’s paths.&lt;/p&gt;&#xD;
+&lt;p&gt;Fuller had hundreds of friendships, professional relationships, and collaborators throughout his life, which he maintained through travel as well as copious correspondence. This exhibit focuses on just a handful of the many well-documented relationships within the Fuller Collection and other manuscript collections at Stanford University Libraries.&lt;/p&gt;&#xD;
+&lt;p&gt;In conjunction with the exhibition’s opening, a virtual &lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;Panel Discussion: R. Buckminster Fuller’s Creative Connections&lt;/a&gt;, hosted by the Department of Special Collections and Stanford Libraries, will occur online on October 14th, 2021, from 4:00 pm - 5:00 pm PT. This event is free and open to the public; &lt;a href="https://stanford.zoom.us/webinar/register/WN_VtdxQ1vyRN-CSEHLTeaq3Q" target="_blank" rel="noopener"&gt;registration is required&lt;/a&gt;.&lt;/p&gt;&#xD;
+&lt;p&gt;NOTE: In addition to the physical exhibition, there is a forthcoming online exhibition; stay tuned to the &lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;Current&lt;/a&gt; Exhibits page for updates.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;em&gt;Fuller's Creative Connections&lt;/em&gt; will be on display in the Peterson Gallery and Munger Rotunda exhibit cases from October 7, 2021—January 3, 2022.&lt;/p&gt;&#xD;
+&lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;&#xD;
+&lt;p&gt;The exhibition is free and currently restricted to the following current Stanford ID cardholders: students, post-docs, professors (including emeriti), academic staff, fellows, and Stanford visiting scholars. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Tue, 28 Sep 2021 08:53:32 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92480/92480-2.jpg"
+                    type="image/jpeg"
+                    length="279939"/>
       </item>
       <item>
          <title>The Beats Within: Comparing AI &amp; Human Adaptations of “Howl” (HOWLoween 2021)</title>
