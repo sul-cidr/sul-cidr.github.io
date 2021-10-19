@@ -42,19 +42,37 @@
                     length="279939"/>
       </item>
       <item>
-         <title>The Beats Within: Comparing AI &amp; Human Adaptations of “Howl” (HOWLoween 2021)</title>
-         <link>http://events.stanford.edu/events/930/93005</link>
-         <guid>http://events.stanford.edu/events/930/93005</guid>
+         <title>Data Manipulation with Pandas: Digital Tools and Methods for Humanities and Social Sciences</title>
+         <link>http://events.stanford.edu/events/924/92418</link>
+         <guid>http://events.stanford.edu/events/924/92418</guid>
          <description>
-          &lt;div class="stanford-events-date"&gt;Date: Monday, October 18, 2021.  5:00 PM.&lt;/div&gt;
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 19, 2021.  2:00 PM.&lt;/div&gt;
 
-        &lt;div class="stanford-events-location"&gt;Location: Zoom (register in advance at the event page)&lt;/div&gt;
+        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
 
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;In this first event of &lt;a href="https://library.stanford.edu/blogs/stanford-libraries-blog/2021/10/howloween-2021-celebrating-wolf-awareness-week-stanford" target="_blank" rel="noopener"&gt;&lt;strong&gt;HOWLoween 2021: Celebrating Wolf Awareness Week at Stanford Libraries on Oct. 18-22&lt;/strong&gt;&lt;/a&gt;, Quinn Dombrowski (Libraries/DLCL) and Kathleen Smith (Libraries) will look at translations and adaptations of Ginsberg’s most famous poem, including examples of how large machine-learning models “translate” the poem into other authorial voices and different media.&lt;/p&gt;&#xD;
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop teaches basic data manipulation with Python using the Pandas library, and will cover topics such as loading data into and out of a Pandas DataFrame, performing basic data cleaning, preparation, and analysis, and visualizing relevant aspects of a dataset.&lt;/p&gt;&#xD;
+&lt;p&gt;Prerequisites:&lt;/p&gt;&#xD;
+&lt;p&gt;You should be familiar with basic Python syntax and fundamental programming concepts such as variables, functions, and control flow. If you need a refresher, check out A Byte of Python (https://python.swaroopch.com/).&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Mon, 13 Sep 2021 14:32:26 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92418/92418-2.jpg"
+                    type="image/jpeg"
+                    length="60813"/>
+      </item>
+      <item>
+         <title>Howling Lesson (HOWLoween 2021)</title>
+         <link>http://events.stanford.edu/events/930/93006</link>
+         <guid>http://events.stanford.edu/events/930/93006</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 19, 2021.  5:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Koret Park, outside of Green Library&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;In this second event of &lt;a href="https://library.stanford.edu/blogs/stanford-libraries-blog/2021/10/howloween-2021-celebrating-wolf-awareness-week-stanford" target="_blank" rel="noopener"&gt;&lt;strong&gt;HOWLoween 2021: Celebrating Wolf Awareness Week at Stanford Libraries on Oct. 18-22&lt;/strong&gt;&lt;/a&gt;, Stephanie Hunt (Theater and Performance Studies) will teach us how to properly and safely howl using correct vocal techniques. The lesson will be followed by a "Group Howl.” Although wolves are pack animals, physical distancing will be observed, especially for the loudest howls. &lt;/p&gt;&#xD;
 &lt;p&gt;For a complete schedule of events, visit the registration page &lt;a href="https://library.stanford.edu/blogs/stanford-libraries-blog/2021/10/howloween-2021-celebrating-wolf-awareness-week-stanford" target="_blank" rel="noopener"&gt;HERE&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Mon, 11 Oct 2021 16:05:15 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/930/93005/93005-1.jpg"
+         <pubDate>Mon, 11 Oct 2021 16:02:29 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/930/93006/93006-1.jpg"
                     type="image/jpeg"
                     length="36898"/>
       </item>
@@ -100,41 +118,6 @@
                     length="88951"/>
       </item>
       <item>
-         <title>Data Manipulation with Pandas: Digital Tools and Methods for Humanities and Social Sciences</title>
-         <link>http://events.stanford.edu/events/924/92418</link>
-         <guid>http://events.stanford.edu/events/924/92418</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 19, 2021.  2:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop teaches basic data manipulation with Python using the Pandas library, and will cover topics such as loading data into and out of a Pandas DataFrame, performing basic data cleaning, preparation, and analysis, and visualizing relevant aspects of a dataset.&lt;/p&gt;&#xD;
-&lt;p&gt;Prerequisites:&lt;/p&gt;&#xD;
-&lt;p&gt;You should be familiar with basic Python syntax and fundamental programming concepts such as variables, functions, and control flow. If you need a refresher, check out A Byte of Python (https://python.swaroopch.com/).&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Mon, 13 Sep 2021 14:32:26 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92418/92418-2.jpg"
-                    type="image/jpeg"
-                    length="60813"/>
-      </item>
-      <item>
-         <title>Howling Lesson (HOWLoween 2021)</title>
-         <link>http://events.stanford.edu/events/930/93006</link>
-         <guid>http://events.stanford.edu/events/930/93006</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 19, 2021.  5:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Koret Park, outside of Green Library&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;In this second event of &lt;a href="https://library.stanford.edu/blogs/stanford-libraries-blog/2021/10/howloween-2021-celebrating-wolf-awareness-week-stanford" target="_blank" rel="noopener"&gt;&lt;strong&gt;HOWLoween 2021: Celebrating Wolf Awareness Week at Stanford Libraries on Oct. 18-22&lt;/strong&gt;&lt;/a&gt;, Stephanie Hunt (Theater and Performance Studies) will teach us how to properly and safely howl using correct vocal techniques. The lesson will be followed by a "Group Howl.” Although wolves are pack animals, physical distancing will be observed, especially for the loudest howls. &lt;/p&gt;&#xD;
-&lt;p&gt;For a complete schedule of events, visit the registration page &lt;a href="https://library.stanford.edu/blogs/stanford-libraries-blog/2021/10/howloween-2021-celebrating-wolf-awareness-week-stanford" target="_blank" rel="noopener"&gt;HERE&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Mon, 11 Oct 2021 16:02:29 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/930/93006/93006-1.jpg"
-                    type="image/jpeg"
-                    length="36898"/>
-      </item>
-      <item>
          <title>Barry Lawrence Ruderman Conference on Cartography</title>
          <link>http://events.stanford.edu/events/928/92835</link>
          <guid>http://events.stanford.edu/events/928/92835</guid>
@@ -164,7 +147,7 @@
         &lt;div class="stanford-events-description"&gt;&lt;p&gt;In this third event of &lt;a href="https://library.stanford.edu/blogs/stanford-libraries-blog/2021/10/howloween-2021-celebrating-wolf-awareness-week-stanford" target="_blank" rel="noopener"&gt;&lt;strong&gt;HOWLoween 2021: Celebrating Wolf Awareness Week at Stanford Libraries on Oct. 18-22&lt;/strong&gt;&lt;/a&gt;, Gavin Jones (English) will discuss the reception of Steinbeck’s unpublished werewolf novel and what the fascination with wolves tells us about American literature.&lt;/p&gt;&#xD;
 &lt;p&gt;For a complete schedule of events, visit the registration page &lt;a href="https://library.stanford.edu/blogs/stanford-libraries-blog/2021/10/howloween-2021-celebrating-wolf-awareness-week-stanford" target="_blank" rel="noopener"&gt;HERE&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Wed, 13 Oct 2021 10:02:26 PDT</pubDate>
+         <pubDate>Mon, 18 Oct 2021 09:44:45 PDT</pubDate>
          <enclosure url="http://events.stanford.edu/events/930/93007/93007-1.jpg"
                     type="image/jpeg"
                     length="36898"/>
