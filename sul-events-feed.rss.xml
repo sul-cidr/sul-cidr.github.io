@@ -42,6 +42,24 @@
                     length="279939"/>
       </item>
       <item>
+         <title>Data Wrangling with R: Digital Tools and Methods for Humanities and Social Sciences</title>
+         <link>http://events.stanford.edu/events/924/92419</link>
+         <guid>http://events.stanford.edu/events/924/92419</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 26, 2021.  2:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop is for those who know the basics of R and would like to get started working with their research data. We will look into the tools that R provides to manipulate and explore tabular data, including reshaping, summarizing, and plotting. You will learn how to use the tidyverse package, in particular dplyr, tidyr, and ggplot.&lt;/p&gt;&#xD;
+&lt;p&gt;Prerequisites:&lt;/p&gt;&#xD;
+&lt;p&gt;Introduction to R. Please come with R and RStudio installed: &lt;a href="https://cengel.github.io/R-data-wrangling" target="_blank" rel="noopener"&gt;https://cengel.github.io/R-data-wrangling&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Mon, 13 Sep 2021 14:32:32 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92419/92419-2.jpg"
+                    type="image/jpeg"
+                    length="60813"/>
+      </item>
+      <item>
          <title>Say Their Names - No More Names</title>
          <link>http://events.stanford.edu/events/889/88910</link>
          <guid>http://events.stanford.edu/events/889/88910</guid>
@@ -81,24 +99,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Data Wrangling with R: Digital Tools and Methods for Humanities and Social Sciences</title>
-         <link>http://events.stanford.edu/events/924/92419</link>
-         <guid>http://events.stanford.edu/events/924/92419</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, October 26, 2021.  2:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop is for those who know the basics of R and would like to get started working with their research data. We will look into the tools that R provides to manipulate and explore tabular data, including reshaping, summarizing, and plotting. You will learn how to use the tidyverse package, in particular dplyr, tidyr, and ggplot.&lt;/p&gt;&#xD;
-&lt;p&gt;Prerequisites:&lt;/p&gt;&#xD;
-&lt;p&gt;Introduction to R. Please come with R and RStudio installed: &lt;a href="https://cengel.github.io/R-data-wrangling" target="_blank" rel="noopener"&gt;https://cengel.github.io/R-data-wrangling&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Mon, 13 Sep 2021 14:32:32 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92419/92419-2.jpg"
-                    type="image/jpeg"
-                    length="60813"/>
       </item>
       <item>
          <title>QGIS Cartography (Oct 29th)</title>
