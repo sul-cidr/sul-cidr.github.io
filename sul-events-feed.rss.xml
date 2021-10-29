@@ -15,6 +15,30 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
+         <title>QGIS Cartography (Oct 29th)</title>
+         <link>http://events.stanford.edu/events/923/92348</link>
+         <guid>http://events.stanford.edu/events/923/92348</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Friday, October 29, 2021.  9:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Cartographic design and better map making in QGIS. Discussion covers general design concepts with a focus on issues and best practices for GIS mapping. Hands on sessions will cover a narrower set of the most common issues:&lt;/p&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Why design matters in map making?&lt;/li&gt;&#xD;
+&lt;li&gt;Most common GIS map design issues&lt;/li&gt;&#xD;
+&lt;li&gt;Establishing a good Visual Hierarchy&lt;/li&gt;&#xD;
+&lt;li&gt;Methods for simplifying busy or complex data&lt;/li&gt;&#xD;
+&lt;li&gt;How to use (and not abuse) color in maps&lt;/li&gt;&#xD;
+&lt;li&gt;Map layout&lt;/li&gt;&#xD;
+&lt;/ul&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Fri, 03 Sep 2021 09:39:50 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
+                    type="image/jpeg"
+                    length="28030"/>
+      </item>
+      <item>
          <title>Precession: R. Buckminster Fuller's Creative Connections</title>
          <link>http://events.stanford.edu/events/924/92480</link>
          <guid>http://events.stanford.edu/events/924/92480</guid>
@@ -81,30 +105,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>QGIS Cartography (Oct 29th)</title>
-         <link>http://events.stanford.edu/events/923/92348</link>
-         <guid>http://events.stanford.edu/events/923/92348</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, October 29, 2021.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Cartographic design and better map making in QGIS. Discussion covers general design concepts with a focus on issues and best practices for GIS mapping. Hands on sessions will cover a narrower set of the most common issues:&lt;/p&gt;&#xD;
-&lt;ul&gt;&#xD;
-&lt;li&gt;Why design matters in map making?&lt;/li&gt;&#xD;
-&lt;li&gt;Most common GIS map design issues&lt;/li&gt;&#xD;
-&lt;li&gt;Establishing a good Visual Hierarchy&lt;/li&gt;&#xD;
-&lt;li&gt;Methods for simplifying busy or complex data&lt;/li&gt;&#xD;
-&lt;li&gt;How to use (and not abuse) color in maps&lt;/li&gt;&#xD;
-&lt;li&gt;Map layout&lt;/li&gt;&#xD;
-&lt;/ul&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Fri, 03 Sep 2021 09:39:50 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
-                    type="image/jpeg"
-                    length="28030"/>
       </item>
       <item>
          <title>Carpentries @ Stanford - Sequence Data Processing</title>
