@@ -42,21 +42,45 @@
                     length="279939"/>
       </item>
       <item>
-         <title>David Rumsey Map Center Office Hours via Zoom for Consultations - Fall Quarter</title>
-         <link>http://events.stanford.edu/events/932/93211</link>
-         <guid>http://events.stanford.edu/events/932/93211</guid>
+         <title>Carpentries @ Stanford - Sequence Data Processing</title>
+         <link>http://events.stanford.edu/events/924/92493</link>
+         <guid>http://events.stanford.edu/events/924/92493</guid>
          <description>
-          &lt;div class="stanford-events-date"&gt;Date: Ongoing weekly from October 4, 2021 through November 29, 2021.  11:00 AM.&lt;/div&gt;
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, November 2, 2021.  12:00 PM.&lt;/div&gt;
 
-        &lt;div class="stanford-events-location"&gt;Location: Zoom&lt;/div&gt;
+        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
 
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;&lt;strong&gt;For Stanford students, faculty and staff:&lt;/strong&gt; the David Rumsey Map Center is holding online Office Hours via Zoom for consultations. Come join us with any questions you have about our maps, how to find the maps you need, and tools that can help you incorporate maps into your scholarship. &lt;/p&gt;&#xD;
-&lt;p&gt;Office Hours will be held from 11am-12pm every Monday from October 4 until November 30, 2021.&lt;br /&gt;&lt;br /&gt;No registration is required, but you will need to log in with your Stanford credentials.  &lt;a href="https://stanford.zoom.us/j/99732125562?pwd=TkI4QTRDYWVQaWQ4YkhIYk5pVjlodz09" target="_blank" rel="noopener"&gt;Click here to join us.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Tuesday, 2021-11-02 / 12:00 - 15:00 (Pacific Daylight Time)&lt;/p&gt;&#xD;
+&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
+&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
+&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/7RcGVxFsD7yVY2ef6&lt;/p&gt;&#xD;
+&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
+&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
+&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
+&lt;p&gt;Instructors: &lt;br /&gt;Dr. Alma Parada, Librarian (Earth Science)&lt;/p&gt;&#xD;
+&lt;p&gt;Course Description: &lt;br /&gt;This workshop will provide an introduction to processing 16S rRNA gene amplicon sequences and microbial community analysis. We will use command line tools such as cutadapt and trimmomatic, and R based tools such as dada2 and phyloseq, though others will be discussed. Some scripting in a Unix/Shell environment, and use of R, is recommended.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Sun, 31 Oct 2021 13:49:42 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/932/93211/93211-1.jpg"
+         <pubDate>Thu, 23 Sep 2021 15:55:02 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92493/92493-1.jpg"
                     type="image/jpeg"
-                    length="132233"/>
+                    length="17930"/>
+      </item>
+      <item>
+         <title>ProQuest TDM Studio: Digital Tools and Methods for Humanities and Social Sciences</title>
+         <link>http://events.stanford.edu/events/924/92420</link>
+         <guid>http://events.stanford.edu/events/924/92420</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, November 2, 2021.  2:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop is an introduction to ProQuest TDM Studio, ProQuest’s new text and data mining platform. ProQuest TDM Studio allows researchers to mine and computationally analyze large volumes of published content from news, scholarly and other publications provided to the Stanford Libraries via current ProQuest subscriptions. We will demonstrate how to access the data repositories, perform searches, extract and develop a text corpus and how to link the extracts to the computational environment (Jupyter Notebook) to process and analyze the data with R or Python.&lt;/p&gt;&#xD;
+&lt;p&gt;We recommend that you &lt;a href="https://guides.library.stanford.edu/c.php?g=1126780&amp;p=8224052" target="_blank" rel="noopener"&gt;apply for a ProQuest TDM Studio accoun&lt;/a&gt;t in advance of the workshop. Account sign-up is not required to attend the workshop, but there will be time to troubleshoot and answer additional questions about the platform at the end of the session.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Tue, 12 Oct 2021 11:34:06 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/924/92420/92420-2.jpg"
+                    type="image/jpeg"
+                    length="60813"/>
       </item>
       <item>
          <title>Say Their Names - No More Names</title>
@@ -100,47 +124,6 @@
                     length="88951"/>
       </item>
       <item>
-         <title>Carpentries @ Stanford - Sequence Data Processing</title>
-         <link>http://events.stanford.edu/events/924/92493</link>
-         <guid>http://events.stanford.edu/events/924/92493</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, November 2, 2021.  12:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Tuesday, 2021-11-02 / 12:00 - 15:00 (Pacific Daylight Time)&lt;/p&gt;&#xD;
-&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
-&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
-&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/7RcGVxFsD7yVY2ef6&lt;/p&gt;&#xD;
-&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
-&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
-&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
-&lt;p&gt;Instructors: &lt;br /&gt;Dr. Alma Parada, Librarian (Earth Science)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;This workshop will provide an introduction to processing 16S rRNA gene amplicon sequences and microbial community analysis. We will use command line tools such as cutadapt and trimmomatic, and R based tools such as dada2 and phyloseq, though others will be discussed. Some scripting in a Unix/Shell environment, and use of R, is recommended.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Thu, 23 Sep 2021 15:55:02 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92493/92493-1.jpg"
-                    type="image/jpeg"
-                    length="17930"/>
-      </item>
-      <item>
-         <title>ProQuest TDM Studio: Digital Tools and Methods for Humanities and Social Sciences</title>
-         <link>http://events.stanford.edu/events/924/92420</link>
-         <guid>http://events.stanford.edu/events/924/92420</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, November 2, 2021.  2:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop is an introduction to ProQuest TDM Studio, ProQuest’s new text and data mining platform. ProQuest TDM Studio allows researchers to mine and computationally analyze large volumes of published content from news, scholarly and other publications provided to the Stanford Libraries via current ProQuest subscriptions. We will demonstrate how to access the data repositories, perform searches, extract and develop a text corpus and how to link the extracts to the computational environment (Jupyter Notebook) to process and analyze the data with R or Python.&lt;/p&gt;&#xD;
-&lt;p&gt;We recommend that you &lt;a href="https://guides.library.stanford.edu/c.php?g=1126780&amp;p=8224052" target="_blank" rel="noopener"&gt;apply for a ProQuest TDM Studio accoun&lt;/a&gt;t in advance of the workshop. Account sign-up is not required to attend the workshop, but there will be time to troubleshoot and answer additional questions about the platform at the end of the session.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Tue, 12 Oct 2021 11:34:06 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92420/92420-2.jpg"
-                    type="image/jpeg"
-                    length="60813"/>
-      </item>
-      <item>
          <title>Carpentries @ Stanford - R Introduction</title>
          <link>http://events.stanford.edu/events/925/92582</link>
          <guid>http://events.stanford.edu/events/925/92582</guid>
@@ -163,6 +146,23 @@
          <enclosure url="http://events.stanford.edu/events/925/92582/92582-1.jpg"
                     type="image/jpeg"
                     length="17930"/>
+      </item>
+      <item>
+         <title>David Rumsey Map Center Office Hours via Zoom for Consultations - Fall Quarter</title>
+         <link>http://events.stanford.edu/events/932/93211</link>
+         <guid>http://events.stanford.edu/events/932/93211</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Ongoing weekly from October 4, 2021 through November 29, 2021.  11:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Zoom&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;&lt;strong&gt;For Stanford students, faculty and staff:&lt;/strong&gt; the David Rumsey Map Center is holding online Office Hours via Zoom for consultations. Come join us with any questions you have about our maps, how to find the maps you need, and tools that can help you incorporate maps into your scholarship. &lt;/p&gt;&#xD;
+&lt;p&gt;Office Hours will be held from 11am-12pm every Monday from October 4 until November 30, 2021.&lt;br /&gt;&lt;br /&gt;No registration is required, but you will need to log in with your Stanford credentials.  &lt;a href="https://stanford.zoom.us/j/99732125562?pwd=TkI4QTRDYWVQaWQ4YkhIYk5pVjlodz09" target="_blank" rel="noopener"&gt;Click here to join us.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Sun, 31 Oct 2021 13:49:42 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/932/93211/93211-1.jpg"
+                    type="image/jpeg"
+                    length="132233"/>
       </item>
       <item>
          <title>Personal &amp; Professional Websites w/GitHub Pages: Digital Tools and Methods for Hum. and Soc Sciences</title>
@@ -216,10 +216,28 @@
         &lt;div class="stanford-events-description"&gt;&lt;p&gt;The Terman Engineering Library is pleased to have therapy dogs again this quarter. Please join us in the Y2E2 Courtyard on the second Thursday of the month from 3-4pm. Dog and owner teams from Pet Partners will be providing relaxation and stress relief. In the event of rain, look for us under the covered walkway.&lt;/p&gt;&#xD;
 &lt;p&gt;Please note that masks will be required and we will be asking that hands be sanitized before and after petting. Hand sanitizer will be provided. Please join us!&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Fri, 29 Oct 2021 10:13:14 PDT</pubDate>
+         <pubDate>Mon, 01 Nov 2021 14:07:24 PDT</pubDate>
          <enclosure url="http://events.stanford.edu/events/931/93193/80877-2.jpg"
                     type="image/jpeg"
                     length="191079"/>
+      </item>
+      <item>
+         <title>Stacy Levy: Revealing Nature: Art Translates Ecology</title>
+         <link>http://events.stanford.edu/events/932/93223</link>
+         <guid>http://events.stanford.edu/events/932/93223</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Wednesday, November 17, 2021.  10:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Zoom Webinar&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;How can art create ecological legibility and give us an understanding of the natural world in our backyards, parks and urban spaces? Art can create a new modality for comprehending nature— different from science, which has been the traditional translator of nature. This new take on ecology can be more experiential and show change over time. Art has the power to capture nature at all its scales: from the microscopic diatom to the vast weather patterns and to invite people to see and sense and learn about the ways they are connected to the natural world.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;a href="https://www.stacylevy.com/" target="_blank" rel="noopener"&gt;https://www.stacylevy.com/&lt;/a&gt;&lt;/p&gt;&#xD;
+&lt;p&gt;Join us for an engaging talk from Stacy Levy, in celebration of GISDay@Stanford. Stacy will discuss the motivation and process for creating her architectural-scale sculptural geographic installations &amp; "physicalizations" of spatial information and dynamics.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Mon, 01 Nov 2021 13:43:13 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/932/93223/93223-2.jpg"
+                    type="image/jpeg"
+                    length="44846"/>
       </item>
       <item>
          <title>Nainoa Thompson : Polynesian Voyaging Society</title>
