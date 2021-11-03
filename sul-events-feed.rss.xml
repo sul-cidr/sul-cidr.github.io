@@ -42,45 +42,28 @@
                     length="279939"/>
       </item>
       <item>
-         <title>Carpentries @ Stanford - Sequence Data Processing</title>
-         <link>http://events.stanford.edu/events/924/92493</link>
-         <guid>http://events.stanford.edu/events/924/92493</guid>
+         <title>Carpentries @ Stanford - R Introduction</title>
+         <link>http://events.stanford.edu/events/925/92582</link>
+         <guid>http://events.stanford.edu/events/925/92582</guid>
          <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, November 2, 2021.  12:00 PM.&lt;/div&gt;
+          &lt;div class="stanford-events-date"&gt;Date: Wednesday, November 3, 2021.  9:00 AM.&lt;/div&gt;
 
         &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
 
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Tuesday, 2021-11-02 / 12:00 - 15:00 (Pacific Daylight Time)&lt;/p&gt;&#xD;
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Wednesday, November 03, 2021 / 09:00 - 11:00 (Pacific Daylight Time) &lt;/p&gt;&#xD;
 &lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
 &lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
-&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/7RcGVxFsD7yVY2ef6&lt;/p&gt;&#xD;
+&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/PHUsqeZyH8WPzijR6&lt;/p&gt;&#xD;
 &lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
 &lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
 &lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
-&lt;p&gt;Instructors: &lt;br /&gt;Dr. Alma Parada, Librarian (Earth Science)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;This workshop will provide an introduction to processing 16S rRNA gene amplicon sequences and microbial community analysis. We will use command line tools such as cutadapt and trimmomatic, and R based tools such as dada2 and phyloseq, though others will be discussed. Some scripting in a Unix/Shell environment, and use of R, is recommended.&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Lead Instructors: &lt;br /&gt;Dr. Binglan Li, Postdoctoral Research Fellow (Biomedical Data Sciences)&lt;/p&gt;&#xD;
+&lt;p&gt;Course Description: &lt;br /&gt;This workshop is a gentle introduction to the R programming language for those who have never (or barely) programmed in R, and especially to those who are new to programming in general. If you are unfamiliar with working with variables, vectors, and dataframes, then you are a good fit for this class! By the end of this workshop, you will have learned some of what R can do, explored the ecosystem of R and RStudio, modified/extracted data, and discovered resources to continue your learning even after this session.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Thu, 23 Sep 2021 15:55:02 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92493/92493-1.jpg"
+         <pubDate>Mon, 20 Sep 2021 11:48:58 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/925/92582/92582-1.jpg"
                     type="image/jpeg"
                     length="17930"/>
-      </item>
-      <item>
-         <title>ProQuest TDM Studio: Digital Tools and Methods for Humanities and Social Sciences</title>
-         <link>http://events.stanford.edu/events/924/92420</link>
-         <guid>http://events.stanford.edu/events/924/92420</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, November 2, 2021.  2:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop is an introduction to ProQuest TDM Studio, ProQuest’s new text and data mining platform. ProQuest TDM Studio allows researchers to mine and computationally analyze large volumes of published content from news, scholarly and other publications provided to the Stanford Libraries via current ProQuest subscriptions. We will demonstrate how to access the data repositories, perform searches, extract and develop a text corpus and how to link the extracts to the computational environment (Jupyter Notebook) to process and analyze the data with R or Python.&lt;/p&gt;&#xD;
-&lt;p&gt;We recommend that you &lt;a href="https://guides.library.stanford.edu/c.php?g=1126780&amp;p=8224052" target="_blank" rel="noopener"&gt;apply for a ProQuest TDM Studio accoun&lt;/a&gt;t in advance of the workshop. Account sign-up is not required to attend the workshop, but there will be time to troubleshoot and answer additional questions about the platform at the end of the session.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Tue, 12 Oct 2021 11:34:06 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92420/92420-2.jpg"
-                    type="image/jpeg"
-                    length="60813"/>
       </item>
       <item>
          <title>Say Their Names - No More Names</title>
@@ -122,30 +105,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Carpentries @ Stanford - R Introduction</title>
-         <link>http://events.stanford.edu/events/925/92582</link>
-         <guid>http://events.stanford.edu/events/925/92582</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Wednesday, November 3, 2021.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Wednesday, November 03, 2021 / 09:00 - 11:00 (Pacific Daylight Time) &lt;/p&gt;&#xD;
-&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
-&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
-&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/PHUsqeZyH8WPzijR6&lt;/p&gt;&#xD;
-&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
-&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
-&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
-&lt;p&gt;Lead Instructors: &lt;br /&gt;Dr. Binglan Li, Postdoctoral Research Fellow (Biomedical Data Sciences)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;This workshop is a gentle introduction to the R programming language for those who have never (or barely) programmed in R, and especially to those who are new to programming in general. If you are unfamiliar with working with variables, vectors, and dataframes, then you are a good fit for this class! By the end of this workshop, you will have learned some of what R can do, explored the ecosystem of R and RStudio, modified/extracted data, and discovered resources to continue your learning even after this session.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Mon, 20 Sep 2021 11:48:58 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/925/92582/92582-1.jpg"
-                    type="image/jpeg"
-                    length="17930"/>
       </item>
       <item>
          <title>David Rumsey Map Center Office Hours via Zoom for Consultations - Fall Quarter</title>
