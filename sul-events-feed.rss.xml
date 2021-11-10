@@ -42,20 +42,28 @@
                     length="279939"/>
       </item>
       <item>
-         <title>Personal &amp; Professional Websites w/GitHub Pages: Digital Tools and Methods for Hum. and Soc Sciences</title>
-         <link>http://events.stanford.edu/events/924/92422</link>
-         <guid>http://events.stanford.edu/events/924/92422</guid>
+         <title>Carpentries @ Stanford - Unix/Terminal Introduction</title>
+         <link>http://events.stanford.edu/events/925/92581</link>
+         <guid>http://events.stanford.edu/events/925/92581</guid>
          <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, November 9, 2021.  2:00 PM.&lt;/div&gt;
+          &lt;div class="stanford-events-date"&gt;Date: Wednesday, November 10, 2021.  1:00 PM.&lt;/div&gt;
 
-        &lt;div class="stanford-events-location"&gt;Location: Online&lt;/div&gt;
+        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
 
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop will introduce you to using the free GitHub Pages service to host website and web pages online. We will take you through creating a GitHub account and a GitHub Pages site, and then show you how to create simple but useful web pages you can use to create an online presence for yourself or for a project or team. No prior experience is assumed or expected, and no special tools or software is required.&lt;/p&gt;&lt;/div&gt;
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Wednesday, 2021-11-10 / 13:00 - 16:00 (Pacific Standard Time)&lt;/p&gt;&#xD;
+&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
+&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
+&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/nfo73h8KQFr5DaZ87&lt;/p&gt;&#xD;
+&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
+&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
+&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
+&lt;p&gt;Instructors: &lt;br /&gt;Zac Painter, Librarian (Engineering)&lt;br /&gt;Dr. Binglan Li, Postdoctoral Research Fellow (Biomedical Data Sciences)&lt;br /&gt;Kalani Ratnasiri, PhD Candidate (Immunology)&lt;/p&gt;&#xD;
+&lt;p&gt;Course Description: &lt;br /&gt;The command-line shell is one of the oldest and most powerful methods for you to operate a computer. Many people familiar with using a mouse to click on a screen find typing commands into a shell or terminal to be unfamiliar or scary. But, many programs or high performance computing environments require using a command line to connect with them. In this two hour workshop, the bash shell command line environment and its use in connecting to remote computers (SSH) will be introduced. No prior experience is needed.&lt;/p&gt;&lt;/div&gt;
       </description>
-         <pubDate>Tue, 14 Sep 2021 16:31:58 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/924/92422/92422-2.jpg"
+         <pubDate>Mon, 20 Sep 2021 11:44:20 PDT</pubDate>
+         <enclosure url="http://events.stanford.edu/events/925/92581/92581-1.jpg"
                     type="image/jpeg"
-                    length="60813"/>
+                    length="17930"/>
       </item>
       <item>
          <title>Say Their Names - No More Names</title>
@@ -97,30 +105,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Carpentries @ Stanford - Unix/Terminal Introduction</title>
-         <link>http://events.stanford.edu/events/925/92581</link>
-         <guid>http://events.stanford.edu/events/925/92581</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Wednesday, November 10, 2021.  1:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Virtual Zoom (will be distributed to participants)&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Time and Date: &lt;br /&gt;Wednesday, 2021-11-10 / 13:00 - 16:00 (Pacific Standard Time)&lt;/p&gt;&#xD;
-&lt;p&gt;Location: &lt;br /&gt;Virtual via Zoom (will be emailed to participants separately) &lt;/p&gt;&#xD;
-&lt;p&gt;Admission: &lt;br /&gt;Free. Open to Current Stanford Affiliates only. Registration is required, and offered on a first-come first-serve basis. Space is limited, with a waitlist when all slots are full. &lt;/p&gt;&#xD;
-&lt;p&gt;Registration: &lt;br /&gt;Logging into Google using your Stanford email address and sign-on credentials (you may need to sign out of your personal account first in order to do this), sign up here: https://forms.gle/nfo73h8KQFr5DaZ87&lt;/p&gt;&#xD;
-&lt;p&gt;Audience: &lt;br /&gt;Faculty / Staff / Students / Postdocs &lt;/p&gt;&#xD;
-&lt;p&gt;Event Sponsor: &lt;br /&gt;Stanford University Libraries - Carpentries Program&lt;/p&gt;&#xD;
-&lt;p&gt;Event Contact: &lt;br /&gt;Zac Painter, zwp@stanford.edu &lt;/p&gt;&#xD;
-&lt;p&gt;Instructors: &lt;br /&gt;Zac Painter, Librarian (Engineering)&lt;br /&gt;Dr. Binglan Li, Postdoctoral Research Fellow (Biomedical Data Sciences)&lt;br /&gt;Kalani Ratnasiri, PhD Candidate (Immunology)&lt;/p&gt;&#xD;
-&lt;p&gt;Course Description: &lt;br /&gt;The command-line shell is one of the oldest and most powerful methods for you to operate a computer. Many people familiar with using a mouse to click on a screen find typing commands into a shell or terminal to be unfamiliar or scary. But, many programs or high performance computing environments require using a command line to connect with them. In this two hour workshop, the bash shell command line environment and its use in connecting to remote computers (SSH) will be introduced. No prior experience is needed.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Mon, 20 Sep 2021 11:44:20 PDT</pubDate>
-         <enclosure url="http://events.stanford.edu/events/925/92581/92581-1.jpg"
-                    type="image/jpeg"
-                    length="17930"/>
       </item>
       <item>
          <title>Take a break, pet a dog</title>
