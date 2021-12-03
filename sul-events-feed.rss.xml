@@ -99,5 +99,22 @@
                     type="image/jpeg"
                     length="191079"/>
       </item>
+      <item>
+         <title>CIDR Introduction to Python</title>
+         <link>http://events.stanford.edu/events/935/93540</link>
+         <guid>http://events.stanford.edu/events/935/93540</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, January 11, 2022.  2:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Zoom&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop provides an introduction to the Python programming language, covering basic syntax, variables, functions, and control flow. You will learn enough Python to write basic and allow you to explore the rich environment of Python packages available. &lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br /&gt;This workshop will use Jupyter Notebooks. Make sure you have Python Anaconda Distribution 3.6+ installed before the start of the workshop: &lt;a href="https://www.anaconda.com/products/individual" target="_blank" rel="noopener"&gt;https://www.anaconda.com/products/individual&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Thu, 02 Dec 2021 14:15:59 PST</pubDate>
+         <enclosure url="http://events.stanford.edu/events/935/93540/93540-1.jpg"
+                    type="image/jpeg"
+                    length="60813"/>
+      </item>
    </channel>
 </rss>
