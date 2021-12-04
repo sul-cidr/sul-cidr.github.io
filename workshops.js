@@ -25,7 +25,7 @@ fetch(RSS_URL)
       .filter((el) =>
         el
           .querySelector("title")
-          .innerHTML.includes("Digital Tools and Methods"),
+          .innerHTML.includes("CIDR"),
       )
       .forEach((el) => {
         html += `
