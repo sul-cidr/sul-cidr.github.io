@@ -15,6 +15,23 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
+         <title>CIDR Introduction to Python</title>
+         <link>http://events.stanford.edu/events/935/93540</link>
+         <guid>http://events.stanford.edu/events/935/93540</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, January 11, 2022.  2:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Zoom&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop provides an introduction to the Python programming language, covering basic syntax, variables, functions, and control flow. You will learn enough Python to write basic and allow you to explore the rich environment of Python packages available. &lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br /&gt;This workshop will use Jupyter Notebooks. Make sure you have Python Anaconda Distribution 3.6+ installed before the start of the workshop: &lt;a href="https://www.anaconda.com/products/individual" target="_blank" rel="noopener"&gt;https://www.anaconda.com/products/individual&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Fri, 03 Dec 2021 18:17:38 PST</pubDate>
+         <enclosure url="http://events.stanford.edu/events/935/93540/93540-1.jpg"
+                    type="image/jpeg"
+                    length="60813"/>
+      </item>
+      <item>
          <title>Say Their Names - No More Names</title>
          <link>http://events.stanford.edu/events/889/88910</link>
          <guid>http://events.stanford.edu/events/889/88910</guid>
@@ -56,23 +73,6 @@
                     length="88951"/>
       </item>
       <item>
-         <title>CIDR Introduction to Python</title>
-         <link>http://events.stanford.edu/events/935/93540</link>
-         <guid>http://events.stanford.edu/events/935/93540</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, January 11, 2022.  2:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Zoom&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop provides an introduction to the Python programming language, covering basic syntax, variables, functions, and control flow. You will learn enough Python to write basic and allow you to explore the rich environment of Python packages available. &lt;/p&gt;&#xD;
-&lt;p&gt;&lt;br /&gt;This workshop will use Jupyter Notebooks. Make sure you have Python Anaconda Distribution 3.6+ installed before the start of the workshop: &lt;a href="https://www.anaconda.com/products/individual" target="_blank" rel="noopener"&gt;https://www.anaconda.com/products/individual&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Fri, 03 Dec 2021 18:17:38 PST</pubDate>
-         <enclosure url="http://events.stanford.edu/events/935/93540/93540-1.jpg"
-                    type="image/jpeg"
-                    length="60813"/>
-      </item>
-      <item>
          <title>Spruce Up Your Research Skills: Making the Most of Stanford Libraries</title>
          <link>http://events.stanford.edu/events/937/93724</link>
          <guid>http://events.stanford.edu/events/937/93724</guid>
@@ -86,6 +86,30 @@
 &lt;p&gt;To register, fill out the &lt;a href="https://forms.gle/6t5Jxnf9fTYaJHu3A" target="_blank" rel="noopener"&gt;Google form&lt;/a&gt;. Registrants will be sent Zoom link.&lt;/p&gt;&lt;/div&gt;
       </description>
          <pubDate>Mon, 13 Dec 2021 21:40:28 PST</pubDate>
+         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
+                    type="image/jpeg"
+                    length="28030"/>
+      </item>
+      <item>
+         <title>Introduction to QGIS - online workshop</title>
+         <link>http://events.stanford.edu/events/939/93912</link>
+         <guid>http://events.stanford.edu/events/939/93912</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Friday, January 14, 2022.  9:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory workshop will focus on the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics covered:&lt;/p&gt;&#xD;
+&lt;p&gt;What is a GIS?&lt;/p&gt;&#xD;
+&lt;p&gt;Spatial Data Models and Formats&lt;/p&gt;&#xD;
+&lt;p&gt;Projections and Coordinate Systems&lt;/p&gt;&#xD;
+&lt;p&gt;Basic Data Management&lt;/p&gt;&#xD;
+&lt;p&gt;The QGIS User Interface&lt;/p&gt;&#xD;
+&lt;p&gt;Basic Analysis and Map Construction&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;this workshop or prior GIS experience are required for most other SGC workshops. Must be a Stanford affiliate to attend.&lt;/p&gt;&#xD;
+&lt;p&gt;See the More Info link for registration and workshop landing page URL.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Mon, 10 Jan 2022 16:13:52 PST</pubDate>
          <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
                     type="image/jpeg"
                     length="28030"/>
@@ -111,6 +135,27 @@
          <enclosure url="http://events.stanford.edu/events/935/93558/93558-1.jpg"
                     type="image/jpeg"
                     length="60813"/>
+      </item>
+      <item>
+         <title>Georeferencing in QGIS - online workshop</title>
+         <link>http://events.stanford.edu/events/939/93924</link>
+         <guid>http://events.stanford.edu/events/939/93924</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Friday, January 21, 2022.  9:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop covers the basics of georeferencing static images in a GIS using the open source GIS package QGIS. Georeferenced images or maps can be used as contextual layers in a GIS project, or as part of a data extraction process to convert static map data into digital vector data.&lt;/p&gt;&#xD;
+&lt;p&gt;Setting up for best results&lt;/p&gt;&#xD;
+&lt;p&gt;Georeferencing from a set of known map coordinates&lt;/p&gt;&#xD;
+&lt;p&gt;Georeferencing by linking to a basemap&lt;/p&gt;&#xD;
+&lt;p&gt;Digitizing new GIS features from a georeferenced maps&lt;/p&gt;&#xD;
+&lt;p&gt;See the More Info link for registration and workshop landing page URL.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Mon, 10 Jan 2022 22:58:21 PST</pubDate>
+         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
+                    type="image/jpeg"
+                    length="28030"/>
       </item>
       <item>
          <title>CIDR Python Visualization</title>
