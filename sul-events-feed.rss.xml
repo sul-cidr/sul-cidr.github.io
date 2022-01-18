@@ -15,6 +15,28 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
+         <title>CIDR Introduction to R</title>
+         <link>http://events.stanford.edu/events/935/93558</link>
+         <guid>http://events.stanford.edu/events/935/93558</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Tuesday, January 18, 2022.  2:00 PM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: Zoom&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/p&gt;&#xD;
+&lt;p&gt;Prerequisites: None. Please come with R and RStudio installed: &lt;/p&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li aria-level="1"&gt;Materials: &lt;a href="https://cengel.github.io/R-intro" target="_blank" data-cke-saved-href="https://cengel.github.io/R-intro" rel="noopener"&gt;https://cengel.github.io/R-intro&lt;/a&gt; &lt;/li&gt;&#xD;
+&lt;li aria-level="1"&gt;Download R:&lt;a href="https://cloud.r-project.org/" target="_blank" data-cke-saved-href="https://cloud.r-project.org/" rel="noopener"&gt;https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;&#xD;
+&lt;li aria-level="1"&gt;Download RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" target="_blank" data-cke-saved-href="https://www.rstudio.com/products/rstudio/download/" rel="noopener"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;&#xD;
+&lt;/ul&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Fri, 03 Dec 2021 18:17:50 PST</pubDate>
+         <enclosure url="http://events.stanford.edu/events/935/93558/93558-1.jpg"
+                    type="image/jpeg"
+                    length="60813"/>
+      </item>
+      <item>
          <title>Say Their Names - No More Names</title>
          <link>http://events.stanford.edu/events/889/88910</link>
          <guid>http://events.stanford.edu/events/889/88910</guid>
@@ -54,28 +76,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>CIDR Introduction to R</title>
-         <link>http://events.stanford.edu/events/935/93558</link>
-         <guid>http://events.stanford.edu/events/935/93558</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Tuesday, January 18, 2022.  2:00 PM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: Zoom&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/p&gt;&#xD;
-&lt;p&gt;Prerequisites: None. Please come with R and RStudio installed: &lt;/p&gt;&#xD;
-&lt;ul&gt;&#xD;
-&lt;li aria-level="1"&gt;Materials: &lt;a href="https://cengel.github.io/R-intro" target="_blank" data-cke-saved-href="https://cengel.github.io/R-intro" rel="noopener"&gt;https://cengel.github.io/R-intro&lt;/a&gt; &lt;/li&gt;&#xD;
-&lt;li aria-level="1"&gt;Download R:&lt;a href="https://cloud.r-project.org/" target="_blank" data-cke-saved-href="https://cloud.r-project.org/" rel="noopener"&gt;https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;&#xD;
-&lt;li aria-level="1"&gt;Download RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" target="_blank" data-cke-saved-href="https://www.rstudio.com/products/rstudio/download/" rel="noopener"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;&#xD;
-&lt;/ul&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Fri, 03 Dec 2021 18:17:50 PST</pubDate>
-         <enclosure url="http://events.stanford.edu/events/935/93558/93558-1.jpg"
-                    type="image/jpeg"
-                    length="60813"/>
       </item>
       <item>
          <title>Georeferencing in QGIS - online workshop</title>
