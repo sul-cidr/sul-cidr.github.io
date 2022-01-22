@@ -15,27 +15,6 @@
          <link>http://events.stanford.edu</link>
       </image>
       <item>
-         <title>Georeferencing in QGIS - online workshop</title>
-         <link>http://events.stanford.edu/events/939/93924</link>
-         <guid>http://events.stanford.edu/events/939/93924</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, January 21, 2022.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;This workshop covers the basics of georeferencing static images in a GIS using the open source GIS package QGIS. Georeferenced images or maps can be used as contextual layers in a GIS project, or as part of a data extraction process to convert static map data into digital vector data.&lt;/p&gt;&#xD;
-&lt;p&gt;Setting up for best results&lt;/p&gt;&#xD;
-&lt;p&gt;Georeferencing from a set of known map coordinates&lt;/p&gt;&#xD;
-&lt;p&gt;Georeferencing by linking to a basemap&lt;/p&gt;&#xD;
-&lt;p&gt;Digitizing new GIS features from a georeferenced maps&lt;/p&gt;&#xD;
-&lt;p&gt;See the More Info link for registration and workshop landing page URL.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Mon, 10 Jan 2022 22:58:21 PST</pubDate>
-         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
-                    type="image/jpeg"
-                    length="28030"/>
-      </item>
-      <item>
          <title>Say Their Names - No More Names</title>
          <link>http://events.stanford.edu/events/889/88910</link>
          <guid>http://events.stanford.edu/events/889/88910</guid>
