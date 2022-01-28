@@ -42,6 +42,29 @@
                     length="279939"/>
       </item>
       <item>
+         <title>Google Earth Engine 101 - Online Workshop</title>
+         <link>http://events.stanford.edu/events/940/94065</link>
+         <guid>http://events.stanford.edu/events/940/94065</guid>
+         <description>
+          &lt;div class="stanford-events-date"&gt;Date: Friday, January 28, 2022.  9:00 AM.&lt;/div&gt;
+
+        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
+
+        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform.&lt;/p&gt;&#xD;
+&lt;p&gt;The purpose of Earth Engine is to:&lt;/p&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Provide an interactive platform for geospatial algorithm development at scale&lt;/li&gt;&#xD;
+&lt;li&gt;Enable high-impact, data-driven science&lt;/li&gt;&#xD;
+&lt;li&gt;Make substantive progress on global challenges that involve large geospatial datasets&lt;/li&gt;&#xD;
+&lt;/ul&gt;&#xD;
+&lt;p&gt;Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.&lt;/p&gt;&lt;/div&gt;
+      </description>
+         <pubDate>Mon, 24 Jan 2022 15:25:45 PST</pubDate>
+         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
+                    type="image/jpeg"
+                    length="28030"/>
+      </item>
+      <item>
          <title>Say Their Names - No More Names</title>
          <link>http://events.stanford.edu/events/889/88910</link>
          <guid>http://events.stanford.edu/events/889/88910</guid>
@@ -81,29 +104,6 @@
          <enclosure url="http://events.stanford.edu/events/924/92483/92483-1.jpg"
                     type="image/jpeg"
                     length="88951"/>
-      </item>
-      <item>
-         <title>Google Earth Engine 101 - Online Workshop</title>
-         <link>http://events.stanford.edu/events/940/94065</link>
-         <guid>http://events.stanford.edu/events/940/94065</guid>
-         <description>
-          &lt;div class="stanford-events-date"&gt;Date: Friday, January 28, 2022.  9:00 AM.&lt;/div&gt;
-
-        &lt;div class="stanford-events-location"&gt;Location: virtual/online&lt;/div&gt;
-
-        &lt;div class="stanford-events-description"&gt;&lt;p&gt;Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform.&lt;/p&gt;&#xD;
-&lt;p&gt;The purpose of Earth Engine is to:&lt;/p&gt;&#xD;
-&lt;ul&gt;&#xD;
-&lt;li&gt;Provide an interactive platform for geospatial algorithm development at scale&lt;/li&gt;&#xD;
-&lt;li&gt;Enable high-impact, data-driven science&lt;/li&gt;&#xD;
-&lt;li&gt;Make substantive progress on global challenges that involve large geospatial datasets&lt;/li&gt;&#xD;
-&lt;/ul&gt;&#xD;
-&lt;p&gt;Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.&lt;/p&gt;&lt;/div&gt;
-      </description>
-         <pubDate>Mon, 24 Jan 2022 15:25:45 PST</pubDate>
-         <enclosure url="http://events.stanford.edu/about/defaultimages/default_image.jpg"
-                    type="image/jpeg"
-                    length="28030"/>
       </item>
       <item>
          <title>CIDR R Visualization</title>
