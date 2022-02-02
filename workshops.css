@@ -1,17 +1,19 @@
-h2 {
-  font-size: min(1.5em, 6vw);
-  text-shadow: 1px 1px 1px white;
-}
-
 #workshops {
   margin: 0 auto;
 }
 
+#workshops h2 {
+  column-span: all;
+  font-size: min(1.5em, 6vw);
+  text-shadow: 1px 1px 1px white;
+}
+
 .workshop {
+  align-items: flex-start;
   background: white;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
   box-sizing: border-box;
-  display: inline-block;
+  display: inline-flex;
   margin: 0.5em 0;
   overflow: hidden;
   padding: 1em;
@@ -25,12 +27,26 @@ h2 {
   width: 100px;
 }
 
+.workshop > div {
+  flex-grow: 1;
+  margin-top: 1em;
+}
+
 .workshop h3 {
   margin-top: 0;
   margin-bottom: 0.5em;
 }
+.workshop details {
+  margin-top: 0.5em;
+}
 
-.stanford-events-description {
+.workshop details > summary {
+  color: cadetblue;
+  cursor: pointer;
+  list-style: none;
+  margin-bottom: 1em;
+}
+.workshop details > summary::-webkit-details-marker {
   display: none;
 }
 
@@ -40,15 +56,11 @@ h2 {
     margin: 0 1em;
   }
   .workshop img {
-    float: left;
     margin: 0 1em 0 0;
     width: 150px;
   }
-  .workshop h3,
-  .workshop div {
-    margin-left: calc(150px + 2rem);
-  }
 }
+
 @media (min-width: 1025px) {
   #workshops {
     columns: 2;
