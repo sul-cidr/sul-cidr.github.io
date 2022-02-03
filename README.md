@@ -4,4 +4,6 @@
 
 ### Feb. 2022 Update
 
-Updated to use the RSS feed from the new events.stanford.edu site.  This feed is inferior in many ways, but is at least served with appropriate CORS headers.  The GitHub Actions workflow has been accordingly disabled, but is left in the repo for posterity.
+Updated to use the RSS feed from the new events.stanford.edu site.  This feed is inferior in many ways, ~but is at least served with appropriate CORS headers.  The GitHub Actions workflow has been accordingly disabled, but is left in the repo for posterity.~
+
+Further update: the RSS feed seems to have the needed CORS headers **some of the time**, but not always.  Unclear why (load balancer?  caching?) but the Actions workflow has been reinstated and updated to fetch the new feed.
