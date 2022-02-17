@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch Library Events RSS Feed
         run: |
-          wget -O sul-events-feed.rss.xml https://events.stanford.edu/widget/view?schools=stanford&departments=stanford_university_libraries&days=90&num=50&html_descriptions=1&hide_past=1&format=rss
+          wget -O sul-events-feed.rss.xml "https://events.stanford.edu/widget/view?schools=stanford&departments=stanford_university_libraries&days=90&num=50&html_descriptions=1&hide_past=1&format=rss"
           git config user.email "simonjwiles@gmail.com"
           git config user.name "Simon Wiles"
           git add .
@@ -22,5 +22,3 @@ jobs:
             git commit -m "Update RSS feed at $(date +"%Y-%m-%d %H:%M:%S %Z")"
             git push
           fi
-      - name: Setup tmate session
-        uses: mxschmitt/action-tmate@v3
