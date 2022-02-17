@@ -22,3 +22,5 @@ jobs:
             git commit -m "Update RSS feed at $(date +"%Y-%m-%d %H:%M:%S %Z")"
             git push
           fi
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
