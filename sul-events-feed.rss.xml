@@ -7,7 +7,7 @@
     <item>
       <title>Paper Trails: The Art of Processing Archival Collections at Green Library, East Wing</title>
       <description>&lt;p&gt;Every archival collection that Stanford Libraries acquires must be processed before it can be made available for research. The expertise, thought, and care that goes into processing archival collections often occurs behind-the-scenes. Using the John Perry Barlow papers as a throughline, this exhibit explores the art of processing archival collections. &lt;/p&gt;</description>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/paper_trails_the_art_of_processing_archival_collections</link>
       <media:content url="https://localist-images.azureedge.net/photos/40861265484890/huge/796758a62e11f9aaae17dc593730c2e172be4fbe.jpg" medium="image" type="image/jpeg" height="425" width="425" isDefault="true" fileSize="109634"/>
       <category>Exhibition</category>
@@ -45,12 +45,28 @@
       <category>Tour</category>
     </item>
     <item>
+      <title>Library Tour for New Graduate Student Orientation (NGSO) at Green Library, Bing Wing Entrance</title>
+      <description>&lt;p&gt;Stanford University Libraries welcomes new graduate students to a tour of Green Library and conversation with current graduate students about using library resources. The tour will start at the Bing Wing entrance, which is across from the Quad. &lt;/p&gt;</description>
+      <pubDate>Tue, 20 Sep 2022 15:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/library_tour_for_new_graduate_student_orientation_ngso</link>
+      <media:content url="https://localist-images.azureedge.net/photos/39304104088338/huge/26e9bb42010b1d0296588c942c6772864607d0cb.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="88463"/>
+      <category>Tour</category>
+    </item>
+    <item>
       <title>TAML Bootcamp Part 3/6 at Hybrid</title>
       <description>&lt;p&gt;&lt;strong&gt;This is a hybrid event. Please register for each part separately. &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;TAML Bootcamp Part 3 / 6&lt;/p&gt;  &lt;p&gt;In Part 3, you will learn basic machine learning terminology and practice its application through:&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;An ordinary least squares (OLS) regression "by hand" example&lt;/li&gt;  &lt;li&gt;A logicstic regression example&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;You will also learn how to prepare text for use in machine learning algorithms through use of:&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;Document encoding&lt;/li&gt;  &lt;li&gt;Dotument-term matrix&lt;/li&gt;  &lt;li&gt;Bag of words model&lt;/li&gt;  &lt;li&gt;Term-frequency inverse document frequency (TF-IDF)&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Workshop materials:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/fall2022/6_Core_concepts_vocabularies.html" target="_blank" data-cke-saved-href="https://eastbayev.github.io/SSDS-TAML/fall2022/6_Core_concepts_vocabularies.html" rel="noopener"&gt;https://eastbayev.github.io/SSDS-TAML/fall2022/6_Core_concepts_vocabularies.html&lt;/a&gt;&lt;/li&gt;  &lt;/ul&gt;</description>
       <pubDate>Wed, 21 Sep 2022 10:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/taml_bootcamp_part_36</link>
       <media:content url="https://localist-images.azureedge.net/photos/40932248915958/huge/edcf87a70c5a8ded1d957a153fea448fceca1832.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="45357"/>
       <category>Class/Seminar</category>
+    </item>
+    <item>
+      <title>Library Tour for New Graduate Student Orientation (NGSO) at Green Library, Bing Wing Entrance</title>
+      <description>&lt;p&gt;Stanford University Libraries welcomes new graduate students to a tour of Green Library and conversation with current graduate students about using library resources. The tour will start at the Bing Wing entrance, which is across from the Quad. &lt;/p&gt;</description>
+      <pubDate>Wed, 21 Sep 2022 11:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/library_tour_for_new_graduate_student_orientation_ngso_9372</link>
+      <media:content url="https://localist-images.azureedge.net/photos/39498400021541/huge/838d0a0269376942a2c7adf2baca07956eb392d7.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="123981"/>
+      <category>Tour</category>
     </item>
     <item>
       <title>TAML Bootcamp Part 4/6 at Hybrid</title>
@@ -210,6 +226,14 @@ No previous experience with spatial data is necessary.&lt;br /&gt;
       <category>Class/Seminar</category>
     </item>
     <item>
+      <title>CIDR Python Data Wrangling at Hybrid</title>
+      <description>&lt;p&gt;This workshop teaches basic data manipulation with Python using the Pandas library, and will cover topics such as loading data into and out of a Pandas DataFrame, performing basic data cleaning, preparation, and analysis, and visualizing relevant aspects of a dataset.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This is a Hybrid workshop! Upon registering you can select to attend in-person (Velma Denning Room, 120F Green Library) or via Zoom. &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;CIDR Introduction to Python (or similar knowledge). (If you need a refresher, check out A Byte of Python (&lt;a href="https://python.swaroopch.com/" target="_blank" data-cke-saved-href="https://python.swaroopch.com/" rel="noopener"&gt;https://python.swaroopch.com/&lt;/a&gt;).&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Workshop materials:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python" target="_blank" data-cke-saved-href="https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python" rel="noopener"&gt;https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python&lt;/a&gt;&lt;/li&gt;  &lt;/ul&gt;</description>
+      <pubDate>Mon, 10 Oct 2022 14:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_python_data_wrangling_8825</link>
+      <media:content url="https://localist-images.azureedge.net/photos/40932250516570/huge/4d275d9c657eed9acee248c0b43a6ffecfc8dbca.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="45357"/>
+      <category>Class/Seminar</category>
+    </item>
+    <item>
       <title>Photovoice: A method to amplify communities' voice through participatory action research [Gear-Up] at Sapp Center for Science Teaching and Learning</title>
       <description>&lt;p&gt;Participatory Action Research (PAR) is a study method that allows researchers and participants to look into specific topics or problems through an iterative cycle of research, dialogue, action, and reflection, using a range of qualitative and quantitative techniques. At the core of PAR resides the recognition of the value of local and traditional knowledge through direct involvement of community members in the research process.&lt;/p&gt;  &lt;p&gt;Photovoice is a participatory photography methodology that uses participatory photography to empower participants to reflect on their personal experiences around a research question and share their perspectives through storytelling and focus groups. In this sense, participants act as co-researchers by interpreting the meaning behind their stories for the researchers. providing a participatory framework for the elicitation and representation of social and cultural knowledge.&lt;/p&gt;  &lt;p&gt;In this workshop, participants will learn about how to design and prepare a photovoice project, as well as to analyze related qualitative and quantitative data related using a mixed-methods software, using environmental justice data.&lt;/p&gt;  &lt;p&gt;Instructor: &lt;a href="https://profiles.stanford.edu/maria-carrera-zamanillo" target="_blank" rel="noopener"&gt;Isabel Carrera Zamanillo&lt;/a&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This is a hybrid workshop. Upon registering you can select to attend in-person at the Li &amp; Ma Science Library in the SAPP Center or via Zoom. &lt;/strong&gt;&lt;/p&gt;</description>
       <pubDate>Mon, 10 Oct 2022 15:15:00 -0700</pubDate>
@@ -238,22 +262,14 @@ No previous experience with spatial data is necessary.&lt;br /&gt;
       <category>Social Event/Reception</category>
     </item>
     <item>
-      <title>Panel Disussion: New book release, "Comrade Sisters: Women of the Black Panther Party" at Green Library, Bing Wing</title>
+      <title>Panel Discussion: New book release, "Comrade Sisters: Women of the Black Panther Party" at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Many of us have heard these three words: Black Panther Party.&lt;/p&gt;  &lt;p&gt;Some know the Party's history as a movement for the social, political, economic, and spiritual upliftment of Black and indigenous people of color – but to this day, few know the story of the backbone of the Party: the women. It's estimated that six out of ten Panther Party members were women. While these remarkable women of all ages and diverse backgrounds were regularly making headlines agitating, protesting, and organizing, these same women were building communities and enacting social justice, providing food, housing, education, healthcare, and more to the people. &lt;em&gt;&lt;a href="https://www.marcusbooks.com/book/9781788841757" target="_blank" rel="noopener"&gt;Comrade Sisters&lt;/a&gt; &lt;/em&gt;is their story.&lt;/p&gt;  &lt;p&gt;Please join Stanford Libraries as we host what is sure to be an exciting discussion featuring co-authors Stephen Shames and Ericka Huggins of the newly released book, &lt;a href="https://www.marcusbooks.com/book/9781788841757" target="_blank" rel="noopener"&gt;&lt;em&gt;Comrade Sisters: Women of the Black Panther Party&lt;/em&gt;&lt;/a&gt;. Mr. Shames and Ms. Huggins will be joined by two other former Black Panther Party members, M. Gayle Asali Dickson and Rosita Thomas for the discussion, which will take place in Green Library's Bender room, 5th floor.&lt;/p&gt;  &lt;p&gt;The panel discussion will begin at 4:30 pm following the &lt;a href="https://events.stanford.edu/event/justice_equity_diversity_and_inclusion_jedi_fair_8413" target="_blank" rel="noopener"&gt;JEDI (Justice, Equity, Diversity, and Inclusion) Fair&lt;/a&gt;, (2 – 4 pm).&lt;/p&gt;  &lt;p&gt;&lt;a href="https://forms.gle/XqMme5sL3GAzdGaXA" target="_blank" rel="noopener"&gt;RSVPs&lt;/a&gt; for the Panel Discussion is appreciated.&lt;/p&gt;  &lt;p&gt;Book sales and signing will follow.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;__________&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Speakers:&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Ericka Huggins&lt;/strong&gt; is an activist, former political prisoner, and leader in the Black Panther Party. She has devoted her life to the equitable treatment of all human beings, beyond the boundaries of race, age, culture, class, gender, sexual orientation, ability, and status associated with citizenship. For the past 40 years, she has lectured across the country and internationally. She spent 14 years in the Black Panther Party, and eight years as Director of the renowned Oakland Community School (1973-1981).&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Stephen Shames &lt;/strong&gt;has authored 15 monographs, and his images are in the permanent collections of 40 museums and foundations. His work is dedicated to promoting social change and sharing the stories of those who are frequently overlooked by society. His two previous Panther books are Power to the People: The World of the Black Panthers by Stephen Shames and Bobby Seale (Abrams,2016) and The Black Panthers (Aperture, 2006).&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;M. Gayle Asali Dickson&lt;/strong&gt; is an ordained minister and served as Pastor of the South Berkeley Congregational Church (SBCC), United Church of Christ, in Berkeley, CA from 1998 to 2006. Prior to serving as pastor of SBCC, Gayle Asali was a graphic artist for the Black Panther Party (BPP) Newspaper and drew for its back pages under the name Asali. She also served as a preschool teacher at its Oakland Community School using art as a tool to teach cognitive skills to preschoolers. She gives of her time whenever possible to the wider community. &lt;em&gt;&lt;a href="https://drive.google.com/file/d/1BI0HssRL8tk5BksnLJKDRHNcL-nB88V-/view?usp=sharing" target="_blank" rel="noopener"&gt;Read more&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 11 Oct 2022 16:30:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/panel_disussion_new_book_release_comrade_sisters_women_of_the_black_panther_party</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/40870123249674/huge/83b16d3f1b77786cc8e819574c9e6e47872f7f42.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="250070"/>
+      <media:content url="https://localist-images.azureedge.net/photos/40870123249674/huge/6dbd0e8a2f54a55a85774b30aa6beb6975af01ab.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="250070"/>
       <category>Social Event/Reception</category>
-    </item>
-    <item>
-      <title>CIDR Python Data Wrangling at Hybrid</title>
-      <description>&lt;p&gt;This workshop teaches basic data manipulation with Python using the Pandas library, and will cover topics such as loading data into and out of a Pandas DataFrame, performing basic data cleaning, preparation, and analysis, and visualizing relevant aspects of a dataset.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This is a Hybrid workshop! Upon registering you can select to attend in-person (Velma Denning Room, 120F Green Library) or via Zoom. &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;CIDR Introduction to Python (or similar knowledge). (If you need a refresher, check out A Byte of Python (&lt;a href="https://python.swaroopch.com/" target="_blank" data-cke-saved-href="https://python.swaroopch.com/" rel="noopener"&gt;https://python.swaroopch.com/&lt;/a&gt;).&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Workshop materials:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python" target="_blank" data-cke-saved-href="https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python" rel="noopener"&gt;https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python&lt;/a&gt;&lt;/li&gt;  &lt;/ul&gt;</description>
-      <pubDate>Wed, 12 Oct 2022 09:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/cidr_python_data_wrangling_8825</link>
-      <media:content url="https://localist-images.azureedge.net/photos/40932250516570/huge/4d275d9c657eed9acee248c0b43a6ffecfc8dbca.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="45357"/>
-      <category>Class/Seminar</category>
     </item>
     <item>
       <title>Understanding Messy Time Series Data [Gear-Up] at Sapp Center for Science Teaching and Learning</title>
