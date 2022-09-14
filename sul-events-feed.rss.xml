@@ -7,7 +7,7 @@
     <item>
       <title>Paper Trails: The Art of Processing Archival Collections at Green Library, East Wing</title>
       <description>&lt;p&gt;Every archival collection that Stanford Libraries acquires must be processed before it can be made available for research. The expertise, thought, and care that goes into processing archival collections often occurs behind-the-scenes. Using the John Perry Barlow papers as a throughline, this exhibit explores the art of processing archival collections. &lt;/p&gt;</description>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/paper_trails_the_art_of_processing_archival_collections</link>
       <media:content url="https://localist-images.azureedge.net/photos/40861265484890/huge/796758a62e11f9aaae17dc593730c2e172be4fbe.jpg" medium="image" type="image/jpeg" height="425" width="425" isDefault="true" fileSize="109634"/>
       <category>Exhibition</category>
@@ -126,7 +126,7 @@ No previous experience with spatial data is necessary.&lt;br /&gt;
     </item>
     <item>
       <title>Signing Ceremony for the Establishment of the Taiwan Resource Center for Chinese Studies at Lathrop Library</title>
-      <description>&lt;p&gt;Please join us for a signing ceremony to commemmorate the establishment of the Taiwan Resource Center for Chinese Studies (TRCCS). University Librarian Michael A. Keller and Director-General Shu-hsien Tseng of the National Central Library of Taiwan will offer some remarks on the significance of the TRCCS and formally sign the agreement between Stanford Libraries and the National Central Library inaugurating the center. A short reception will follow, with tea and light snacks provided.&lt;/p&gt;  &lt;p&gt;The Taiwan Resource Center for Chinese Studies is a cooperative project intended to promote international exchange in the fields of Chinese studies and Taiwan studies. Through this project, the National Central Library of Taiwan (NCL) has partnered with over forty libraries at worldwide research institutions, including Stanford University. As part of the cooperative agreement, the NCL will provide TRCCS partner institutions with annual donations of print and audio-visual materials published in Taiwan as well as IP-based access to shared e-resources. These resources will be displayed in a location at Stanford's East Asia Library designated with a plaque featuring the logo of the Taiwan Resource Center for Chinese Studies in English and Chinese.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Please join us for a signing ceremony to commemmorate the establishment of the Taiwan Resource Center for Chinese Studies (TRCCS). University Librarian Michael A. Keller and Director-General Shu-hsien Tseng of the National Central Library of Taiwan will offer some remarks on the significance of the TRCCS and formally sign the agreement between Stanford Libraries and the National Central Library inaugurating the center. A short reception will follow, with tea and light snacks provided.&lt;/p&gt;  &lt;p&gt;The Taiwan Resource Center for Chinese Studies is a cooperative project intended to promote international exchange in the fields of Chinese studies and Taiwan studies. Through this project, the National Central Library of Taiwan (NCL) has partnered with over forty libraries at worldwide research institutions, including Stanford University. As part of the cooperative agreement, the NCL will provide TRCCS partner institutions with annual donations of print and audio-visual materials published in Taiwan as well as IP-based access to shared e-resources. These resources will become part of Stanford's East Asia Library general collection, designated as a distinct collection in the library online catalog and website.&lt;/p&gt;</description>
       <pubDate>Thu, 22 Sep 2022 13:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/signing_ceremony_for_the_establishment_of_the_taiwan_resource_center_for_chinese_studies</link>
       <geo:lat>37.429468</geo:lat>
@@ -181,11 +181,65 @@ No previous experience with spatial data is necessary.&lt;br /&gt;
       <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
+      <title>Introduction to QGIS at Branner Earth Sciences Library</title>
+      <description>&lt;p&gt;This introductory workshop will focus on the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics covered:&lt;/p&gt;
+
+&lt;p&gt;What is a GIS?&lt;/p&gt;
+
+&lt;p&gt;Spatial Data Models and Formats&lt;/p&gt;
+
+&lt;p&gt;Projections and Coordinate Systems&lt;/p&gt;
+
+&lt;p&gt;Basic Data Management&lt;/p&gt;
+
+&lt;p&gt;The QGIS User Interface&lt;/p&gt;
+
+&lt;p&gt;Basic Analysis and Map Construction&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Note:&amp;nbsp;&lt;/b&gt;Open to current Stanford affiliates&amp;nbsp;&lt;b&gt;ONLY&lt;/b&gt;. This workshop or prior GIS experience are required for most other SGC workshops.&lt;/p&gt;
+
+&lt;p&gt;Plese use the Event Website to register. Registration page has link to online resouerces for workshop.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 30 Sep 2022 09:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/introduction_to_qgis</link>
+      <geo:lat>37.426402</geo:lat>
+      <geo:long>-122.172635</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/39501269457862/huge/c9436efb55d1fa91fd8c88e2008b705fd725d305.jpg" medium="image" type="image/png" height="422" width="597" isDefault="true" fileSize="284421"/>
+      <category>Workshop</category>
+    </item>
+    <item>
       <title>CIDR Intro to R at Hybrid</title>
       <description>&lt;p&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This is a Hybrid workshop! Upon registering you can select to attend in-person (Velma Denning Room, 120F Green Library) or via Zoom. &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;None&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Before the workshop, be sure to download and install:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li aria-level="1"&gt;R:&lt;a href="https://cloud.r-project.org/" target="_blank" data-cke-saved-href="https://cloud.r-project.org/" rel="noopener"&gt; https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;  &lt;li aria-level="1"&gt;RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" target="_blank" data-cke-saved-href="https://www.rstudio.com/products/rstudio/download/" rel="noopener"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Workshop materials:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;a href="https://cengel.github.io/R-intro" target="_blank" data-cke-saved-href="https://cengel.github.io/R-intro" rel="noopener"&gt;https://cengel.github.io/R-intro&lt;/a&gt; &lt;/li&gt;  &lt;/ul&gt;</description>
       <pubDate>Mon, 03 Oct 2022 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/cidr_intro_to_r</link>
       <media:content url="https://localist-images.azureedge.net/photos/40932249899056/huge/8dc9c8ea8806e245a8b8412105c15224fb9f6546.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="45357"/>
+      <category>Class/Seminar</category>
+    </item>
+    <item>
+      <title>Georeferencing in QGIS at Branner Earth Sciences Library </title>
+      <description>&lt;p&gt;This workshop covers the basics of georeferencing static images in a GIS using the open source GIS package QGIS. Georeferenced images or maps can be used as contextual layers in a GIS project, or as part of a data extraction process to convert static map data into digital vector data.&lt;/p&gt;
+
+&lt;p&gt;Setting up for best results&lt;/p&gt;
+
+&lt;p&gt;Georeferencing from a set of known map coordinates&lt;/p&gt;
+
+&lt;p&gt;Georeferencing by linking to a basemap&lt;/p&gt;
+
+&lt;p&gt;Digitizing new GIS features from a georeferenced maps&lt;/p&gt;
+
+&lt;p&gt;See the More Info link for registration and workshop landing page URL.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Note:&amp;nbsp;&lt;/b&gt;Open to current Stanford affiliates&amp;nbsp;&lt;b&gt;ONLY&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Plese use the Event Website to register. Registration page has link to online resouerces for workshop.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 04 Oct 2022 09:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/georeferencing_in_qgis_2716</link>
+      <geo:lat>37.426402</geo:lat>
+      <geo:long>-122.172635</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/39519065549929/huge/36ecf7eef696ef2fc4be5cd1cafb4c93c8ea2a25.jpg" medium="image" type="image/jpeg" height="450" width="900" isDefault="true" fileSize="221696"/>
       <category>Class/Seminar</category>
     </item>
     <item>
@@ -272,6 +326,14 @@ No previous experience with spatial data is necessary.&lt;br /&gt;
       <category>Social Event/Reception</category>
     </item>
     <item>
+      <title>The business data resources most popular with science researchers [Gear-Up]</title>
+      <description>&lt;p&gt;Todd Hines and Rashelle Pragar, GSB Library business librarians, will give summary overviews of several of the business data resources most heavily used by science researchers, including how to access Wall Street analyst reports and recommended sources for researching science-related industries.&lt;/p&gt;  &lt;p&gt;Instructors: Todd Hines and Rashelle Pragar&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This is a virtual presentation. You will receive a Zoom link after registration. &lt;/strong&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Oct 2022 10:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/the_business_data_resources_most_popular_with_science_researchers_gear-up</link>
+      <media:content url="https://localist-images.azureedge.net/photos/41047357212047/huge/2567c54e7f4f2448025ecad164352ec0b95c24ea.jpg" medium="image" type="image/jpeg" height="498" width="498" isDefault="true" fileSize="93125"/>
+      <category>Class/Seminar</category>
+    </item>
+    <item>
       <title>Understanding Messy Time Series Data [Gear-Up] at Sapp Center for Science Teaching and Learning</title>
       <description>&lt;p&gt;This workshop introduces you to working with messy time series data. We will teach you about common pitfalls for data sourcing and continuity through use of Gross Domestic Product (GDP) as a rough measure of global societal well-being. The first hour will introduce GDP to discuss these issues when different reporting agencies, incentives, and approaches are considered. &lt;br /&gt;&lt;br /&gt;The second hour will dive into code that compares results of different models based on endogenous and exogenous data filling methods, along with useful guidance on tools for vectorized approaches to your data. Basic Python proficiency is assumed if you want to run the examples, but all are welcome to attend and learn about data robustness issues and how the concepts might be useful to apply to your own data and research. &lt;br /&gt;&lt;br /&gt;If you want to learn basic Python, visit us at &lt;a href="https://ssds.stanford.edu/" target="_blank" rel="noopener"&gt;https://ssds.stanford.edu &lt;/a&gt;to register for the upcoming Text Analysis and Machine Learning (TAML) Bootcamp (September 19, 21, and 23) or Introduction to Python workshop (October 5). &lt;/p&gt;  &lt;p&gt;Instructors: &lt;a href="https://library.stanford.edu/research/software-and-services-data-science/people" target="_blank" rel="noopener"&gt;Anthony Weng&lt;/a&gt; and &lt;a href="https://library.stanford.edu/people/muzzall" target="_blank" rel="noopener"&gt;Evan Muzzall&lt;/a&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This is a hybrid workshop. Upon registering you can select to attend in-person at the Li &amp; Ma Science Library in the SAPP Center or via Zoom. &lt;/strong&gt;&lt;/p&gt;</description>
       <pubDate>Wed, 12 Oct 2022 13:00:00 -0700</pubDate>
@@ -280,6 +342,14 @@ No previous experience with spatial data is necessary.&lt;br /&gt;
       <geo:long>-122.171413</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/40994207358413/huge/174c1eb8cee1cfcdfb1b422fa9b75147921740d5.jpg" medium="image" type="image/jpeg" height="498" width="498" isDefault="true" fileSize="93125"/>
       <category>Class/Seminar</category>
+    </item>
+    <item>
+      <title>Gear-Up for Science Data Symposium  [Gear-Up] at Green Library, East Wing</title>
+      <description>&lt;p&gt;Real data is not always perfect. Sometimes, it is messy. Sometimes, it is not nice to work with. The Fall 2022 Gear-Up for Science Data Symposium will conclude a series of workshops, talks and demos (Oct. 10-12) exploring the techniques used by experts to find, prepare, manage and analyze non-idealized data for research and analytics. This in person event will provide a forum to present and discuss the obstacles scientists face when collecting and analyzing data, as well as showcasing the variety of library services available for researchers to help in the acquisition and analysis of research data.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Schedule:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;2:00p Introduction&lt;/li&gt;  &lt;li&gt;2:05p Student and Postdoc Lightning Talks&lt;/li&gt;  &lt;li&gt;2:30p Keynote Speakers&lt;/li&gt;  &lt;li&gt;3:45p Panel Discussion&lt;/li&gt;  &lt;li&gt;4:05p Social Hour &amp; Library Resource Fair  &lt;ul&gt;  &lt;li&gt;At Koret Park (courtyard adjacent to Green Library East Wing Exit &amp; Coupa Cafe)&lt;/li&gt;  &lt;/ul&gt;  &lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Keynote Speakers:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;a href="https://profiles.stanford.edu/elliott-white-jr-" target="_blank" rel="noopener"&gt;Elliott White Jr.&lt;/a&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Presentation Title:&lt;/strong&gt;&lt;em&gt;&lt;strong&gt;  &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;From Sauntering Through Swamps to Scanning Satellite Scenes&lt;/em&gt;&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;Coastal forested wetlands are critical components of the coastal ecosystem mosaic; however, climate change threatens their existence. Remote sensing offers a powerful tool to examine this ecosystem at a broad scale, but there are challenges to using these data.&lt;/li&gt;  &lt;/ul&gt;  &lt;/li&gt;  &lt;li&gt;&lt;a href="https://profiles.stanford.edu/maria-monzani" target="_blank" rel="noopener"&gt;Maria Elena Monzani&lt;/a&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Presentation Title:&lt;/strong&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;Data-Intensive searches for Dark Matter&lt;/em&gt;&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The nature and origin of dark matter are among the most compelling mysteries of contemporary science. There is strong evidence for dark matter from its role in shaping the galaxies and galaxy clusters that we observe in the universe. Still, for over three decades, physicists have been trying to detect the dark matter particles themselves with little success. Given the extremely elusive nature of the hypothetical dark matter particle, the experiments trying to discover it have collected increasingly massive datasets, which pose tremendous "needle in a haystack" challenges. In my talk, I will describe two of the experiments currently looking to detect dark matter, together with their associated datasets, and some of the data handling tools employed for their analysis.&lt;/li&gt;  &lt;/ul&gt;  &lt;/li&gt;  &lt;li&gt;&lt;a href="https://profiles.stanford.edu/dominique-bergmann" target="_blank" rel="noopener"&gt;Dominique Bergmann&lt;/a&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Presentation Title:&lt;/strong&gt; &lt;em&gt;Following biology (and data) across spatial scales in a changing world&lt;/em&gt;&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;When considering how plants adapt their development to prevailing climates, data vary in type and completeness. One on end of the scale, detailed microscopy-based imaging may capture how cells divide in a single growing leaf, or the genes expressed in each in of those cells in the leaf. On the other end, characterizing the genetic variation of in genomes of plant populations growing across the world, or preserved in the last 300 years in herbaria involves a massive collaborative effort to obtain, compare and standardize samples. In my talk, I will highlight how we evaluate data from diverse sources, and some challenges we've encountered when data originate from disciplines with different norms and expectations. I will also answer questions about the changing publishing landscape from the perspective of an author and of an editorial board member for general audience and specialty journals.&lt;/li&gt;  &lt;/ul&gt;  &lt;/li&gt;  &lt;/ul&gt;</description>
+      <pubDate>Thu, 13 Oct 2022 14:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/gear-up_for_science_data_symposium_gear-up</link>
+      <media:content url="https://localist-images.azureedge.net/photos/41047357469095/huge/9d95e34a77ed256b03d1046eb415f94ebbd1c69f.jpg" medium="image" type="image/jpeg" height="498" width="498" isDefault="true" fileSize="93125"/>
+      <category>Conference/Symposium</category>
     </item>
     <item>
       <title>CIDR R Visualization at Hybrid</title>
