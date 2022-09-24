@@ -7,7 +7,7 @@
     <item>
       <title>Paper Trails: The Art of Processing Archival Collections at Green Library, East Wing</title>
       <description>&lt;p&gt;Every archival collection that Stanford Libraries acquires must be processed before it can be made available for research. The expertise, thought, and care that goes into processing archival collections often occurs behind-the-scenes. Using the John Perry Barlow papers as a throughline, this exhibit explores the art of processing archival collections. &lt;/p&gt;</description>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/paper_trails_the_art_of_processing_archival_collections</link>
       <media:content url="https://localist-images.azureedge.net/photos/40861265484890/huge/796758a62e11f9aaae17dc593730c2e172be4fbe.jpg" medium="image" type="image/jpeg" height="425" width="425" isDefault="true" fileSize="109634"/>
       <category>Exhibition</category>
@@ -15,28 +15,12 @@
     <item>
       <title>Xiaoze Xie: Flammable Ideas, Fragile Objects at Lathrop Library</title>
       <description>&lt;p&gt;Xiaoze Xie's new exhibition, &lt;em&gt;Flammable Ideas, Fragile Objects&lt;/em&gt;, opening on September 15, 2022, in the main second-floor exhibit space at the Stanford East Asia Library, reminds us that, if "knowledge is power," as the quotation goes, then books can become battlegrounds. For over ten years, Xie has been engaged in an ongoing project titled &lt;em&gt;Forbidden Memories&lt;/em&gt; that focuses on the history of banned books in China. &lt;em&gt;Flammable Ideas, Fragile Objects&lt;/em&gt; features new works from this project. In addition to books from the artist's own collection, the exhibition will also feature several of Xie's sculptures. Working with photographs of books in public and private collections, Xie has created life-size, hand-sculpted and hand-painted porcelain reproductions of banned books both ancient and modern, some of which will be displayed publicly for the first time in this exhibition.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Flammable Ideas, Fragile Objects&lt;/em&gt; will be on view from September 15, 2022, through the end of Fall Quarter. An opening reception will be held on October 12, 2022, in the East Asia Library, room 224.&lt;/p&gt;  &lt;p&gt;Xiaoze Xie, the Paul L. &amp; Phyllis Wattis Professor of Art at Stanford University, is an internationally recognized artist who has exhibited extensively in the US and abroad. His work is in the permanent collection of such institutions as the Denver Art Museum, the Museum of Fine Arts Houston, San Jose Museum of Art, the Scottsdale Museum of Contemporary Art, and Oakland Museum of California. Xie received the Asia Game Changer West Award from the Asia Society (2022), the Painter and Sculptor's Grant from the Joan Mitchell Foundation (2013), the Pollock-Krasner Foundation Grant (2003) and artist awards from Phoenix Art Museum (1999) and Dallas Museum of Art (1996).&lt;/p&gt;</description>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/xiaoze_xie_flammable_ideas_fragile_objects</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/41074045488313/huge/df720f80197b036bed4df7bb0508525112431604.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="195807"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>TAML Bootcamp Part 5/6 at Hybrid</title>
-      <description>&lt;p&gt;&lt;strong&gt;This is a hybrid event. Please register for each part separately. &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;TAML Bootcamp Part 5 / 6&lt;/p&gt;  &lt;p&gt;Now that you have familiarity with the basics, Part 5 will show you how to create supercharged natural language processing pipelines using functionality from the spaCy and textaCy Python libraries.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Workshop materials:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/fall2022/8_spaCy_textaCy.html" target="_blank" data-cke-saved-href="https://eastbayev.github.io/SSDS-TAML/fall2022/8_spaCy_textaCy.html" rel="noopener"&gt;https://eastbayev.github.io/SSDS-TAML/fall2022/8_spaCy_textaCy.html&lt;/a&gt;&lt;/li&gt;  &lt;/ul&gt;</description>
-      <pubDate>Fri, 23 Sep 2022 10:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/taml_bootcamp_part_56</link>
-      <media:content url="https://localist-images.azureedge.net/photos/40932249583646/huge/3477be43f4a2dfa19f4a25edb489ac7b5ccdc62b.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="45357"/>
-      <category>Class/Seminar</category>
-    </item>
-    <item>
-      <title>TAML Bootcamp Part 6/6 at Hybrid</title>
-      <description>&lt;p&gt;&lt;strong&gt;This is a hybrid event. Please register for each part separately. &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;TAML Bootcamp Part 6 / 6&lt;/p&gt;  &lt;p&gt;Finally, learn to model abstract concepts in text data using the BERTopic algorithm!&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Workshop materials:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/fall2022/9_BERTopic.html" target="_blank" data-cke-saved-href="https://eastbayev.github.io/SSDS-TAML/fall2022/9_BERTopic.html" rel="noopener"&gt;https://eastbayev.github.io/SSDS-TAML/fall2022/9_BERTopic.html&lt;/a&gt;&lt;/li&gt;  &lt;/ul&gt;</description>
-      <pubDate>Fri, 23 Sep 2022 13:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/taml_bootcamp_part_66</link>
-      <media:content url="https://localist-images.azureedge.net/photos/40932249740327/huge/aa514cafe31a2c7be10b163075f19507fef948df.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="45357"/>
-      <category>Class/Seminar</category>
     </item>
     <item>
       <title>Overreach and Overreaction: The Downward Spiral in the U.S.-China Relations at Green Library, Bing Wing</title>
@@ -132,6 +116,16 @@ The family of&amp;nbsp;&lt;b&gt;Dr. Sam-Chung Hsieh&lt;/b&gt; donated his person
       <link>https://events.stanford.edu/event/cidr_intro_to_python</link>
       <media:content url="https://localist-images.azureedge.net/photos/40932250061881/huge/d2e4e32e406efe067aecf7455d7ce3488d57c513.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="45357"/>
       <category>Class/Seminar</category>
+    </item>
+    <item>
+      <title>The Handmade Book at Green Library, Bing Wing</title>
+      <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Oct 2022 09:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/the_handmade_book</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/41127511947685/huge/fa816f484827df107b7a256d92f54535a019c421.jpg" medium="image" type="image/jpeg" height="581" width="581" isDefault="true" fileSize="232881"/>
+      <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
       <title>Remembering Partition: 75 Years of Independence-Partition at Green Library, Bing Wing</title>
@@ -265,6 +259,16 @@ The family of&amp;nbsp;&lt;b&gt;Dr. Sam-Chung Hsieh&lt;/b&gt; donated his person
       <link>https://events.stanford.edu/event/cidr_python_visualization_2716</link>
       <media:content url="https://localist-images.azureedge.net/photos/40932250833004/huge/7f2578af5e30ac5ea3aceed9f6cbe8ae89e73601.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="45357"/>
       <category>Class/Seminar</category>
+    </item>
+    <item>
+      <title>Book Madness by Denise Gigante at Green Library, Bing Wing</title>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;br /&gt;Book Launch! Celebrating the publication of:&lt;br /&gt;&lt;br /&gt;&lt;em&gt;&lt;a href="https://yalebooks.yale.edu/book/9780300248487/book-madness/" target="_blank" rel="noopener"&gt;Book Madness: A Story of Book Collectors in America&lt;/a&gt;&lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;(Yale University Press, 2022)&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;by Denise Gigante&lt;/strong&gt;&lt;br /&gt;Sadie Dernham Patek Professor of Humanities&lt;br /&gt;Department of English, Stanford University&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Featured speakers:&lt;/strong&gt;&lt;br /&gt;Gavin Jones, Frederick P. Rehmus Family Professor of Humanities&lt;br /&gt;Peter Stansky, Frances and Charles Field Professor of History, Emeritus &lt;br /&gt;John Windle, Antiquarian Bookseller, San Francisco&lt;br /&gt;&lt;br /&gt;Book signing to follow.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Learn more about &lt;em&gt;Book Madness&lt;/em&gt; by viewing &lt;a href="https://drive.google.com/file/d/1J18vKTXFNyrA5iYaLr5jFLDpkCdN2aRf/view?usp=sharing" target="_blank" data-cke-saved-href="https://drive.google.com/file/d/1J18vKTXFNyrA5iYaLr5jFLDpkCdN2aRf/view?usp=sharing" rel="noopener"&gt;this video&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;Please &lt;a href="https://forms.gle/6SmcvneAWJnCfpEPA" target="_blank" rel="noopener"&gt;&lt;strong&gt;register&lt;/strong&gt;&lt;/a&gt; if you would like to attend.&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Oct 2022 17:30:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/book_madness_by_denise_gigante</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/41127520396854/huge/b4900454615cd38819192c5b7b7a78c2f99d1a52.jpg" medium="image" type="image/jpeg" height="508" width="508" isDefault="true" fileSize="145548"/>
+      <category>Social Event/Reception</category>
     </item>
     <item>
       <title>CIDR Python Text Analysis at Hybrid</title>
