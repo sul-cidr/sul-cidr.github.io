@@ -7,7 +7,7 @@
     <item>
       <title>The Handmade Book at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 21 Dec 2022 09:00:00 -0800</pubDate>
+      <pubDate>Thu, 22 Dec 2022 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_handmade_book</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -341,6 +341,17 @@ When asked if you want to install the command line developer tools, click &amp;q
       <link>https://events.stanford.edu/event/cidr_python_text_analysis_2832</link>
       <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/2cce8182072cb630488470a93e2120db6594aa72.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>Tabletop Tuesdays at Green Library, East Wing, SVA Seminar Room (Hohbach 126)</title>
+      <description>&lt;p&gt;Save the date for March&amp;#39;s &lt;i&gt;Tabletop Tuesdays&amp;nbsp;&lt;/i&gt;(theme and featured games TBD).&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Tabletop Tuesdays&lt;/i&gt;&amp;nbsp;is a new event series held on the third Tuesday of each month. At these events, we&amp;#39;ll feature a selection of board games and collection items from across SUL&amp;#39;s holdings around a specific theme. Drop in to learn about the month&amp;#39;s featured game(s) and/or try some of the board games we have for open play at the Silicon Valley Archives.&amp;nbsp;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 21 Mar 2023 14:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/tabletop_tuesdays_9290</link>
+      <media:content url="https://localist-images.azureedge.net/photos/41286228363356/huge/ad3516023ce1e1e5a75f977c9365d3d5f498fb28.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
+      <category>Other</category>
     </item>
   </channel>
 </rss>
