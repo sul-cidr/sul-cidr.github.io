@@ -7,7 +7,7 @@
     <item>
       <title>The Handmade Book at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 23 Dec 2022 09:00:00 -0800</pubDate>
+      <pubDate>Sat, 24 Dec 2022 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_handmade_book</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -352,6 +352,29 @@ When asked if you want to install the command line developer tools, click &amp;q
       <link>https://events.stanford.edu/event/tabletop_tuesdays_9290</link>
       <media:content url="https://localist-images.azureedge.net/photos/41286228363356/huge/ad3516023ce1e1e5a75f977c9365d3d5f498fb28.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
       <category>Other</category>
+    </item>
+    <item>
+      <title>CIDR Python Machine Learning</title>
+      <description>&lt;p&gt;This workshop provides a gentle introduction to machine learning vocabulary and concepts. You will learn the basics for classifying text and images using the scikit-learn, lime, and tensorflow Python libraries.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;&lt;a href="https://appointments.library.stanford.edu/event/10080983" target="_blank"&gt;Register here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to Python workshop (or similar experience).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Intro_to_ML_with_Python" rel="noopener" target="_blank"&gt;https://github.com/sul-cidr/Workshops/tree/master/Intro_to_ML_with_Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Thu, 23 Mar 2023 16:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_python_machine_learning_240</link>
+      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/2cce8182072cb630488470a93e2120db6594aa72.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
     </item>
   </channel>
 </rss>
