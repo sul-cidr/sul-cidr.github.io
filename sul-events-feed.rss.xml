@@ -7,22 +7,11 @@
     <item>
       <title>The Handmade Book at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 09 Jan 2023 09:00:00 -0800</pubDate>
+      <pubDate>Tue, 10 Jan 2023 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_handmade_book</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/41127511947685/huge/fa816f484827df107b7a256d92f54535a019c421.jpg" medium="image" type="image/jpeg" height="581" width="581" isDefault="true" fileSize="232881"/>
-      <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Imagining Maritime Spaces Exhibition at David Rumsey Map Center</title>
-      <description>&lt;p&gt;&lt;i&gt;Imagining Maritime Spaces&lt;/i&gt;&amp;nbsp;draws together maps of the world&amp;rsquo;s oceans and seas to explore how cartographers, navigators, and others have historically come to know and to represent these dynamic spaces. Charts, tools, and other visualizations illustrate elements of navigation by stars, winds, and waves, exploration of unknown waters and depths, and shifting coasts. This exhibit coincides with the Computational Archaeology &amp;amp; Seafaring Theory Workshop being sponsored by the Archaeology Center and collaborating centers and institutions both on and beyond campus. The exhibition was curated by Justin Leidwanger, Beth Minney and Nicole Constantine; it was coordinated and mounted by Kristina Larsen.&amp;nbsp; The exhibition opens at the same time as the&amp;nbsp;&lt;i&gt;Micronesian&amp;nbsp;Seafaring System&lt;/i&gt;&amp;nbsp;talk and can be viewed during the Center&amp;#39;s open hours until Feb 10, 2023.&lt;/p&gt;
-</description>
-      <pubDate>Mon, 09 Jan 2023 13:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/ImaginingMaritimeSpacesExhibition</link>
-      <geo:lat>37.426818</geo:lat>
-      <geo:long>-122.16714</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/41768402192589/huge/c260d776d652a9531faad55d7e816255851dad66.jpg" medium="image" type="image/jpeg" height="866" width="1200" isDefault="true" fileSize="321602"/>
       <category>Exhibition</category>
     </item>
     <item>
@@ -100,7 +89,7 @@
       <link>https://events.stanford.edu/event/introduction_to_qgis_jan_13th_2023</link>
       <geo:lat>37.426402</geo:lat>
       <geo:long>-122.172635</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42042195706549/huge/90984ed2b783622c2c04a72d62f7fca33b24682d.jpg" medium="image" type="image/png" height="2382" width="3680" isDefault="true" fileSize="3045528"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42042195706549/huge/1af1daac1384e828685a3f2a8f6a299b74c30239.jpg" medium="image" type="image/png" height="2382" width="3680" isDefault="true" fileSize="3045528"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -146,6 +135,17 @@ When asked if you want to install the command line developer tools, click &amp;q
       <link>https://events.stanford.edu/event/ssds_bash_bootcamp</link>
       <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/2cce8182072cb630488470a93e2120db6594aa72.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>Imagining Maritime Spaces Exhibition at David Rumsey Map Center</title>
+      <description>&lt;p&gt;&lt;i&gt;Imagining Maritime Spaces&lt;/i&gt;&amp;nbsp;draws together maps of the world&amp;rsquo;s oceans and seas to explore how cartographers, navigators, and others have historically come to know and to represent these dynamic spaces. Charts, tools, and other visualizations illustrate elements of navigation by stars, winds, and waves, exploration of unknown waters and depths, and shifting coasts. This exhibit coincides with the Computational Archaeology &amp;amp; Seafaring Theory Workshop being sponsored by the Archaeology Center and collaborating centers and institutions both on and beyond campus. The exhibition was curated by Justin Leidwanger, Beth Minney and Nicole Constantine; it was coordinated and mounted by Kristina Larsen.&amp;nbsp; The exhibition opens at the same time as the&amp;nbsp;&lt;i&gt;Micronesian&amp;nbsp;Seafaring System&lt;/i&gt;&amp;nbsp;talk and can be viewed during the Center&amp;#39;s open hours until Feb 10, 2023.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 13 Jan 2023 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/ImaginingMaritimeSpacesExhibition</link>
+      <geo:lat>37.426818</geo:lat>
+      <geo:long>-122.16714</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/41768402192589/huge/c260d776d652a9531faad55d7e816255851dad66.jpg" medium="image" type="image/jpeg" height="866" width="1200" isDefault="true" fileSize="321602"/>
+      <category>Exhibition</category>
     </item>
     <item>
       <title>Tabletop Tuesdays at Green Library, East Wing, SVA Seminar Room (Hohbach 126)</title>
