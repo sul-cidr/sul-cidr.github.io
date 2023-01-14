@@ -21,7 +21,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/carsandclimbing</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -45,7 +45,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/NeartoFar</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -55,7 +55,7 @@
     <item>
       <title>The Handmade Book at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 13 Jan 2023 09:00:00 -0800</pubDate>
+      <pubDate>Sat, 14 Jan 2023 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_handmade_book</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -63,84 +63,10 @@
       <category>Exhibition</category>
     </item>
     <item>
-      <title>Introduction to QGIS (Jan 13th, 2023) at Branner Earth Sciences Library</title>
-      <description>&lt;p&gt;This workshop aims to accomplish two things: Introduce participants to basic vocabulary, concepts and techniques for working with spatial data in research and introduce the interface and tools in QGIS, a free &amp;amp; open source desktop GIS software. This introductory session will focus upon the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the QGIS platform.&lt;/p&gt;
-
-&lt;p&gt;Topics will include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;What is GIS?&lt;/li&gt;
-&lt;li&gt;Spatial Data Models and Formats&lt;/li&gt;
-&lt;li&gt;Projections and Coordinate Systems&lt;/li&gt;
-&lt;li&gt;Basic Data Management&lt;/li&gt;
-&lt;li&gt;The QGIS User Interface&lt;/li&gt;
-&lt;li&gt;Simple Analysis using Visualization&lt;/li&gt;
-&lt;li&gt;Creating Spatial Datasets&lt;/li&gt;
-&lt;li&gt;Proximity and Overlay Analysis&lt;/li&gt;
-&lt;li&gt;Hotspot Mapping&lt;/li&gt;
-&lt;li&gt;Cartographic Presentation &amp;amp; Export&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Note: &lt;/b&gt;Open to current Stanford affiliates &lt;b&gt;ONLY&lt;/b&gt;. This workshop or prior GIS experience are required for most other SGC workshops.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Preparation&lt;/b&gt;: &lt;b&gt;Please arrive &lt;/b&gt;&lt;b&gt;&lt;i&gt;with your own laptop&lt;/i&gt;&lt;/b&gt;, with the current &lt;a href="http://qgis.org"&gt;Pre-Release (PR) version of QGIS&lt;/a&gt; installed for your operating system.&lt;/p&gt;
-</description>
-      <pubDate>Fri, 13 Jan 2023 09:30:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/introduction_to_qgis_jan_13th_2023</link>
-      <geo:lat>37.426402</geo:lat>
-      <geo:long>-122.172635</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42042195706549/huge/1af1daac1384e828685a3f2a8f6a299b74c30239.jpg" medium="image" type="image/png" height="2382" width="3680" isDefault="true" fileSize="3045528"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>SSDS Bash Bootcamp</title>
-      <description>&lt;p&gt;Have you ever wanted to build a basic data science toolkit but can&amp;rsquo;t get started? No need for Python and R to hog all the credit, kickstart Winter Quarter with SSDS&amp;rsquo;s Bash Bootcamp!&lt;/p&gt;
-
-&lt;p&gt;This 4-hour data science project will boost your confidence through transferrable skills essential for the modern, data-driven job market.&lt;/p&gt;
-
-&lt;p&gt;Here you will learn the basics of: 1) the Bash programming language, 2) Git for version control, 3) SQLite database engine, and 4) free static GitHub Pages.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;When: Friday, January 13 (all times PST). &lt;/b&gt;Online only, Zoom link provided upon registration. SUNet sign-in required.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Part 1 - 10:00-11:00 AM -&lt;/b&gt; Learn basic Bash code to navigate your computer&amp;rsquo;s file system and create directories and files using pwd, ls, cd, mkdir, and touch commands.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 2 - 11:00-12:00 PM -&lt;/b&gt; Build a Git repository to control version tracking with git clone, add, commit, push, and pull.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;12:00-1:00 PM - Lunch&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 3 - 1:00-2:00 PM -&lt;/b&gt; Launch SQLite3 and learn to wrangle data with SELECT, FROM, WHERE, GROUP BY, and ORDER BY.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 4 - 2:00-3:00 PM -&lt;/b&gt; Use the GitHub repository you build in parts 1-3 and turn it into a simple static webpage with GitHub Pages.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="desc_bigger"&gt;&lt;a href="https://appointments.library.stanford.edu/event/10071823" target="_blank"&gt;Register here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Links to materials: &lt;a href="https://github.com/EastBayEv/BashGitHub" target="_blank"&gt;BashGitHub&lt;/a&gt;, &lt;a href="https://github.com/EastBayEv/IntroSQLite" target="_blank"&gt;IntroSQLite&lt;/a&gt;, and &lt;a href="https://github.com/EastBayEv/GitHubPages" target="_blank"&gt;GitHubPages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Prerequisites: basic familiarity with computers. &lt;a href="https://github.com" target="_blank"&gt;Sign up for free GitHub account.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;Before the workshop - Mac users&lt;/p&gt;
-
-&lt;p&gt;Make sure you have the Xcode developer toolset installed. Open a Terminal and type:&amp;nbsp;&amp;nbsp; xcode-select --install&lt;br /&gt;
-When asked if you want to install the command line developer tools, click &amp;quot;yes/install&amp;quot;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;Before the workshop - Windows users&lt;/p&gt;
-
-&lt;p&gt;Install GitBash here: &lt;a href="https://git-scm.com/downloads"&gt;https://git-scm.com/downloads&lt;/a&gt;. Download the file and double-click it to run the installer&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-      <pubDate>Fri, 13 Jan 2023 10:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/ssds_bash_bootcamp</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
-    </item>
-    <item>
       <title>Imagining Maritime Spaces Exhibition at David Rumsey Map Center</title>
       <description>&lt;p&gt;&lt;i&gt;Imagining Maritime Spaces&lt;/i&gt;&amp;nbsp;draws together maps of the world&amp;rsquo;s oceans and seas to explore how cartographers, navigators, and others have historically come to know and to represent these dynamic spaces. Charts, tools, and other visualizations illustrate elements of navigation by stars, winds, and waves, exploration of unknown waters and depths, and shifting coasts. This exhibit coincides with the Computational Archaeology &amp;amp; Seafaring Theory Workshop being sponsored by the Archaeology Center and collaborating centers and institutions both on and beyond campus. The exhibition was curated by Justin Leidwanger, Beth Minney and Nicole Constantine; it was coordinated and mounted by Kristina Larsen.&amp;nbsp; The exhibition opens at the same time as the&amp;nbsp;&lt;i&gt;Micronesian&amp;nbsp;Seafaring System&lt;/i&gt;&amp;nbsp;talk and can be viewed during the Center&amp;#39;s open hours until Feb 10, 2023.&lt;/p&gt;
 </description>
-      <pubDate>Fri, 13 Jan 2023 13:00:00 -0800</pubDate>
+      <pubDate>Mon, 16 Jan 2023 13:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/ImaginingMaritimeSpacesExhibition</link>
       <geo:lat>37.426818</geo:lat>
       <geo:long>-122.16714</geo:long>
@@ -193,10 +119,10 @@ When asked if you want to install the command line developer tools, click &amp;q
       <category>Workshop</category>
     </item>
     <item>
-      <title>Uncertainty and the Handmade at Green Library</title>
+      <title>Uncertainty and the Handmade at Building 160, Wallenberg Hall, 433A</title>
       <description>&lt;p class="desc_normal"&gt;&lt;span style="font-size:20px"&gt;Join us for a Collegium (the sixth for &lt;b&gt;Stanford Text Technologies&lt;/b&gt;)&lt;/span&gt;&lt;span style="font-size:20px"&gt; which &lt;/span&gt;&lt;span style="font-size:20px"&gt;will&lt;/span&gt;&lt;span style="font-size:20px"&gt; &lt;/span&gt;&lt;span style="font-size:20px"&gt;investigate the handmade&lt;/span&gt;&lt;span style="font-size:20px"&gt; book through discussion of manuscripts, artists&amp;rsquo; books, and digital&lt;/span&gt;&lt;span style="font-size:20px"&gt; &lt;/span&gt;&lt;span style="font-size:20px"&gt;aspects&lt;/span&gt;&lt;span style="font-size:20px"&gt; &lt;/span&gt;&lt;span style="font-size:20px"&gt;of and data about&lt;/span&gt;&lt;span style="font-size:20px"&gt; the handmade.&lt;/span&gt;&lt;/p&gt;
 
-&lt;p class="desc_normal"&gt;&lt;span style="font-size:20px"&gt;The Collegium begins with a keynote lecture by Joumana Medlej on January 25 at 5:15 pm in the Bender Room on the 5th floor of Green Library. The activities on Thursday, January 26, and Friday, January 27 will take place in Hohbach Hall on the ground floor of Green Library. For schedule and program details, please see the &lt;a href="https://texttechnologies.stanford.edu/news/stanford-manuscript-sciences-6th-collegium-uncertainty-and-handmade"&gt;TextTechnologies website&lt;/a&gt;. Registration required.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="desc_normal"&gt;&lt;span style="font-size:20px"&gt;The Collegium begins with a keynote lecture by Joumana Medlej on January 25 at 5:15 pm in the Bender Room on the 5th floor of Green Library. The activities on Thursday, January 26, and Friday, January 27 will take place in CESTA on the top floor of Wallenberg Hall (Building 160). For schedule and program details, please see the &lt;a href="https://texttechnologies.stanford.edu/news/stanford-manuscript-sciences-6th-collegium-uncertainty-and-handmade"&gt;TextTechnologies website&lt;/a&gt;. Registration required.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style="font-size:20px"&gt;It is notoriously difficult to provide definitive data about&lt;/span&gt;&lt;span style="font-size:20px"&gt; &lt;/span&gt;&lt;span style="font-size:20px"&gt;manuscripts&lt;/span&gt;&lt;span style="font-size:20px"&gt; &lt;/span&gt;&lt;span style="font-size:20px"&gt;when&lt;/span&gt;&lt;span style="font-size:20px"&gt; information about origin, date, and attribut&lt;/span&gt;&lt;span style="font-size:20px"&gt;ion of production and provenance is often absent.&lt;/span&gt;&lt;span style="font-size:20px"&gt; For artists&amp;rsquo; books, while such metadata is usually available, the&lt;/span&gt;&lt;span style="font-size:20px"&gt;ir&lt;/span&gt;&lt;span style="font-size:20px"&gt; &lt;/span&gt;&lt;span style="font-size:20px"&gt;variability and creativity of&lt;/span&gt;&lt;span style="font-size:20px"&gt; form make them difficult to describe and display in a static environment&lt;/span&gt;&lt;span style="font-size:20px"&gt;; and t&lt;/span&gt;&lt;span style="font-size:20px"&gt;heir&lt;/span&gt;&lt;span style="font-size:20px"&gt; discoverability is compr&lt;/span&gt;&lt;span style="font-size:20px"&gt;omised by the categories required to catalogue them.&lt;/span&gt;&lt;/p&gt;
 
@@ -206,7 +132,7 @@ When asked if you want to install the command line developer tools, click &amp;q
 </description>
       <pubDate>Wed, 25 Jan 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/uncertainty_and_the_handmade</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42059719527934/huge/23c2fb315d9f3e7ed87df24f291db8b5ffdd28d7.jpg" medium="image" type="image/png" height="815" width="484" isDefault="true" fileSize="803135"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42059719527934/huge/cedcef5e76c5c732c835d6fa81d5035aa53d71da.jpg" medium="image" type="image/png" height="815" width="484" isDefault="true" fileSize="803135"/>
       <category>Conference/Symposium</category>
     </item>
     <item>
