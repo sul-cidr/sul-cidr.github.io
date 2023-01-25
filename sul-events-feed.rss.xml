@@ -21,7 +21,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 24 Jan 2023 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/carsandclimbing</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -45,7 +45,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 24 Jan 2023 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/NeartoFar</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -55,7 +55,7 @@
     <item>
       <title>The Handmade Book at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 24 Jan 2023 09:00:00 -0800</pubDate>
+      <pubDate>Wed, 25 Jan 2023 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_handmade_book</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -368,6 +368,15 @@ Our panel will feature the donor, Bram Dijkstra, Prof. Ato Quayson, Prof. Adam B
       <geo:long>-122.167086</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42094555601095/huge/1521e9ccc0b2b38767150706422e5f85bba16422.jpg" medium="image" type="image/jpeg" height="450" width="900" isDefault="true" fileSize="221696"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>Tracing Sea Routes on Maps: A conversation on the European and Asian contexts with Sara Caputo and Elke Papelitzky</title>
+      <description>&lt;p&gt;&lt;span style="font-size:medium; font-style:normal; text-align:start; text-decoration:none"&gt;We have all seen tracks marching across the oceans of a map. Have you ever wondered where they came from and why they are there? In this online event, Sara Caputo (Cambridge) and Elke Papelitzky (KU Leuven) will share their ongoing research on route lines on European and East Asian maps, respectively. They will each give a brief presentation, followed by a conversation moderated by Katherine Parker (BLR Antique Maps).&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 16 Feb 2023 12:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/tracing_sea_routes</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42220224768727/huge/5e1cd6dc677ad370002bbf55eefbc2cd5abf17d0.jpg" medium="image" type="image/png" height="1789" width="1909" isDefault="true" fileSize="7565547"/>
+      <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
       <title>CIDR Python Data Wrangling</title>
