@@ -21,7 +21,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 30 Jan 2023 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/carsandclimbing</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -45,7 +45,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 30 Jan 2023 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/NeartoFar</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -55,7 +55,7 @@
     <item>
       <title>The Handmade Book at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 30 Jan 2023 09:00:00 -0800</pubDate>
+      <pubDate>Tue, 31 Jan 2023 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_handmade_book</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -63,13 +63,21 @@
       <category>Exhibition</category>
     </item>
     <item>
-      <title>2023-01-30 Intro To Arduino at Terman Engineering Library</title>
-      <description>&lt;p&gt;&lt;span&gt;Rapid prototyping and design requires some ready-made solutions, while some projects can be solved using simple computational technologies. Arduino microprocessors are one possible solution, being affordable, easy-to-learn, and relatively powerful with a little bit of knowledge. In this hands-on workshop, you will explore how to leverage these microprocessors for your research projects. No experience is required. If you have a computer with administrative privileges to install software, it is encouraged to bring it to the session.&lt;/span&gt;&lt;/p&gt;
+      <title>Qualitative Data Workshop: working with NVIVO software, an introduction presented by Esha Chatterjee. [via Zoom]</title>
+      <description>&lt;p&gt;This is a basic demonstration of how to use NVivo for Qualitative research projects. We will undertake a brief description of the basic features and some advanced aspects of the software. We will show how you can import, code and analyze data. The basic demonstration will be followed by a Q&amp;amp;A.&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 30 Jan 2023 11:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/2023-01-30_intro_to_arduino</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41742486537603/huge/deb52e71643607c06f7552e637ff90ba0804f657.jpg" medium="image" type="image/jpeg" height="320" width="320" isDefault="true" fileSize="17930"/>
+      <pubDate>Tue, 31 Jan 2023 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/qualitative_data_workshop_working_with_nvivo_software_an_introduction_presented_by_esha_chatterjee_via_zoom</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42271419392963/huge/aed84611e44f9f4a43b522aae0ad961eb0101326.jpg" medium="image" type="image/jpeg" height="405" width="720" isDefault="true" fileSize="35312"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>Take a break, pet a dog at Science and Engineering Quad, Y2E2 Courtyard</title>
+      <description>&lt;p&gt;The Terman Engineering Library is pleased to have therapy dogs again this quarter. Please join us in the Y2E2 Courtyard on Wednesday, Feb 1 from 3-4pm. Dog and owner teams from Pet Partners will be providing relaxation and stress relief. In the event of rain, look for us under the covered walkway.&lt;/p&gt;  &lt;p&gt;Image Credit: Michael Spencer&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Feb 2023 15:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/take_a_break_pet_a_dog_4449</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42276290301953/huge/888c1f4aa031cde38fbc55899a2c8497e152b6eb.jpg" medium="image" type="image/jpeg" height="418" width="418" isDefault="true" fileSize="94748"/>
+      <category>Social Event/Reception</category>
     </item>
     <item>
       <title>CIDR R Data Visualization</title>
@@ -140,6 +148,43 @@
       <category>Workshop</category>
     </item>
     <item>
+      <title>Qualitative Data Workshop: Interview Analysis with NVivo</title>
+      <description>&lt;p&gt;Join Esha Chatterjee, qualitative data software consultant for Stanford Libraries, for an intermediate level class on interview analysis using NVivo software.&amp;nbsp; Learn how to code your interview transcripts and use the software to identify themes using Nvivo.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 07 Feb 2023 12:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/qualitative_data_workshop_interview_analysis_with_nvivo_5908</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42273482117191/huge/4bf3ba6dfa2b4f8f0b12f6d88d8cb15f43509e0c.jpg" medium="image" type="image/jpeg" height="405" width="720" isDefault="true" fileSize="33409"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>Introduction To R</title>
+      <description>&lt;p&gt;&lt;span&gt;This workshop is a gentle introduction to the R programming language for those who have never (or barely) programmed in R, and especially to those who are new to programming in general. If you are unfamiliar with working with variables, vectors, and dataframes, then you are a good fit for this class! By the end of this workshop, you will have learned some of what R can do, explored the ecosystem of R and RStudio, modified/extracted data, and discovered resources to continue your learning even after this session. Please have R and RStudio Desktop installed on your device prior to the course.&lt;/span&gt;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 07 Feb 2023 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/introduction_to_r</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42274405141714/huge/6172948485c2bd1912b802afad5dd23599831816.jpg" medium="image" type="image/png" height="230" width="230" isDefault="true" fileSize="18155"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>Introduction To HPC</title>
+      <description>&lt;p&gt;&lt;span&gt;SRCC and Stanford Libraries will be teaching an introduction to HPC course on Feb 08. This workshop is an introduction to using high-performance computing systems effectively. We obviously can&amp;rsquo;t cover every case or give an exhaustive course on parallel programming in just a few hours of teaching time. Instead, this workshop is intended to give students a good introduction and overview of the tools available and how to use them effectively. By the end of this workshop students will know how to:&lt;br /&gt;
+&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; Connect to a cluster&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; Write simple batch scripts&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; Submit and manage jobs on a cluster&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; Use a job scheduler (SLURM)&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; Transfer files&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; Use software through environment modules with LMOD.&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; Estimate job RAM and CPU requests&lt;br /&gt;
+&lt;br /&gt;
+Please note: &amp;nbsp;This class is for people who are beginners to HPC and SLURM. We will not be going into a deep dive on SLURM or sbatch directives. The class is not for people who already have HPC/SLURM experience. Some Linux command line experience with navigating the filesystem (ls, and cd commands) and editing files (nano) is required.&lt;/span&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 08 Feb 2023 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/introduction_to_hpc</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42274443874577/huge/13102c6f3321b5bc18b8a9687d879c9cb7785b0d.jpg" medium="image" type="image/png" height="230" width="230" isDefault="true" fileSize="18155"/>
+      <category>Workshop</category>
+    </item>
+    <item>
       <title>CIDR Introduction to Python</title>
       <description>&lt;p&gt;This workshop provides an introduction to the Python programming language: basic syntax, variable assignment, functions, data import, and how to understand error messages and find help. You will learn enough Python to perform common tasks and explore the rich environment of Python packages available.&amp;nbsp;&lt;/p&gt;
 
@@ -203,6 +248,15 @@
       <geo:long>-122.16714</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/41768402192589/huge/c260d776d652a9531faad55d7e816255851dad66.jpg" medium="image" type="image/jpeg" height="866" width="1200" isDefault="true" fileSize="321602"/>
       <category>Exhibition</category>
+    </item>
+    <item>
+      <title>R Package Development</title>
+      <description>&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;One of the most powerful features of R is the giant library of packages that users develop. While some of these are well known, many others are created by an individual or group to solve a particular problem that they have. In this workshop, we will take you through the process of making your own packages to use in R. Some prior knowledge of using R is recommended.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 13 Feb 2023 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/r_package_development</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42274466823705/huge/db4bf32c13719afc671f14cb6ab57ec3ffcfc219.jpg" medium="image" type="image/png" height="230" width="230" isDefault="true" fileSize="18155"/>
+      <category>Workshop</category>
     </item>
     <item>
       <title>Black Music on Record: The Dijkstra Black Music Collection at Green Library, Bing Wing</title>
@@ -277,6 +331,17 @@ Our panel will feature the donor, Bram Dijkstra, Prof. Ato Quayson, Prof. Adam B
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42094555601095/huge/1521e9ccc0b2b38767150706422e5f85bba16422.jpg" medium="image" type="image/jpeg" height="450" width="900" isDefault="true" fileSize="221696"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>Qualitative Data Drop-in workshop: Intro to NVivo with Esha Chatterjee at Hohbach Hall - Green Library</title>
+      <description>&lt;p&gt;Stop by Green Library for the &lt;b&gt;Love Data Fair&lt;/b&gt; and learn about &lt;b&gt;NVivo from Qualitaitve Data Consultant, Esha Chatterjee.&lt;/b&gt; Esha will be available to demo NVivo and show you how to get started with this qualitative data analysis software.&amp;nbsp; She will be in Green Library - Hohbach Hall from 1-2:30PM on Feb 14th.&amp;nbsp;&amp;nbsp;&lt;a href="https://drive.google.com/drive/folders/1zDfhnuxKChR4Cfde9AfvMXt-edsUCAAM"&gt;&lt;img alt="" src="https://drive.google.com/drive/folders/1zDfhnuxKChR4Cfde9AfvMXt-edsUCAAM" /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 14 Feb 2023 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/qualitative_data_drop-in_workshop_intro_to_nvivo_with_esha_chatterjee</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/42271309913068/huge/3c610ee4a20b3be1964fee793be90446ebd6bae0.jpg" medium="image" type="image/jpeg" height="405" width="720" isDefault="true" fileSize="42886"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -393,6 +458,23 @@ Our panel will feature the donor, Bram Dijkstra, Prof. Ato Quayson, Prof. Adam B
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42245742235756/huge/29ef3d95ab081166bc41fb4f21f966af4363df7c.jpg" medium="image" type="image/jpeg" height="600" width="1067" isDefault="true" fileSize="178413"/>
       <category>Lecture/Presentation/Talk</category>
+    </item>
+    <item>
+      <title>Qualitative Data Workshop: Content Analysis with NVivo</title>
+      <description>&lt;p&gt;Join Esha Chatterjee, qualitative data software consultant for Stanford Libraries, for an intermediate level class on content analysis.&amp;nbsp; Learn how to upload your collection of textual data for content analysis using NVivo software.&amp;nbsp; Esha will cover coding and other tips.&amp;nbsp;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 28 Feb 2023 12:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/qualitative_data_workshop_interview_analysis_with_nvivo</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42274114270008/huge/61e20aa9c07b03a264098d5b96f01d901a7f4207.jpg" medium="image" type="image/jpeg" height="405" width="720" isDefault="true" fileSize="31435"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>Take a break, pet a dog at Science and Engineering Quad, Y2E2 Courtyard</title>
+      <description>&lt;p&gt;The Terman Engineering Library is pleased to have therapy dogs again this quarter. Please join us in the Y2E2 Courtyard on Wednesday, March 1 from 3-4pm. Dog and owner teams from Pet Partners will be providing relaxation and stress relief. In the event of rain, look for us under the covered walkway.&lt;/p&gt;  &lt;p&gt;Image Credit: Michael Spencer&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Mar 2023 15:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/take_a_break_pet_a_dog_7735</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42276290636813/huge/cc37f9dab80213bb241bf110c991f3375e9808d7.jpg" medium="image" type="image/jpeg" height="418" width="418" isDefault="true" fileSize="94748"/>
+      <category>Social Event/Reception</category>
     </item>
     <item>
       <title>CIDR R Text Analysis</title>
