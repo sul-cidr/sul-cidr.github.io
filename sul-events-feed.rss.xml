@@ -21,7 +21,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/carsandclimbing</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -45,7 +45,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/NeartoFar</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -55,42 +55,12 @@
     <item>
       <title>The Handmade Book at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 02 Feb 2023 09:00:00 -0800</pubDate>
+      <pubDate>Fri, 03 Feb 2023 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_handmade_book</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/41127511947685/huge/fa816f484827df107b7a256d92f54535a019c421.jpg" medium="image" type="image/jpeg" height="581" width="581" isDefault="true" fileSize="232881"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>CIDR R Data Visualization</title>
-      <description>&lt;p&gt;Data visualizations are essential to effectively communicate research. This workshop will review three base plots in R (histogram, boxplot, and scatterplot) before introducing you to the ggplot2 package.&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&lt;a href="https://appointments.library.stanford.edu/event/10080948" target="_blank"&gt;Register Here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CIDR Introduction to R workshop (or similar experience).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Before the workshop, be sure to download and install:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Download R:&lt;a href="https://cloud.r-project.org/" rel="noopener" target="_blank"&gt; https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Download RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" rel="noopener" target="_blank"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Workshop materials:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/sul-cidr/data-visualization-ggplot2" rel="noopener" target="_blank"&gt;https://github.com/sul-cidr/data-visualization-ggplot2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Thu, 02 Feb 2023 16:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/cidr_r_data_visualization_398</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>Geocoding 101: Leveraging "Where" in your data with locator.stanford.edu at Branner Earth Sciences Library</title>
@@ -210,7 +180,7 @@ Please note: &amp;nbsp;This class is for people who are beginners to HPC and SLU
 </description>
       <pubDate>Thu, 09 Feb 2023 16:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/cidr_introduction_to_python_2990</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -261,7 +231,7 @@ Please note: &amp;nbsp;This class is for people who are beginners to HPC and SLU
 </description>
       <pubDate>Mon, 13 Feb 2023 13:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/r_package_development</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42274466823705/huge/db4bf32c13719afc671f14cb6ab57ec3ffcfc219.jpg" medium="image" type="image/png" height="230" width="230" isDefault="true" fileSize="18155"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42274466823705/huge/1243a430c615417f2e391cb03c152321e7916d34.jpg" medium="image" type="image/png" height="230" width="230" isDefault="true" fileSize="18155"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -311,7 +281,7 @@ Please note: &amp;nbsp;This class is for people who are beginners to HPC and SLU
 </description>
       <pubDate>Tue, 14 Feb 2023 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/introduction_to_gdalogr_working_with_spatial_data_at_scale</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42209543349519/huge/3aac29ed34aed582913f08f3e717a53598153df8.jpg" medium="image" type="image/png" height="470" width="940" isDefault="true" fileSize="949595"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42209543349519/huge/41f5b406ae508746b5010ed2c752a5c52e640809.jpg" medium="image" type="image/png" height="470" width="940" isDefault="true" fileSize="949595"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -351,38 +321,53 @@ Please note: &amp;nbsp;This class is for people who are beginners to HPC and SLU
       <category>Workshop</category>
     </item>
     <item>
-      <title>Bonbons, books, and board games at Green Library</title>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+      <title>Love Data Fair at Hohbach Hall</title>
+      <description>&lt;p&gt;&lt;b&gt;Celebrate Love Data Week at the Stanford Libraries!&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Looking for the perfect book? Tired of browsing bookshelves to come away empty-handed? We have the perfect solution! Speed dating&amp;hellip; but with books.&lt;/p&gt;
+&lt;p&gt;Love Data Week is an annual festival highlighting topics, opportunities and services relevant to data in research. Love Data Week 2023 will feature a &lt;b&gt;Love Data Fair&lt;/b&gt; on the afternoon of Valentine&amp;rsquo;s Day, February 14th, in Hohbach Hall, Green Library.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Everyone in the Stanford community is welcome to attend - come to learn, share, and discuss quantitative and qualitative data management, analysis, sharing, privacy, preservation, reuse, delivery, and more!&lt;/p&gt;
+</description>
+      <pubDate>Tue, 14 Feb 2023 13:30:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/love_data_fair</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/42299176645113/huge/4eec400a5eab8054430b7d9a67dec2b44cadd8c1.jpg" medium="image" type="image/png" height="1200" width="1200" isDefault="true" fileSize="166500"/>
+      <category>Exhibition</category>
+    </item>
+    <item>
+      <title>Bonbons, books, and board games at Green Library</title>
+      <description>&lt;p&gt;Looking for the perfect book? Tired of browsing bookshelves to come away empty-handed? We have the perfect solution! Speed dating&amp;hellip; but with books.&lt;/p&gt;
 
 &lt;p&gt;Valentine&amp;#39;s Day with Stanford Libraries&lt;/p&gt;
 
-&lt;p&gt;Join us this Valentine&amp;rsquo;s Day to eat bonbons, play board games, and yes. Speed date some books.&lt;/p&gt;
+&lt;p&gt;Join us this Valentine&amp;rsquo;s Day to eat bonbons, play board games, and yes, speed date some books.&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;7:00 PM | Dessert&lt;/li&gt;
+&lt;li&gt;7:20 PM | Book Speed Dating&lt;/li&gt;
+&lt;li&gt;8:00 PM | Board Games&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;7:00 PM | Dessert&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;I﻿f you would like to volunteer for this event, we would be happy to have you facilitate a board game. Please use&amp;nbsp;&lt;/i&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdhlXSagXLMkbNr7lycRa8I9OwPHJY7G606ie-bdlWiBmA8Pw/viewform?usp=share_link" rel="nofollow noopener noreferrer" target="_blank"&gt;&lt;i&gt;this form&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&amp;nbsp;to contact us.&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;7:20 PM | Book Speed Dating&lt;/p&gt;
-
-&lt;p&gt;8:00 PM | Board Games&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;S﻿ponsors:&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;S﻿tanford Libraries&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;I﻿f you would like to volunteer for this event, we would be happy to have you facilitate a board game. Please use &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdhlXSagXLMkbNr7lycRa8I9OwPHJY7G606ie-bdlWiBmA8Pw/viewform?usp=share_link"&gt;this form&lt;/a&gt; to contact us.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;If you are not affiliated with Stanford, you are still welcome. You will need to first register at the front desk though, and to check any books, you will need to get a fee-based library card. Read more about&amp;nbsp;&lt;/i&gt;&lt;a href="https://library.stanford.edu/using/access-and-privileges/visitor-access-and-borrowing" rel="nofollow noopener noreferrer" target="_blank"&gt;&lt;i&gt;visitor access and borrowing&lt;/i&gt;&lt;/a&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
 </description>
       <pubDate>Tue, 14 Feb 2023 19:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/bonbons_books_and_board_games</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42290888373023/huge/4715a71922914aa48f3664d3b0c0ffd780aff683.jpg" medium="image" type="image/jpeg" height="1080" width="2160" isDefault="true" fileSize="175170"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42290888373023/huge/37cf33d3db0625d7c66b51a9fcf6666c958e2da0.jpg" medium="image" type="image/jpeg" height="1080" width="2160" isDefault="true" fileSize="175170"/>
+      <category>Social Event/Reception</category>
+    </item>
+    <item>
+      <title>Introduction to GeoPandas</title>
+      <description>&lt;p&gt;GeoPandas is an extension of the open-source Python Data Analysis Library, Pandas, which can be used to read, write, and analyze vector geospatial data formats. GeoPandas enables you to easily do operations in Python that would otherwise require a spatial database such as PostGIS. In this workshop, we will introduce GeoPandas and learn how to perform a variety of geospatial data science tasks to work efficiently with geographic vector datasets.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 16 Feb 2023 09:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/introduction_to_geopandas</link>
+      <media:content url="https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg" type="image/png" medium="image" isDefault="true"/>
+      <category>Workshop</category>
     </item>
     <item>
       <title>CIDR Python Data Wrangling</title>
@@ -404,7 +389,7 @@ Please note: &amp;nbsp;This class is for people who are beginners to HPC and SLU
 </description>
       <pubDate>Thu, 16 Feb 2023 16:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/cidr_python_data_wrangling_3961</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -441,7 +426,7 @@ Please note: &amp;nbsp;This class is for people who are beginners to HPC and SLU
       <link>https://events.stanford.edu/event/arcgis_storymaps_101_with_the_esri_storymaps_editorial_team</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42209996034508/huge/f572c5be93afbbaa79eafda842312e47caadb2f1.jpg" medium="image" type="image/png" height="903" width="1341" isDefault="true" fileSize="1402740"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42209996034508/huge/f6c8183e757ae52e0fd59fbef8b22cd5d4b19beb.jpg" medium="image" type="image/png" height="903" width="1341" isDefault="true" fileSize="1402740"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -477,7 +462,7 @@ Please note: &amp;nbsp;This class is for people who are beginners to HPC and SLU
 </description>
       <pubDate>Thu, 23 Feb 2023 16:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/cidr_python_data_visualization</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -547,7 +532,7 @@ A reception will follow the presentation. &lt;i&gt;The Socialist Patriot &lt;/i&
 </description>
       <pubDate>Thu, 02 Mar 2023 16:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/cidr_r_text_analysis_971</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -577,7 +562,7 @@ A reception will follow the presentation. &lt;i&gt;The Socialist Patriot &lt;/i&
 </description>
       <pubDate>Thu, 09 Mar 2023 16:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/cidr_r_machine_learning_3970</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -600,7 +585,7 @@ A reception will follow the presentation. &lt;i&gt;The Socialist Patriot &lt;/i&
 </description>
       <pubDate>Thu, 16 Mar 2023 16:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/cidr_python_text_analysis_2832</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -665,7 +650,7 @@ Many early modern Chinese, Japanese, and Korean maps draw lines in ocean areas t
 </description>
       <pubDate>Thu, 23 Mar 2023 16:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/cidr_python_machine_learning_240</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/1233eced381ac92ce9cda1d24d808b48a886cc57.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
