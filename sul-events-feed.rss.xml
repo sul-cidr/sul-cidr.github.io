@@ -21,7 +21,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/carsandclimbing</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -45,7 +45,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/NeartoFar</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -55,50 +55,12 @@
     <item>
       <title>The Handmade Book at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;em&gt;&lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;The Handmade Book&lt;/a&gt;&lt;/em&gt;, on view October 6, 2022, through February 5, 2023 in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition &lt;em&gt;The Handmade Book&lt;/em&gt; is curated by Elaine Treharne and Benjamin Albritton, produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;  &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries' &lt;a href="https://library.stanford.edu/status" target="_blank" rel="noopener"&gt;entry requirements and available services&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Feb 2023 09:00:00 -0800</pubDate>
+      <pubDate>Sat, 04 Feb 2023 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_handmade_book</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/41127511947685/huge/fa816f484827df107b7a256d92f54535a019c421.jpg" medium="image" type="image/jpeg" height="581" width="581" isDefault="true" fileSize="232881"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Geocoding 101: Leveraging "Where" in your data with locator.stanford.edu at Branner Earth Sciences Library</title>
-      <description>&lt;p&gt;&lt;span style="font-size:11pt"&gt;&lt;span&gt;Geocoding is the process of using of reference datasets (such as street networks, administrative boundaries and gazetteers) to convert text-based locations (such as street addresses, administrative unit codes or names or placenames) into explicit numeric locations (usually Lat Long coordinates) that can be further manipulated by computational systems, for routing, analysis, or just viewing on a map.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:11pt"&gt;&lt;span&gt;Stanford Libraries&amp;#39; locator.stanford.edu service deploys 250+GB of Parcel, Street, POI &amp;amp; Administrative Boundary Data, including street address-level data for 149 countries that covers more than 90% of the world&amp;#39;s population. These data are accessible natively through ArcGIS Pro, as well as programmatically, through a REST API that makes it possible to consume the locator services from platforms like R, Python and even QGIS.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:11pt"&gt;&lt;span&gt;This workshop will introduce the participant to several types of geocoding, through several planforms.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:11pt"&gt;&lt;span&gt;Topics will include:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;An overview of Geocoding terminology and concepts&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;An overview of the services available from locator.stanford.edu&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;An overview of the utility of geocoded data&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;Hands-on experience and demonstrations using locator.stanford.edu from a number of platforms, including:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;ArcGIS Pro&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;OpenRefine&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;QGIS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;Python Notebooks&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;span&gt;R&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Prerequisites: Some level of basic GIS experience is assumed, though the material will be useful to beginners and power-users, alike.&lt;/p&gt;
-
-&lt;p&gt;Preparation: Please arrive with your own laptop, with the &lt;a href="https://qgis.org/en/site/" rel="nofollow noopener noreferrer" target="_blank"&gt;current Pre-Release (PR) version of QGIS&lt;/a&gt; installed for your operating system, as well as &lt;a href="https://openrefine.org/" rel="nofollow noopener noreferrer" target="_blank"&gt;the most recent version of OpenRefine&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-      <pubDate>Fri, 03 Feb 2023 09:30:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/geocoding_101_leveraging_where_in_your_data_with_locatorstanfordedu</link>
-      <geo:lat>37.426402</geo:lat>
-      <geo:long>-122.172635</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42049969929147/huge/487dc81f43d19278c17acf0a556511c3295cd6ed.jpg" medium="image" type="image/png" height="977" width="1609" isDefault="true" fileSize="380599"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>Qualitative Data Workshop: Interview Analysis with NVivo</title>
