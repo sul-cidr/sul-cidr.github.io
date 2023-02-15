@@ -21,7 +21,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/carsandclimbing</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -45,237 +45,12 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/NeartoFar</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42058301559081/huge/36fafe335d4ba8833cf2adab9aa7e6fd18ce788a.jpg" medium="image" type="image/png" height="690" width="766" isDefault="true" fileSize="593167"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Introduction to GDAL/OGR: Working with spatial data at scale.</title>
-      <description>&lt;div&gt;
-&lt;div&gt;
-&lt;div&gt;
-&lt;p&gt;The Geospatial Data Abstraction Library (GDAL/OGR) is an open-source translator library for working with geospatial data. GDAL/OGR contains a variety of useful command line utilities that can be easier or more efficient to use than standalone GIS software or rolling your own code. In this workshop you will learn how to use GDAL to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Inspect and query datasets&lt;/li&gt;
-&lt;li&gt;Convert data between different formats&lt;/li&gt;
-&lt;li&gt;Update and transform spatial reference systems (projections)&lt;/li&gt;
-&lt;li&gt;Clip and subset data&lt;/li&gt;
-&lt;li&gt;Create tile indexes and mosaics&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This workshop will be held online via Zoom.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 09:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/introduction_to_gdalogr_working_with_spatial_data_at_scale</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42209543349519/huge/41f5b406ae508746b5010ed2c752a5c52e640809.jpg" medium="image" type="image/png" height="470" width="940" isDefault="true" fileSize="949595"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Georeferencing 101 at Green Library</title>
-      <description>&lt;p&gt;&lt;b&gt;Georeferencing in QGIS&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;This workshop covers the basics of georeferencing static images in a GIS using the open source GIS package QGIS. Georeferenced images or maps can be used as contextual layers in a GIS project, or as part of a data extraction process to convert static map data into digital vector data.&lt;/p&gt;
-
-&lt;p&gt;Setting up for best results&lt;/p&gt;
-
-&lt;p&gt;Georeferencing from a set of known map coordinates&lt;/p&gt;
-
-&lt;p&gt;Georeferencing by linking to a basemap&lt;/p&gt;
-
-&lt;p&gt;Digitizing new GIS features from a georeferenced maps&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Note: Open to current Stanford affiliates &lt;b&gt;ONLY&lt;/b&gt;.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 10:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/georeferencing_101_9322</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42094555601095/huge/1521e9ccc0b2b38767150706422e5f85bba16422.jpg" medium="image" type="image/jpeg" height="450" width="900" isDefault="true" fileSize="221696"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Imagining Maritime Spaces Exhibition at David Rumsey Map Center</title>
-      <description>&lt;p&gt;&lt;i&gt;Imagining Maritime Spaces&lt;/i&gt;&amp;nbsp;draws together maps of the world&amp;rsquo;s oceans and seas to explore how cartographers, navigators, and others have historically come to know and to represent these dynamic spaces. Charts, tools, and other visualizations illustrate elements of navigation by stars, winds, and waves, exploration of unknown waters and depths, and shifting coasts. This exhibit coincides with the Computational Archaeology &amp;amp; Seafaring Theory Workshop being sponsored by the Archaeology Center and collaborating centers and institutions both on and beyond campus. The exhibition was curated by Justin Leidwanger, Beth Minney and Nicole Constantine; it was coordinated and mounted by Kristina Larsen.&amp;nbsp; The exhibition opens at the same time as the&amp;nbsp;&lt;i&gt;Micronesian&amp;nbsp;Seafaring System&lt;/i&gt;&amp;nbsp;talk and can be viewed during the Center&amp;#39;s open hours until Feb 10, 2023.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 13:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/ImaginingMaritimeSpacesExhibition</link>
-      <geo:lat>37.426818</geo:lat>
-      <geo:long>-122.16714</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/41768402192589/huge/c260d776d652a9531faad55d7e816255851dad66.jpg" medium="image" type="image/jpeg" height="866" width="1200" isDefault="true" fileSize="321602"/>
-      <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Love Data Fair at Hohbach Hall</title>
-      <description>&lt;p&gt;&lt;b&gt;Celebrate Love Data Week at the Stanford Libraries!&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Love Data Week is an annual festival highlighting topics, opportunities and services relevant to data in research. Love Data Week 2023 will feature a &lt;b&gt;Love Data Fair&lt;/b&gt; on the afternoon of Valentine&amp;rsquo;s Day, February 14th, in Hohbach Hall, Green Library.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Everyone in the Stanford community is welcome to attend - come to learn, share, and discuss quantitative and qualitative data management, analysis, sharing, privacy, preservation, reuse, delivery, and more!&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 13:30:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/love_data_fair</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42299176645113/huge/4eec400a5eab8054430b7d9a67dec2b44cadd8c1.jpg" medium="image" type="image/png" height="1200" width="1200" isDefault="true" fileSize="166500"/>
-      <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Qualitative Data Drop-in workshop: Intro to NVivo with Esha Chatterjee at Hohbach Hall - Green Library</title>
-      <description>&lt;p&gt;Stop by Green Library for the &lt;b&gt;Love Data Fair&lt;/b&gt; and learn about &lt;b&gt;NVivo from Qualitaitve Data Consultant, Esha Chatterjee.&lt;/b&gt; Esha will be available to demo NVivo and show you how to get started with this qualitative data analysis software.&amp;nbsp; She will be in Green Library - Hohbach Hall from 1:30-2:30PM on Feb 14th.&amp;nbsp;&amp;nbsp;&lt;a href="https://drive.google.com/drive/folders/1zDfhnuxKChR4Cfde9AfvMXt-edsUCAAM"&gt;&lt;img alt="" src="https://drive.google.com/drive/folders/1zDfhnuxKChR4Cfde9AfvMXt-edsUCAAM" /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 13:30:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/qualitative_data_drop-in_workshop_intro_to_nvivo_with_esha_chatterjee</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42271309913068/huge/a34e0ef8ca53dbc2b4f515a94b7e5ab80806fd9c.jpg" medium="image" type="image/png" height="267" width="254" isDefault="true" fileSize="63267"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Redivis CEO Ian Matthews: Data Resources at the Stanford Data Farm at Hohbach Hall</title>
-      <description>&lt;p&gt;The &lt;b&gt;Stanford Data Farm&lt;/b&gt; is a campus platform for accessing, exploring and engaging campus-acquired datasets for your own research needs. Powered by &lt;a href="https://redivis.com/"&gt;Redivis&lt;/a&gt;, the Data Farm&amp;nbsp;allows for fast and highly efficient queries and extracts handled directly in the browser.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="https://storage.googleapis.com/redivis-static-production/2.0.24/images/homePages/Ian.png" style="height:150px; width:150px" /&gt;Join Redivis Co-Founder/CEO &lt;b&gt;Ian Matthews&lt;/b&gt; (Public Policy &amp;amp; Economics, 2013) for an overview of querying, filtering, descriptive statistics, visualisations, and python notebook functionality.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Datasets on Data Farm are interoperable with common data analysis tools such as: Python, R, SAS, and Stata and can be easily exported to on-premise computing environments such as Farmshare / Sherlock, into cloud compute services like GCP, AWS, Azure, or downloaded for local analysis (usage rights permitting).&lt;/p&gt;
-
-&lt;p&gt;This event is part of the &lt;b&gt;Lighting Talk &lt;/b&gt;series at the &lt;b&gt;Love Data Week Fair&lt;/b&gt; on Tuesday, Feburary 14th. For more information, see this page:&amp;nbsp;&lt;a href="https://library.stanford.edu/research-data-services/love-data-week" rel="noopener noreferrer" target="_blank"&gt;https://library.stanford.edu/research-data-services/love-data-week&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 14:30:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/stanford_data_farm_powered_by_redivis</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42341758154222/huge/dee6fc8476933f3a163f479614ec8620c3d42b1b.jpg" medium="image" type="image/png" height="673" width="757" isDefault="true" fileSize="44648"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>⚡ Talk | Felt: Digital Maps without GIS at Hohbach Hall</title>
-      <description>&lt;p&gt;Join&amp;nbsp;&lt;b&gt;Stace Maples&lt;/b&gt;,&amp;nbsp;Assistant Director of Geospatial Collections &amp;amp; Services at Stanford, to learn about&amp;nbsp;&lt;a href="https://felt.com"&gt;Felt&lt;/a&gt;, a new web-based collaborative mapping tool.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 14:50:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/felt_digital_maps_without_gis</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42351791787688/huge/13d2f86616b3d68c5e4494c31947b9ddacf64678.jpg" medium="image" type="image/jpeg" height="492" width="800" isDefault="true" fileSize="54684"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>⚡ Talk | Text Analysis &amp; Machine Learning at Hohbach Hall</title>
-      <description>&lt;p&gt;Interested in learning to work with text data and machine learning?&amp;nbsp;Not sure how to get started? Join &lt;a href="https://library.stanford.edu/people/muzzall"&gt;&lt;b&gt;Evan Muzzall&lt;/b&gt;&lt;/a&gt; (Head,&amp;nbsp;Software &amp;amp; Services for Data Science) as he talks about the&amp;nbsp;SSDS Text Analysis &amp;amp; Machine Learning (TAML) Group!&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;This community caters to beginners who are looking to get started. Here, you can learn to navigate the text and machine learning landscapes in casual, informal ways that are right for your pace and learning abilities.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 15:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/text_analysis_machine_learning</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42352428016200/huge/7138293cf1edc081965f3e6704682717ccb232f3.jpg" medium="image" type="image/png" height="480" width="442" isDefault="true" fileSize="157789"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>⚡ Talk | Emi Lesure (Census Bureau) on the Federal Statistical Research Data Center at Hohbach Hall</title>
-      <description>&lt;p&gt;Join&amp;nbsp;&lt;b&gt;Emi Lesure, PhD. &lt;/b&gt;to learn about Stanford&amp;#39;s&amp;nbsp;&lt;a href="http://www.census.gov/about/adrm/fsrdc/locations/california-stanford.html"&gt;Federal Statistical Research Data Center&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In&amp;nbsp;partnership with the U.S. Census Bureau, Stanford&amp;#39;s&amp;nbsp;&lt;a href="https://iriss.stanford.edu/"&gt;&lt;b&gt;Institute for Research in the Social Sciences&lt;/b&gt;&lt;/a&gt; hosts one of the nation&amp;rsquo;s 31 &lt;a href="https://www.census.gov/about/adrm/fsrdc/locations/california-stanford.html"&gt;Federal Statistical Research Data Centers&lt;/a&gt;, providing access to restricted data for researchers from Stanford as well as nearby universities. Approved projects can access microdata from the Census Bureau&amp;#39;s economic and demographic surveys and censuses, restricted-use data from NCHS and AHRQ, and administrative data from partnered federal, state, and local governments.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 15:10:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/talk_emi_lesure_iriss_on_the_federal_statistical_research_data_center</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42360214149393/huge/6b0885c89cdb4b5679c83cbadf18466de694d6a2.jpg" medium="image" type="image/png" height="425" width="940" isDefault="true" fileSize="95742"/>
-    </item>
-    <item>
-      <title>⚡ Talk | Pianolatron at Hohbach Hall</title>
-      <description>&lt;p&gt;Can analog piano rolls be data? Join Stanford Libraries research developers&lt;b&gt;&lt;a href="https://library.stanford.edu/people/pmb" rel="noopener noreferrer" target="_blank"&gt;&amp;nbsp;Peter Broadwell&lt;/a&gt;&lt;/b&gt;&amp;nbsp;and&amp;nbsp;&lt;b&gt;&lt;a href="https://library.stanford.edu/people/sjwiles" rel="noopener noreferrer" target="_blank"&gt;Simon Wiles&lt;/a&gt;&lt;/b&gt;&amp;nbsp;for a sneak preview of the&amp;nbsp;&lt;b&gt;Pianolatron&lt;/b&gt;, an upcoming web-based tool that connects digitized images of historical piano rolls with real-time music synthesis. The Pianolatron brings archival collections to life by integrating thousands of high-resolution scans, computer vision output and metadata records in an interactive app that provides control over playback parameters such as loudness, speed, and other aspects of musical performance.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 15:20:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/pianolatron</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42352518214816/huge/6d1e9418b2f7928f6b0670473ac92c7763a78eb9.jpg" medium="image" type="image/png" height="994" width="1542" isDefault="true" fileSize="955960"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>⚡ Talk | Mastodon for Scholars at Hohbach Hall</title>
-      <description>&lt;p&gt;Decentralized social networks such as Mastodon are emerging as an important site of scholarly discourse.&amp;nbsp; Join &lt;a href="https://dlcl.stanford.edu/people/quinn-dombrowski"&gt;&lt;b&gt;Quinn Dombrowski&lt;/b&gt;&lt;/a&gt; (Academic Technology Specialist in Literatures, Cultures, and Languages) for an overview of how &amp;quot;&lt;a href="https://en.wikipedia.org/wiki/Fediverse"&gt;Fediverse&lt;/a&gt;&amp;quot; systems like Mastodon differ from centralized networks like Twitter.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 15:30:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/talk_mastodon_for_scholars</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42367237197069/huge/f42cb9e3b7a1f47a6b88b253b89ce2236009a6ac.jpg" medium="image" type="image/png" height="412" width="418" isDefault="true" fileSize="16090"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>⚡ Talk | Globus for Research Data at Hohbach Hall</title>
-      <description>&lt;p&gt;Join&amp;nbsp;&lt;b&gt;&lt;a href="https://srcc.stanford.edu/people/karl-kornel"&gt;Karl Kornel&lt;/a&gt;,&lt;/b&gt;&amp;nbsp;Globus lead for the &lt;a href="https://srcc.stanford.edu/"&gt;Stanford Research Computing Center&lt;/a&gt;, to learn about using&amp;nbsp;&lt;b&gt;&lt;a href="https://www.globus.org/"&gt;Globus&lt;/a&gt;&amp;nbsp;&lt;/b&gt;with Stanford systems such as Oak. Globus provides a suite of cloud-based, software-as-a-service services for moving, synchronizing, and sharing big data. SRCC is piloting a Managed Endpoint with the &lt;a href="https://srcc.stanford.edu/oak-gateways"&gt;Globus Sharing option&lt;/a&gt; enabled.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 15:40:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/globus_research_data</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42370326111318/huge/48ff054f0510ea6213754b29f28c846e5b451fe7.jpg" medium="image" type="image/jpeg" height="400" width="400" isDefault="true" fileSize="16424"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>⚡ Talk | Google Earth Engine at Hohbach Hall</title>
-      <description>&lt;p&gt;Google Earth Engine is&amp;nbsp;70 Petabytes of Earth Observation data, in a web browser. Join&amp;nbsp;&lt;b&gt;Stace Maples&lt;/b&gt;,&amp;nbsp;Assistant Director of Geospatial Collections &amp;amp; Services at Stanford, to learn about how this research environment can be used for data-centric Sustainability projects.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 15:50:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/talk_google_earth_engine</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42367328209521/huge/fb50e18b947ac925798597149480e443adce8dd8.jpg" medium="image" type="image/png" height="1200" width="1200" isDefault="true" fileSize="166500"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>⚡ Talk | ICPSR (Inter-university Consortium for Political and Social Research) at Hohbach Hall</title>
-      <description>&lt;p&gt;An international consortium of more than 750 academic institutions and research organizations, the&amp;nbsp;&lt;b&gt;Inter-university Consortium for Political and Social Research&lt;/b&gt; advances and expands social and behavioral research, acting as a global leader in data stewardship and providing rich data resources and responsive educational opportunities for present and future generations.&lt;/p&gt;
-
-&lt;p&gt;Join &lt;a href="https://library.stanford.edu/people/ronbo"&gt;&lt;b&gt;Ron Nakao&lt;/b&gt;&lt;/a&gt;, Data and Economics Librarian and Stanford&amp;#39;s Official ICPSR Representative, to learn about the ICPSR &amp;mdash; and Social Science data services at Stanford more broadly.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 16:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/talk_icpsr_inter-university_consortium_for_political_and_social_research</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42397609855482/huge/7563cc899b2c784ddefd975c7b6d18337fae3276.jpg" medium="image" type="image/png" height="1200" width="1200" isDefault="true" fileSize="166500"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>Bonbons, books, and board games at Green Library</title>
-      <description>&lt;p&gt;Looking for the perfect book? Tired of browsing bookshelves to come away empty-handed? We have the perfect solution! Speed dating&amp;hellip; but with books.&lt;/p&gt;
-
-&lt;p&gt;Valentine&amp;#39;s Day with Stanford Libraries&lt;/p&gt;
-
-&lt;p&gt;Join us this Valentine&amp;rsquo;s Day to eat bonbons, play board games, and yes, speed date some books.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;7:00 PM | Dessert&lt;/li&gt;
-&lt;li&gt;7:20 PM | Book Speed Dating&lt;/li&gt;
-&lt;li&gt;8:00 PM | Board Games&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;i&gt;I﻿f you would like to volunteer for this event, we would be happy to have you facilitate a board game. Please use&amp;nbsp;&lt;/i&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdhlXSagXLMkbNr7lycRa8I9OwPHJY7G606ie-bdlWiBmA8Pw/viewform?usp=share_link" rel="nofollow noopener noreferrer" target="_blank"&gt;&lt;i&gt;this form&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&amp;nbsp;to contact us.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;If you are not affiliated with Stanford, you are still welcome. You will need to first register at the front desk though, and to check any books, you will need to get a fee-based library card. Read more about&amp;nbsp;&lt;/i&gt;&lt;a href="https://library.stanford.edu/using/access-and-privileges/visitor-access-and-borrowing" rel="nofollow noopener noreferrer" target="_blank"&gt;&lt;i&gt;visitor access and borrowing&lt;/i&gt;&lt;/a&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 Feb 2023 19:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/bonbons_books_and_board_games</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42290888373023/huge/37cf33d3db0625d7c66b51a9fcf6666c958e2da0.jpg" medium="image" type="image/jpeg" height="1080" width="2160" isDefault="true" fileSize="175170"/>
-      <category>Social Event/Reception</category>
     </item>
     <item>
       <title>Accelerating the Use of Public Geophysical Data for Recharging California's Groundwater</title>
@@ -292,6 +67,17 @@ Datasets on Data Farm are interoperable with common data analysis tools such as:
       <pubDate>Wed, 15 Feb 2023 11:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/accelerating_the_use_of_public_geophysical_data_for_recharging_californias_groundwater</link>
       <media:content url="https://localist-images.azureedge.net/photos/42360946209249/huge/639a4792e4fd3f392e714bd19e9b8c965d2e3b55.jpg" medium="image" type="image/png" height="515" width="515" isDefault="true" fileSize="356976"/>
+    </item>
+    <item>
+      <title>Imagining Maritime Spaces Exhibition at David Rumsey Map Center</title>
+      <description>&lt;p&gt;&lt;i&gt;Imagining Maritime Spaces&lt;/i&gt;&amp;nbsp;draws together maps of the world&amp;rsquo;s oceans and seas to explore how cartographers, navigators, and others have historically come to know and to represent these dynamic spaces. Charts, tools, and other visualizations illustrate elements of navigation by stars, winds, and waves, exploration of unknown waters and depths, and shifting coasts. This exhibit coincides with the Computational Archaeology &amp;amp; Seafaring Theory Workshop being sponsored by the Archaeology Center and collaborating centers and institutions both on and beyond campus. The exhibition was curated by Justin Leidwanger, Beth Minney and Nicole Constantine; it was coordinated and mounted by Kristina Larsen.&amp;nbsp; The exhibition opens at the same time as the&amp;nbsp;&lt;i&gt;Micronesian&amp;nbsp;Seafaring System&lt;/i&gt;&amp;nbsp;talk and can be viewed during the Center&amp;#39;s open hours until Feb 10, 2023.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 15 Feb 2023 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/ImaginingMaritimeSpacesExhibition</link>
+      <geo:lat>37.426818</geo:lat>
+      <geo:long>-122.16714</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/41768402192589/huge/c260d776d652a9531faad55d7e816255851dad66.jpg" medium="image" type="image/jpeg" height="866" width="1200" isDefault="true" fileSize="321602"/>
+      <category>Exhibition</category>
     </item>
     <item>
       <title>Implementing Privacy Reviews in Digital Archival Collections</title>
@@ -663,6 +449,46 @@ Many early modern Chinese, Japanese, and Korean maps draw lines in ocean areas t
       <category>Workshop</category>
     </item>
     <item>
+      <title>SSDS Text Analysis and Machine Learning Group - Meeting 1 at 120F Green Library (Velma Denning Room)</title>
+      <description>&lt;p&gt;&lt;b&gt;Every Friday in April, 1-4PM in 120F Green Library (Velma Denning Room)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10385304" target="_blank"&gt;&lt;b&gt;Register here&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:16px"&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/spring2023/1_How_to_use_this_book.html" target="_blank"&gt;Click here to open the book and get started.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 7&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 1-3&amp;nbsp;&amp;nbsp; &lt;i&gt;Gain confidence&lt;/i&gt; coding with Python to import, wrangle, visualize, and understand data&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 14&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 4-5&amp;nbsp;&amp;nbsp; &lt;i&gt;Develop strategies&lt;/i&gt; to internalize basic principles for working with text and machine learning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 21&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 6-7&amp;nbsp;&amp;nbsp; &lt;i&gt;Learn best practices&lt;/i&gt; for performing text analysis within and across documents&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 27&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 8-9&amp;nbsp;&amp;nbsp; &lt;i&gt;Explore new research possibilities&lt;/i&gt; with large language models&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 07 Apr 2023 13:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/ssds_text_analysis_and_machine_learning_group_-_meeting_1_3560</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42403934637389/huge/c98c6cafa4edbc34196682c1112c389737ae3b24.jpg" medium="image" type="image/png" height="1370" width="1705" isDefault="true" fileSize="507452"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>SSDS Text Analysis and Machine Learning Group - Meeting 2 at 120F Green Library (Velma Denning Room)</title>
+      <description>&lt;p&gt;&lt;b&gt;Every Friday in April, 1-4PM in 120F Green Library (Velma Denning Room)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10385307" target="_blank"&gt;&lt;b&gt;Register here&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:16px"&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/spring2023/4_Numeric_data_wrangling.html" target="_blank"&gt;Click here to open the book and get started.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 7&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 1-3&amp;nbsp;&amp;nbsp; &lt;i&gt;Gain confidence&lt;/i&gt; coding with Python to import, wrangle, visualize, and understand data&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 14&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 4-5&amp;nbsp;&amp;nbsp; &lt;i&gt;Develop strategies&lt;/i&gt; to internalize basic principles for working with text and machine learning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 21&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 6-7&amp;nbsp;&amp;nbsp; &lt;i&gt;Learn best practices&lt;/i&gt; for performing text analysis within and across documents&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 27&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 8-9&amp;nbsp;&amp;nbsp; &lt;i&gt;Explore new research possibilities&lt;/i&gt; with large language models&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 14 Apr 2023 13:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/ssds_text_analysis_and_machine_learning_group_-_meeting_2_3817</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42403931372745/huge/28ab47031a57fe449c06e722c838298b5fd9d9a9.jpg" medium="image" type="image/png" height="1370" width="1705" isDefault="true" fileSize="507452"/>
+      <category>Workshop</category>
+    </item>
+    <item>
       <title>Tabletop Tuesdays at Green Library, East Wing, SVA Seminar Room (Hohbach 126)</title>
       <description>&lt;p&gt;Save the date for April&amp;#39;s &lt;i&gt;Tabletop Tuesdays&amp;nbsp;&lt;/i&gt;(theme and featured games TBD).&amp;nbsp;&lt;/p&gt;
 
@@ -672,6 +498,46 @@ Many early modern Chinese, Japanese, and Korean maps draw lines in ocean areas t
       <link>https://events.stanford.edu/event/tabletop_tuesdays_2015</link>
       <media:content url="https://localist-images.azureedge.net/photos/41286228556903/huge/0b8000d865e38646ca9cfca163ffacd123b4d682.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
       <category>Other</category>
+    </item>
+    <item>
+      <title>SSDS Text Analysis and Machine Learning Group - Meeting 3 at 120F Green Library (Velma Denning Room)</title>
+      <description>&lt;p&gt;&lt;b&gt;Every Friday in April, 1-4PM in 120F Green Library (Velma Denning Room)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10385314" target="_blank"&gt;&lt;b&gt;Register here&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:16px"&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/spring2023/6_Core_concepts_vocabularies.html" target="_blank"&gt;Click here to open the book and get started.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 7&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 1-3&amp;nbsp;&amp;nbsp; &lt;i&gt;Gain confidence&lt;/i&gt; coding with Python to import, wrangle, visualize, and understand data&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 14&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 4-5&amp;nbsp;&amp;nbsp; &lt;i&gt;Develop strategies&lt;/i&gt; to internalize basic principles for working with text and machine learning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 21&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 6-7&amp;nbsp;&amp;nbsp; &lt;i&gt;Learn best practices&lt;/i&gt; for performing text analysis within and across documents&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 27&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 8-9&amp;nbsp;&amp;nbsp; &lt;i&gt;Explore new research possibilities&lt;/i&gt; with large language models&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 21 Apr 2023 13:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/ssds_text_analysis_and_machine_learning_group_-_meeting_3_3486</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42403929043465/huge/edcc34c4e78af4c417e5ab41bedb3f61e08bdad6.jpg" medium="image" type="image/png" height="1370" width="1705" isDefault="true" fileSize="507452"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>SSDS Text Analysis and Machine Learning Group - Meeting 4 at 120F Green Library (Velma Denning Room)</title>
+      <description>&lt;p&gt;&lt;b&gt;Every Friday in April, 1-4PM in 120F Green Library (Velma Denning Room)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10385321" target="_blank"&gt;&lt;b&gt;Register here&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:16px"&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/spring2023/8_spaCy_textaCy.html" target="_blank"&gt;Click here to open the book and get started.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 7&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 1-3&amp;nbsp;&amp;nbsp; &lt;i&gt;Gain confidence&lt;/i&gt; coding with Python to import, wrangle, visualize, and understand data&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 14&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 4-5&amp;nbsp;&amp;nbsp; &lt;i&gt;Develop strategies&lt;/i&gt; to internalize basic principles for working with text and machine learning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 21&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 6-7&amp;nbsp;&amp;nbsp; &lt;i&gt;Learn best practices&lt;/i&gt; for performing text analysis within and across documents&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 27&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 8-9&amp;nbsp;&amp;nbsp; &lt;i&gt;Explore new research possibilities&lt;/i&gt; with large language models&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 28 Apr 2023 13:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/ssds_text_analysis_and_machine_learning_group_-_meeting_4_4169</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42403927605041/huge/72494d0d0cfc33baf275ae6e867b1ba9895b4403.jpg" medium="image" type="image/png" height="1370" width="1705" isDefault="true" fileSize="507452"/>
+      <category>Workshop</category>
     </item>
   </channel>
 </rss>
