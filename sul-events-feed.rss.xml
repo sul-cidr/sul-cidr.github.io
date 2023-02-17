@@ -21,7 +21,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/carsandclimbing</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -45,84 +45,12 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/NeartoFar</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42058301559081/huge/36fafe335d4ba8833cf2adab9aa7e6fd18ce788a.jpg" medium="image" type="image/png" height="690" width="766" isDefault="true" fileSize="593167"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Introduction to GeoPandas</title>
-      <description>&lt;p&gt;GeoPandas is an extension of the open-source Python Data Analysis Library, Pandas, which can be used to read, write, and analyze vector geospatial data formats. GeoPandas enables you to easily do operations in Python that would otherwise require a spatial database such as PostGIS. In this workshop, we will introduce GeoPandas and learn how to perform a variety of geospatial data science tasks to work efficiently with geographic vector datasets.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 16 Feb 2023 09:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/introduction_to_geopandas</link>
-      <media:content url="https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg" type="image/png" medium="image" isDefault="true"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Preserving Born-Digital Library Materials and Access through Emulation</title>
-      <description>&lt;p&gt;Stanford University Libraries&amp;rsquo; Born-Digital Preservation lab will demonstrate the preservation of born-digital source media, offering a virtual walk-through of the disk imaging process and demonstration of how emulation can be used as a potential access strategy.&lt;/p&gt;
-
-&lt;p&gt;In this webinar lab staff will describe how we preserve the contents of born digital source media and can use emulation to make these resources available to researchers.&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://https://stanford.zoom.us/s/99709760067?pwd=a05aZHNVQzhvK0dKdERPMTJab3I4QT09"&gt;&lt;b&gt;Zoom link&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-      <pubDate>Thu, 16 Feb 2023 10:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/preserving_born-digital_library_materials_and_access_through_emulation</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42299420250297/huge/fa0e2033b16dbe6308f9fabff82cd3caf458fdac.jpg" medium="image" type="image/jpeg" height="1200" width="1200" isDefault="true" fileSize="165944"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>Does Your Data Love You Back? Ensuring Credit for Data Scholarship</title>
-      <description>&lt;p&gt;Datasets are increasingly recognized as valuable contributions to the scholarly record. Join &lt;a href="https://profiles.stanford.edu/zach-chandler"&gt;&lt;b&gt;Zach Chandler&lt;/b&gt;&lt;/a&gt;, Director of Open Scholarship Strategy, and &lt;a href="https://profiles.stanford.edu/rochelle-lundy"&gt;&lt;b&gt;Rochelle Lundy&lt;/b&gt;&lt;/a&gt;, Director of the Office of Scholarly Communications, to learn how to maximize the impact of your research data.&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://stanford.zoom.us/j/91018991106?pwd=aC9TcjFxYW1SV3Z4R2E1MDlHaStuUT09"&gt;Click here for the Zoom link&lt;/a&gt;.&lt;br /&gt;
-&lt;i&gt;To request a copy of the presentation slides, &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfycnqHjvhBy249TmeWb_dqrWVm-o5fkoCKX1FggvQIvxR8dQ/viewform?usp=sf_link"&gt;click here&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;This event is part of &lt;b&gt;&lt;a href="http://lovedata.stanford.edu"&gt;Love Data Week&lt;/a&gt;&lt;/b&gt; at Stanford Libraries. Check out &lt;a href="http://lovedata.stanford.edu"&gt;other events&lt;/a&gt; during the week of February 13th - 17th, including an in-person Fair and Lightning Talks at Green Library on the afternoon of February 14th.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 16 Feb 2023 13:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/does_your_data_love_you_back_ensuring_credit_for_data_scholarship</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42299454085453/huge/1b7def79f59e19b3e0d4a2025ece84e645f9c8bb.jpg" medium="image" type="image/jpeg" height="1200" width="1200" isDefault="true" fileSize="165944"/>
-      <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>Imagining Maritime Spaces Exhibition at David Rumsey Map Center</title>
-      <description>&lt;p&gt;&lt;i&gt;Imagining Maritime Spaces&lt;/i&gt;&amp;nbsp;draws together maps of the world&amp;rsquo;s oceans and seas to explore how cartographers, navigators, and others have historically come to know and to represent these dynamic spaces. Charts, tools, and other visualizations illustrate elements of navigation by stars, winds, and waves, exploration of unknown waters and depths, and shifting coasts. This exhibit coincides with the Computational Archaeology &amp;amp; Seafaring Theory Workshop being sponsored by the Archaeology Center and collaborating centers and institutions both on and beyond campus. The exhibition was curated by Justin Leidwanger, Beth Minney and Nicole Constantine; it was coordinated and mounted by Kristina Larsen.&amp;nbsp; The exhibition opens at the same time as the&amp;nbsp;&lt;i&gt;Micronesian&amp;nbsp;Seafaring System&lt;/i&gt;&amp;nbsp;talk and can be viewed during the Center&amp;#39;s open hours until Feb 10, 2023.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 16 Feb 2023 13:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/ImaginingMaritimeSpacesExhibition</link>
-      <geo:lat>37.426818</geo:lat>
-      <geo:long>-122.16714</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/41768402192589/huge/c260d776d652a9531faad55d7e816255851dad66.jpg" medium="image" type="image/jpeg" height="866" width="1200" isDefault="true" fileSize="321602"/>
-      <category>Exhibition</category>
-    </item>
-    <item>
-      <title>CIDR Python Data Wrangling</title>
-      <description>&lt;p&gt;This workshop teaches basic data manipulation with Python using the Pandas library, and will cover topics such as loading data into and out of a Pandas DataFrame, performing basic data cleaning, preparation, and analysis, and visualizing relevant aspects of a dataset.&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&lt;a href="https://appointments.library.stanford.edu/event/10080959" target="_blank"&gt;Register here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CIDR Introduction to Python (or similar knowledge).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Workshop materials:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python" rel="noopener" target="_blank"&gt;https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Thu, 16 Feb 2023 16:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/cidr_python_data_wrangling_3961</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>ArcGIS StoryMaps 101 with the Esri StoryMaps Editorial Team at The David Rumsey Map Center at Green Library</title>
@@ -184,7 +112,7 @@
       <link>https://events.stanford.edu/event/tabletop_tuesdays_1402</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/41286228185169/huge/55c529468b999eccd1478cbb548c74216410679f.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
+      <media:content url="https://localist-images.azureedge.net/photos/41286228185169/huge/530aab282ec422705b01a29a7cbec6a068bcb067.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
       <category>Other</category>
     </item>
     <item>
