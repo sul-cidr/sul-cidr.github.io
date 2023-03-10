@@ -21,7 +21,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/carsandclimbing</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -45,7 +45,7 @@
 &lt;li&gt;Parking regulations are enforced from 8 AM - 4 PM on weekdays unless otherwise posted.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/NeartoFar</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -55,42 +55,12 @@
     <item>
       <title>The Photographs of Rod Dresser at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;a href="https://library.stanford.edu/spc/current-exhibits" target="_blank" rel="noopener"&gt;&lt;em&gt;The Photographs of Rod Dresser&lt;/em&gt;&lt;/a&gt;, on view March 3, 2023, through May 7, 2023, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing. &lt;/p&gt;  &lt;p&gt;The exhibition is curated by Roberto Trujillo; produced and designed by Deardra Fuzzell. &lt;/p&gt;  &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" target="_blank" rel="noopener"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;</description>
-      <pubDate>Thu, 09 Mar 2023 09:00:00 -0800</pubDate>
+      <pubDate>Fri, 10 Mar 2023 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42399897509627/huge/a811011388d7c0cc77f68cae6693093fdf271dd9.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="211604"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>CIDR R Machine Learning</title>
-      <description>&lt;p&gt;This workshop provides a beginner-friendly introduction to machine learning vocabulary and concepts, quantitative data preprocessing for machine learning, and the SuperLearner R package.&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&lt;a href="https://appointments.library.stanford.edu/event/10080965" target="_blank"&gt;Register here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Prerequisites: &lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CIDR Introduction to R workshop (or similar experience).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Before the workshop, be sure to download and install:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;R: &lt;a href="https://cloud.r-project.org/" rel="noopener" target="_blank"&gt;https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" rel="noopener" target="_blank"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Workshop materials:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/EastBayEv/Intro_ML_R"&gt;https://github.com/EastBayEv/Intro_ML_R&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Thu, 09 Mar 2023 16:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/cidr_r_machine_learning_3970</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41793171351192/huge/f79638acd09cdd3eb46f5563266d54bf52a9d0a6.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>CIDR Python Text Analysis</title>
