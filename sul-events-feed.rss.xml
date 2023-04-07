@@ -5,21 +5,6 @@
     <description></description>
     <link>https://events.stanford.edu/</link>
     <item>
-      <title>The Photographs of Rod Dresser at Green Library, Bing Wing</title>
-      <description>&lt;p&gt;Stanford Libraries presents &lt;a href="https://library.stanford.edu/spc/current-exhibits" rel="noopener" target="_blank"&gt;&lt;i&gt;The Photographs of Rod Dresser&lt;/i&gt;&lt;/a&gt;, on view March 3, 2023, through May 7, 2023, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;The exhibition is curated by Roberto Trujillo; produced and designed by Deardra Fuzzell.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the&amp;nbsp;&lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page&amp;nbsp;&lt;/a&gt;to confirm hours and access.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 06 Apr 2023 09:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
-      <geo:lat>37.426984</geo:lat>
-      <geo:long>-122.167998</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42399897509627/huge/20e948668a25dcc3861d6d013c6c3f452068bb5d.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="211604"/>
-      <category>Exhibition</category>
-    </item>
-    <item>
       <title>Introduction to QGIS at Branner Earth Sciences Library</title>
       <description>&lt;p&gt;This introductory workshop will focus on the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics covered:&lt;/p&gt;
 
@@ -47,6 +32,21 @@
       <geo:long>-122.172635</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/39501269457862/huge/c9436efb55d1fa91fd8c88e2008b705fd725d305.jpg" medium="image" type="image/png" height="422" width="597" isDefault="true" fileSize="284421"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>The Photographs of Rod Dresser at Green Library, Bing Wing</title>
+      <description>&lt;p&gt;Stanford Libraries presents &lt;a href="https://library.stanford.edu/spc/current-exhibits" rel="noopener" target="_blank"&gt;&lt;i&gt;The Photographs of Rod Dresser&lt;/i&gt;&lt;/a&gt;, on view March 3, 2023, through May 7, 2023, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The exhibition is curated by Roberto Trujillo; produced and designed by Deardra Fuzzell.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the&amp;nbsp;&lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page&amp;nbsp;&lt;/a&gt;to confirm hours and access.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 07 Apr 2023 09:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/42399897509627/huge/20e948668a25dcc3861d6d013c6c3f452068bb5d.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="211604"/>
+      <category>Exhibition</category>
     </item>
     <item>
       <title>SSDS Text Analysis and Machine Learning Group - Meeting 1 at 120F Green Library (Velma Denning Room)</title>
@@ -344,7 +344,7 @@ This event will be livestreamed &lt;b&gt;&lt;a href="https://music.stanford.edu/
       <link>https://events.stanford.edu/event/the_provenance_of_medieval_manuscripts_a_workshop_with_peter_kidd</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42845788025688/huge/622d418f83bc95c8eb22cf06367304d6f655545c.jpg" medium="image" type="image/jpeg" height="1183" width="1344" isDefault="true" fileSize="305566"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42845788025688/huge/6b405180ea2ea950c5af642395aa154823a56f09.jpg" medium="image" type="image/jpeg" height="1183" width="1344" isDefault="true" fileSize="305566"/>
       <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
