@@ -5,35 +5,6 @@
     <description></description>
     <link>https://events.stanford.edu/</link>
     <item>
-      <title>Introduction to QGIS at Branner Earth Sciences Library</title>
-      <description>&lt;p&gt;This introductory workshop will focus on the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics covered:&lt;/p&gt;
-
-&lt;p&gt;What is a GIS?&lt;/p&gt;
-
-&lt;p&gt;Spatial Data Models and Formats&lt;/p&gt;
-
-&lt;p&gt;Projections and Coordinate Systems&lt;/p&gt;
-
-&lt;p&gt;Basic Data Management&lt;/p&gt;
-
-&lt;p&gt;The QGIS User Interface&lt;/p&gt;
-
-&lt;p&gt;Basic Analysis and Map Construction&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Note:&amp;nbsp;&lt;/b&gt;Open to current Stanford affiliates&amp;nbsp;&lt;b&gt;ONLY&lt;/b&gt;. This workshop or prior GIS experience are required for most other SGC workshops.&lt;/p&gt;
-
-&lt;p&gt;Plese use the Event Website to register. Registration page has link to online resouerces for workshop.&lt;/p&gt;
-</description>
-      <pubDate>Fri, 07 Apr 2023 09:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/introduction_to_qgis_2483</link>
-      <geo:lat>37.426402</geo:lat>
-      <geo:long>-122.172635</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/39501269457862/huge/c9436efb55d1fa91fd8c88e2008b705fd725d305.jpg" medium="image" type="image/png" height="422" width="597" isDefault="true" fileSize="284421"/>
-      <category>Workshop</category>
-    </item>
-    <item>
       <title>The Photographs of Rod Dresser at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;a href="https://library.stanford.edu/spc/current-exhibits" rel="noopener" target="_blank"&gt;&lt;i&gt;The Photographs of Rod Dresser&lt;/i&gt;&lt;/a&gt;, on view March 3, 2023, through May 7, 2023, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing.&amp;nbsp;&lt;/p&gt;
 
@@ -41,32 +12,12 @@
 
 &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the&amp;nbsp;&lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page&amp;nbsp;&lt;/a&gt;to confirm hours and access.&lt;/p&gt;
 </description>
-      <pubDate>Fri, 07 Apr 2023 09:00:00 -0700</pubDate>
+      <pubDate>Sat, 08 Apr 2023 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42399897509627/huge/20e948668a25dcc3861d6d013c6c3f452068bb5d.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="211604"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>SSDS Text Analysis and Machine Learning Group - Meeting 1 at 120F Green Library (Velma Denning Room)</title>
-      <description>&lt;p&gt;&lt;b&gt;Every Friday in April, 1-4PM in 120F Green Library (Velma Denning Room)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10385304" target="_blank"&gt;&lt;b&gt;Register here&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:16px"&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/spring2023/1_How_to_use_this_book.html" target="_blank"&gt;Click here to open the book and get started.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 7&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 1-3&amp;nbsp;&amp;nbsp; &lt;i&gt;Gain confidence&lt;/i&gt; coding with Python to import, wrangle, visualize, and understand data&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 14&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 4-5&amp;nbsp;&amp;nbsp; &lt;i&gt;Develop strategies&lt;/i&gt; to internalize basic principles for working with text and machine learning&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 21&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 6-7&amp;nbsp;&amp;nbsp; &lt;i&gt;Learn best practices&lt;/i&gt; for performing text analysis within and across documents&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 27&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 8-9&amp;nbsp;&amp;nbsp; &lt;i&gt;Explore new research possibilities&lt;/i&gt; with large language models&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Fri, 07 Apr 2023 13:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/ssds_text_analysis_and_machine_learning_group_-_meeting_1_3560</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42403934637389/huge/5a60dc81e81c693020ba2c5f75f38c9da5b7983e.jpg" medium="image" type="image/png" height="1370" width="1705" isDefault="true" fileSize="507452"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>Special, Unique, and Rare: Food at Green Library, Hohbach Hall</title>
