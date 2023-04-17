@@ -12,7 +12,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Sun, 16 Apr 2023 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/access_assist</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public. &lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Sun, 16 Apr 2023 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/unexpected_tech</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -42,7 +42,7 @@
 
 &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the&amp;nbsp;&lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page&amp;nbsp;&lt;/a&gt;to confirm hours and access.&lt;/p&gt;
 </description>
-      <pubDate>Sun, 16 Apr 2023 09:00:00 -0700</pubDate>
+      <pubDate>Mon, 17 Apr 2023 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -334,6 +334,109 @@ This event will be livestreamed &lt;b&gt;&lt;a href="https://music.stanford.edu/
       <category>Social Event/Reception</category>
     </item>
     <item>
+      <title>SSDS Intro to Qualtrics at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;Attend this workshop and learn the Qualtrics survey software, why you should use it, and how to access it. We will teach you how to create a survey, write different question types and understand their behaviors, organize questions into blocks, explore response data, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649655" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(coming soon)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 10 May 2023 10:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/ssds_intro_to_qualtrics</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944082270075/huge/7917167d26dc76add09950c2043d1e1af93d9a05.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>SSDS R Bootcamp at Tierney Room (Green Library 121A)</title>
+      <description>&lt;p&gt;Need to get up to speed with R in a hurry? Join SSDS as we spend the day learning R! This fast-paced bootcamp will introduce you to many aspects of R, including the basics of research design, navigating R and RStudio, data types and structures, wrangling and reshaping, visualization, exploratory data analysis, statistical tests, presentation of your research, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649348" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;9:15 - 9:30AM PST: Installations (optional).&lt;/b&gt; Show up early if you need installation help&lt;br /&gt;
+&lt;a href="https://cloud.r-project.org/" target="_blank"&gt;Click this text to download R&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://posit.co/download/rstudio-desktop/" target="_blank"&gt;Click this text to download RStudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;9:30 - 9:45: The modern academic research workflow&lt;/b&gt;&lt;br /&gt;
+Researcher responsibiltiies&lt;br /&gt;
+R and RStudio, navigating RStudio&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;9:45 - 10:45: R basics&lt;/b&gt;&lt;br /&gt;
+Variable assignment; functions, parameters, and arguments&lt;br /&gt;
+Data types: numeric, character, logical, integer, factor&lt;br /&gt;
+Data structures: lists and matrices, vectors and data frames&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;10:45 - 11:00: Break&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;11:00-12:00PM: Data wrangling and reshaping&lt;/b&gt;&lt;br /&gt;
+The dollar sign operator and backet notation&lt;br /&gt;
+The dplyr and tidyr R packages&lt;br /&gt;
+Working with text data&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;12:00 - 1:15: Data visualizaiton with ggplot2&lt;/b&gt;&lt;br /&gt;
+ggplot2 requirements: layers, the plus symbol, data, aes, geom_, and theme_&lt;br /&gt;
+Histogram: hist and geom_histogram&lt;br /&gt;
+Boxplot: boxplot and geom_boxplot)&lt;br /&gt;
+Barchart: geom_col&lt;br /&gt;
+Scatterplot: plot, geom_point, and geom_jitter&lt;br /&gt;
+Line plot: geom_line&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;1:15 - 2:15: Exploratory data analysis&lt;/b&gt;&lt;br /&gt;
+Summary statistics: mean, standard deviation, median, skew, and kurtosis&lt;br /&gt;
+Principal component analysis&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+&lt;b&gt;2:15 - 3:15: Hypotheses, p-values, and confidence intervals&lt;/b&gt;&lt;br /&gt;
+Sums of squares tests: t.test, aov, cor.test, lm&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;3:15 - 3:30: Break&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;3:30 - 4:30: Presenting your research&lt;/b&gt;&lt;br /&gt;
+R Markdown, knit, html, ioslides&lt;br /&gt;
+Dashboards with the flexdashboard package&lt;br /&gt;
+Reproducible research and the targets package&lt;br /&gt;
+Tips for writing&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;4:30 - 4:45: Wrap-up&lt;/b&gt;&lt;br /&gt;
+Green Library, SSDS, tutorials, and other resources&lt;/p&gt;
+</description>
+      <pubDate>Fri, 12 May 2023 09:30:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/ssds_r_bootcamp</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944157195645/huge/c955a5acfa9904123f987f3facedd9ea67c4877b.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>CIDR Intro to Python at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;This workshop provides an introduction to the Python programming language: basic syntax, variable assignment, functions, .txt and .csv data import, and how to understand error messages and find help. You will learn enough Python to perform common tasks and explore the rich environment of Python packages available.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649349" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/intro.html" rel="noopener" target="_blank"&gt;https://eastbayev.github.io/SSDS-TAML/intro.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 15 May 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_intro_to_python_9385</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42943932423562/huge/7775c9d55256496fa8e86847b7e63390250f2e3b.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
       <title>Tabletop Tuesdays at Green Library, East Wing, SVA Seminar Room (Hohbach 126)</title>
       <description>&lt;p&gt;Save the date for May&amp;#39;s &lt;i&gt;Tabletop Tuesdays&amp;nbsp;&lt;/i&gt;(theme and featured games TBD).&amp;nbsp;&lt;/p&gt;
 
@@ -343,6 +446,29 @@ This event will be livestreamed &lt;b&gt;&lt;a href="https://music.stanford.edu/
       <link>https://events.stanford.edu/event/tabletop_tuesdays_6593</link>
       <media:content url="https://localist-images.azureedge.net/photos/41286228738162/huge/3f8b100c63ed496606ccee46a8c4b5897cde4123.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
       <category>Other</category>
+    </item>
+    <item>
+      <title>CIDR Python Data Wrangling at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;This workshop teaches basic data manipulation with Python using the Pandas library, and will cover topics such as loading data into and out of a Pandas DataFrame, performing basic data cleaning, preparation, and analysis, and visualizing relevant aspects of a dataset.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649351" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to Python (or similar knowledge).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python" rel="noopener" target="_blank"&gt;https://github.com/sul-cidr/Workshops/tree/master/Data_Manipulation_with_Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 17 May 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_python_data_wrangling_3345</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944264665011/huge/57bde645816477766462736f858e868acdf24604.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
     </item>
     <item>
       <title>The War in Ukraine and the Baltic States at Encina Commons, Room 119</title>
@@ -358,6 +484,147 @@ This event will be livestreamed &lt;b&gt;&lt;a href="https://music.stanford.edu/
       <link>https://events.stanford.edu/event/the_war_in_ukraine_and_the_baltic_states</link>
       <media:content url="https://localist-images.azureedge.net/photos/42783640147096/huge/68e78d678bc08233294ed0eb2fcd48dcfedf8d00.jpg" medium="image" type="image/jpeg" height="2424" width="3636" isDefault="true" fileSize="2717769"/>
       <category>Lecture/Presentation/Talk</category>
+    </item>
+    <item>
+      <title>SSDS Bash Bootcamp at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;Have you ever wanted to build a basic data science toolkit but can&amp;rsquo;t get started? No need for Python and R to hog all the credit, kickstart Winter Quarter with SSDS&amp;rsquo;s Bash Bootcamp!&lt;/p&gt;
+
+&lt;p&gt;This 4-hour data science project will boost your confidence through transferrable skills essential for the modern, data-driven job market.&lt;/p&gt;
+
+&lt;p&gt;Here you will learn the basics of: 1) the Bash programming language, 2) Git for version control, 3) SQLite database engine, and 4) free static GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649350" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Part 1 - 10:00-11:00 AM -&lt;/b&gt; Learn basic Bash code to navigate your computer&amp;rsquo;s file system and create directories and files using pwd, ls, cd, mkdir, and touch commands.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Part 2 - 11:00-12:00 PM -&lt;/b&gt; Build a Git repository to control version tracking with git clone, add, commit, push, and pull.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;12:00-1:00 PM - Lunch on your own&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Part 3 - 1:00-2:00 PM -&lt;/b&gt; Launch SQLite3 and learn to wrangle data with SELECT, FROM, WHERE, GROUP BY, and ORDER BY.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Part 4 - 2:00-3:00 PM -&lt;/b&gt; Use the GitHub repository you build in parts 1-3 and turn it into a simple static webpage with GitHub Pages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Links to materials: &lt;a href="https://github.com/EastBayEv/BashGitHub" target="_blank"&gt;BashGitHub&lt;/a&gt;, &lt;a href="https://github.com/EastBayEv/IntroSQLite" target="_blank"&gt;IntroSQLite&lt;/a&gt;, and &lt;a href="https://github.com/EastBayEv/GitHubPages" target="_blank"&gt;GitHubPages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Prerequisites: basic familiarity with computers. &lt;a href="https://github.com" target="_blank"&gt;Sign up for free GitHub account.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;Before the workshop - Mac users&lt;/p&gt;
+
+&lt;p&gt;Make sure you have the Xcode developer toolset installed. Open a Terminal and type:&amp;nbsp;&amp;nbsp; xcode-select --install&lt;br /&gt;
+When asked if you want to install the command line developer tools, click &amp;quot;yes/install&amp;quot;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;Before the workshop - Windows users&lt;/p&gt;
+
+&lt;p&gt;Install GitBash here: &lt;a href="https://git-scm.com/downloads"&gt;https://git-scm.com/downloads&lt;/a&gt;. Download the file and double-click it to run the installer&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 26 May 2023 10:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/ssds_bash_bootcamp_7711</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944281313427/huge/ca8cff869bc321dded937c717adabd232747fb22.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>CIDR Python Data Visualization at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;Data visualizations are essential to effectively communicate research. This workshop will introduce you to three basic visualizations using the Python matplotlib and seaborn libraries: histogram, boxplot, and scatterplot.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649707" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to Python workshop (or similar knowledge)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/fall2022/5_Data_visualization_essentials.html" rel="noopener" target="_blank"&gt;https://eastbayev.github.io/SSDS-TAML/fall2022/5_Data_visualization_essentials.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 29 May 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_python_data_visualization_6820</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944310288117/huge/536d27dd9d932dbf1bb95e66aff0994f066b035a.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>CIDR Python Text Analysis at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;This workshop will introduce you to working with text data using the spaCy and textacy Python libraries. You will learn to effectively streamline text preprocessing, understand word tokenization, sentence segmentation, part-of-speech tagging, and named entity recognition using a single document (a short excerpt from H.G. Wells&amp;#39;s A Short History of the World) and across a corpus of legal documents.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649353" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to Python workshop (or similar experience)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Text_Analysis_with_Python" rel="noopener" target="_blank"&gt;https://github.com/sul-cidr/Workshops/tree/master/Text_Analysis_with_Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 31 May 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_python_text_analysis_5149</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944325108896/huge/65c388daee5119249df2cf63f9511c8cca06b49b.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>CIDR Python Machine Learning at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;This workshop provides a gentle introduction to machine learning vocabulary and concepts. You will learn the basics for classifying text and images using the scikit-learn, lime, and tensorflow Python libraries.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649354" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to Python workshop (or similar experience).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Intro_to_ML_with_Python" rel="noopener" target="_blank"&gt;https://github.com/sul-cidr/Workshops/tree/master/Intro_to_ML_with_Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 05 Jun 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_python_machine_learning_3127</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944386409314/huge/795a72a2631c658399a05f3bb87a85a06c9d6dcb.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>CIDR Intro to R at Velma Denning Room (Green Library 120F) </title>
+      <description>&lt;p&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649356" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Before the workshop, be sure to download and install the following:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cloud.r-project.org/" target="_blank"&gt;Click this text to download R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rstudio.com/products/rstudio/download/" target="_blank"&gt;Click this text to download RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(coming soon)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 07 Jun 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_intro_to_r_7267</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944421819159/huge/02663a4298f1a8d83514754c7347233506b9a641.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
     </item>
     <item>
       <title>Silicon Valley Talks: John Tinnell at Hohbach Hall</title>
@@ -389,6 +656,96 @@ This event will be livestreamed &lt;b&gt;&lt;a href="https://music.stanford.edu/
       <category>Social Event/Reception</category>
     </item>
     <item>
+      <title>CIDR R Data Wrangling at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;This workshop is for those who know the basics of R and would like to get started working with their research data. Here you will learn ways to wrangle and reshape tabular data, specifically using the dplyr and tidyr packages.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649358" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to R workshop (or equivalent knowledge).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Before the workshop, be sure to download and install:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;R: &lt;a href="https://cloud.r-project.org/" rel="noopener" target="_blank"&gt;https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" rel="noopener" target="_blank"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cengel.github.io/R-data-wrangling" rel="noopener" target="_blank"&gt;(c&lt;/a&gt;oming soon)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 12 Jun 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_intro_to_r_1052</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944437344606/huge/e0e61ae36f1e9ed2d48ded375f0d78b728b2e6e3.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>CIDR R Data Visualization at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;Data visualizations are essential to effectively communicate research. This workshop will review three base plots in R (histogram, boxplot, and scatterplot) before introducing you to the ggplot2 package.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649359" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to R workshop (or similar experience).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Before the workshop, be sure to download and install:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download R:&lt;a href="https://cloud.r-project.org/" rel="noopener" target="_blank"&gt; https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Download RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" rel="noopener" target="_blank"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(coming soon)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 14 Jun 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_r_data_visualization</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944719635435/huge/893e8f08a85259b763494a2a006cdc6a2ddbd85d.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>CIDR R Text Analysis at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;Are you interested in analyzing collections of novels or journal articles? Do you want to understand patterns across collections of tweets or other social media data? In this workshop, you will learn how to import, clean, and analyze collections of text with R using several standard text mining libraries.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649360" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Introduction to R CIDR workshop or equivalent experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Before the workshop, be sure to download and install:&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;R:&lt;a href="https://cloud.r-project.org/" rel="noopener" target="_blank"&gt; https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" rel="noopener" target="_blank"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cengel.github.io/R-text-analysis/" rel="noopener" target="_blank"&gt;https://cengel.github.io/R-text-analysis/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 19 Jun 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_r_text_analysis_7829</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944496964984/huge/68b9e506d2ec92729a0bb2f9265e3711c5939797.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
       <title>Tabletop Tuesdays at Green Library, East Wing, SVA Seminar Room (Hohbach 126)</title>
       <description>&lt;p&gt;Save the date for June&amp;#39;s &lt;i&gt;Tabletop Tuesdays&amp;nbsp;&lt;/i&gt;(theme and featured games TBD).&amp;nbsp;&lt;/p&gt;
 
@@ -398,6 +755,36 @@ This event will be livestreamed &lt;b&gt;&lt;a href="https://music.stanford.edu/
       <link>https://events.stanford.edu/event/tabletop_tuesdays_4825</link>
       <media:content url="https://localist-images.azureedge.net/photos/41286228920445/huge/ecbcf45c53eb8fd88ba5f954cd9fc20c96f8b17b.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
       <category>Other</category>
+    </item>
+    <item>
+      <title>CIDR R Machine Learning at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;This workshop provides a beginner-friendly introduction to machine learning vocabulary and concepts, quantitative data preprocessing for machine learning, and the SuperLearner R package.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649365" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to R workshop (or similar experience).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Before the workshop, be sure to download and install:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;R: &lt;a href="https://cloud.r-project.org/" rel="noopener" target="_blank"&gt;https://cloud.r-project.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;RStudio Desktop Free: &lt;a href="https://www.rstudio.com/products/rstudio/download/" rel="noopener" target="_blank"&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/EastBayEv/Intro_ML_R"&gt;https://github.com/EastBayEv/Intro_ML_R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 21 Jun 2023 09:10:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_r_machine_learning_5471</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944517441077/huge/e98a7ed243462c5fcca46067e22ba5fc9c20b4dd.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
     </item>
   </channel>
 </rss>
