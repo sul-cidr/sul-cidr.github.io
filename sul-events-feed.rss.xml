@@ -12,7 +12,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 19 Apr 2023 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/access_assist</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -27,26 +27,11 @@
 
 &lt;p&gt;This exhibit is free and open to the public. &lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 19 Apr 2023 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/unexpected_tech</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42880922249072/huge/9e5b4f3bb1773b19cdd5bd25c519e69ddda5be82.jpg" medium="image" type="image/png" height="1164" width="1394" isDefault="true" fileSize="2848188"/>
-      <category>Exhibition</category>
-    </item>
-    <item>
-      <title>The Photographs of Rod Dresser at Green Library, Bing Wing</title>
-      <description>&lt;p&gt;Stanford Libraries presents &lt;a href="https://library.stanford.edu/spc/current-exhibits" rel="noopener" target="_blank"&gt;&lt;i&gt;The Photographs of Rod Dresser&lt;/i&gt;&lt;/a&gt;, on view March 3, 2023, through May 7, 2023, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;The exhibition is curated by Roberto Trujillo; produced and designed by Deardra Fuzzell.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the&amp;nbsp;&lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page&amp;nbsp;&lt;/a&gt;to confirm hours and access.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 19 Apr 2023 09:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
-      <geo:lat>37.426984</geo:lat>
-      <geo:long>-122.167998</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42399897509627/huge/20e948668a25dcc3861d6d013c6c3f452068bb5d.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="211604"/>
       <category>Exhibition</category>
     </item>
     <item>
@@ -103,6 +88,21 @@
       <link>https://events.stanford.edu/event/machines_reading_maps_an_introduction_for_stakeholders_and_developers</link>
       <media:content url="https://localist-images.azureedge.net/photos/42960484089114/huge/2e26d47dbca6a7c48d96bcb55e4d4ec1530cedc6.jpg" medium="image" type="image/png" height="1080" width="2160" isDefault="true" fileSize="1555459"/>
       <category>Conference/Symposium</category>
+    </item>
+    <item>
+      <title>The Photographs of Rod Dresser at Green Library, Bing Wing</title>
+      <description>&lt;p&gt;Stanford Libraries presents &lt;a href="https://library.stanford.edu/spc/current-exhibits" rel="noopener" target="_blank"&gt;&lt;i&gt;The Photographs of Rod Dresser&lt;/i&gt;&lt;/a&gt;, on view March 3, 2023, through May 7, 2023, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The exhibition is curated by Roberto Trujillo; produced and designed by Deardra Fuzzell.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the&amp;nbsp;&lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page&amp;nbsp;&lt;/a&gt;to confirm hours and access.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 20 Apr 2023 09:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/42399897509627/huge/20e948668a25dcc3861d6d013c6c3f452068bb5d.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="211604"/>
+      <category>Exhibition</category>
     </item>
     <item>
       <title>Machines Reading Maps: The Future of Historical Cartography as Data at Green Library</title>
@@ -466,7 +466,7 @@ This event will be livestreamed &lt;b&gt;&lt;a href="https://music.stanford.edu/
 &lt;a href="https://posit.co/download/rstudio-desktop/" target="_blank"&gt;Click this text to download RStudio&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;9:30 - 9:45: The modern academic research workflow&lt;/b&gt;&lt;br /&gt;
-Researcher responsibiltiies&lt;br /&gt;
+Researcher responsibilities&lt;br /&gt;
 R and RStudio, navigating RStudio&lt;br /&gt;
 &lt;br /&gt;
 &lt;b&gt;9:45 - 10:45: R basics&lt;/b&gt;&lt;br /&gt;
@@ -484,7 +484,7 @@ Working with text data&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;12:00 - 1:15: Data visualizaiton with ggplot2&lt;/b&gt;&lt;br /&gt;
 ggplot2 requirements: layers, the plus symbol, data, aes, geom_, and theme_&lt;br /&gt;
 Histogram: hist and geom_histogram&lt;br /&gt;
-Boxplot: boxplot and geom_boxplot)&lt;br /&gt;
+Boxplot: boxplot and geom_boxplot&lt;br /&gt;
 Barchart: geom_col&lt;br /&gt;
 Scatterplot: plot, geom_point, and geom_jitter&lt;br /&gt;
 Line plot: geom_line&lt;/p&gt;
@@ -509,7 +509,7 @@ Green Library, SSDS, tutorials, and other resources&lt;/p&gt;
 </description>
       <pubDate>Fri, 12 May 2023 09:30:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/ssds_r_bootcamp</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42944157195645/huge/c955a5acfa9904123f987f3facedd9ea67c4877b.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42944157195645/huge/944724d1eae718392764776fe44b0762e6598432.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -884,6 +884,17 @@ When asked if you want to install the command line developer tools, click &amp;q
       <link>https://events.stanford.edu/event/cidr_r_machine_learning_5471</link>
       <media:content url="https://localist-images.azureedge.net/photos/42944517441077/huge/e98a7ed243462c5fcca46067e22ba5fc9c20b4dd.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>Tabletop Tuesdays at Green Library, East Wing, SVA Seminar Room (Hohbach 126)</title>
+      <description>&lt;p&gt;Save the date for July&amp;#39;s &lt;i&gt;Tabletop Tuesdays&amp;nbsp;&lt;/i&gt;(theme and featured games TBD).&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Tabletop Tuesdays&lt;/i&gt;&amp;nbsp;is a new event series held on the third Tuesday of each month. At these events, we&amp;#39;ll feature a selection of board games and collection items from across SUL&amp;#39;s holdings around a specific theme. Drop in to learn about the month&amp;#39;s featured game(s) and/or try some of the board games we have for open play at the Silicon Valley Archives.&amp;nbsp;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 18 Jul 2023 14:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/tabletop_tuesdays_4057</link>
+      <media:content url="https://localist-images.azureedge.net/photos/41286229107848/huge/a05040354b489bb130246acd26050df9ea7debad.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
+      <category>Other</category>
     </item>
   </channel>
 </rss>
