@@ -12,7 +12,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/access_assist</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public. &lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/unexpected_tech</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -42,76 +42,12 @@
 
 &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the&amp;nbsp;&lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page&amp;nbsp;&lt;/a&gt;to confirm hours and access.&lt;/p&gt;
 </description>
-      <pubDate>Fri, 28 Apr 2023 09:00:00 -0700</pubDate>
+      <pubDate>Sat, 29 Apr 2023 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42399897509627/huge/20e948668a25dcc3861d6d013c6c3f452068bb5d.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="211604"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Postponed: Georeferencing 101 at Green Library</title>
-      <description>&lt;p&gt;&lt;b&gt;Georeferencing in QGIS&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;This workshop covers the basics of georeferencing static images in a GIS using the open source GIS package QGIS. Georeferenced images or maps can be used as contextual layers in a GIS project, or as part of a data extraction process to convert static map data into digital vector data.&lt;/p&gt;
-
-&lt;p&gt;Setting up for best results&lt;/p&gt;
-
-&lt;p&gt;Georeferencing from a set of known map coordinates&lt;/p&gt;
-
-&lt;p&gt;Georeferencing by linking to a basemap&lt;/p&gt;
-
-&lt;p&gt;Digitizing new GIS features from a georeferenced maps&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Note: Open to current Stanford affiliates &lt;b&gt;ONLY&lt;/b&gt;.&lt;/p&gt;
-</description>
-      <pubDate>Fri, 28 Apr 2023 10:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/georeferencing_101_6466</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42094555601095/huge/97e6cebc94fe20c0a9cc473cee969d514a451708.jpg" medium="image" type="image/jpeg" height="450" width="900" isDefault="true" fileSize="221696"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>SSDS Text Analysis and Machine Learning Group - Meeting 4 at 120F Green Library (Velma Denning Room)</title>
-      <description>&lt;p&gt;&lt;b&gt;Every Friday in April, 1-4PM in 120F Green Library (Velma Denning Room)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10385321" target="_blank"&gt;&lt;b&gt;Register here&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:16px"&gt;&lt;a href="https://eastbayev.github.io/SSDS-TAML/spring2023/8_spaCy_textaCy.html" target="_blank"&gt;Click here to open the book and get started.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 7&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 1-3&amp;nbsp;&amp;nbsp; &lt;i&gt;Gain confidence&lt;/i&gt; coding with Python to import, wrangle, visualize, and understand data&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 14&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 4-5&amp;nbsp;&amp;nbsp; &lt;i&gt;Develop strategies&lt;/i&gt; to internalize basic principles for working with text and machine learning&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 21&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 6-7&amp;nbsp;&amp;nbsp; &lt;i&gt;Learn best practices&lt;/i&gt; for performing text analysis within and across documents&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;b&gt;April 27&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chapters 8-9&amp;nbsp;&amp;nbsp; &lt;i&gt;Explore new research possibilities&lt;/i&gt; with large language models&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Fri, 28 Apr 2023 13:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/ssds_text_analysis_and_machine_learning_group_-_meeting_4_4169</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42403927605041/huge/bd37cdff710bef443b051c0911b46fa4b094bb3f.jpg" medium="image" type="image/png" height="1370" width="1705" isDefault="true" fileSize="507452"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Investigating the Provenance of a Medieval Manuscript: A Step-by-Step Demonstration with Peter Kidd at Green Library, East Wing</title>
-      <description>&lt;p&gt;Have you ever wondered how a medieval European manuscript, written many hundreds of years ago, could make its way into the collections of a relatively young university in California? The Department of Special Collections, Stanford Libraries, holds hundreds of medieval manuscript fragments and dozens of manuscript codices. What paths did these items take to get here, whose hands did they pass through, what information can we glean from them about previous owners, collectors, and book dealers, and how can that in turn inform our understanding of these objects?&lt;/p&gt;
-
-&lt;p&gt;The next Stanford Manuscript Sciences gathering focuses on the discipline of provenance in a workshop with world-renowned expert Peter Kidd. Through his work describing and investigating manuscripts for Christie&amp;#39;s and Sotheby&amp;#39;s auction houses, and his role as Curator of Illuminated Manuscripts at the British Library, he has developed a rich and encyclopedic understanding of the ways medieval manuscripts move through our modern world. Since 2006, as a freelance researcher, he has contributed to our knowledge of provenance through his research and teaching, especially his annual courses on provenance research, codicology, and cataloging for the International Palaeography Summer School, and his scholarly blog where he shares the fruits of his research labors, &lt;a href="https://mssprovenance.blogspot.com/"&gt;Medieval Manuscripts Provenance&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The same workshop will be given on two different days so that we can accommodate as many campus attendees as possible in the Special Collections teaching room in Hohbach Hall (HH123). Space is limited, so please register either for the morning workshop on Thursday, April 27, or the afternoon workshop on Friday, April 28.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;This event sponsored by Stanford Libraries, Stanford Global Studies, and Stanford Manuscript Studies&lt;/p&gt;
-</description>
-      <pubDate>Fri, 28 Apr 2023 14:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/the_provenance_of_medieval_manuscripts_a_workshop_with_peter_kidd</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42845788025688/huge/6b405180ea2ea950c5af642395aa154823a56f09.jpg" medium="image" type="image/jpeg" height="1183" width="1344" isDefault="true" fileSize="305566"/>
-      <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
       <title>Ato Quayson: Suffering and Tragedy from the Greeks to Toni Morrison at Green Library, Bing Wing, 5th floor, Bender Room </title>
@@ -151,15 +87,18 @@
       <link>https://events.stanford.edu/event/silicon_valley_talks_raiford_guins</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/42669427114517/huge/56f9a5332775ba368ee37f22c2431723b4ac8ea1.jpg" medium="image" type="image/jpeg" height="751" width="568" isDefault="true" fileSize="61508"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42669427114517/huge/d1ffc87d3a6a00918f2d381ddc918ad1ee019c76.jpg" medium="image" type="image/jpeg" height="751" width="568" isDefault="true" fileSize="61508"/>
       <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
       <title>Take a break, pet a dog at Science and Engineering Quad, Y2E2 Courtyard</title>
-      <description>&lt;p&gt;The Terman Engineering Library is pleased to have therapy dogs again this quarter. Please join us in the Y2E2 Courtyard on Wednesday, May 3 from 3-4pm. Dog and owner teams from Pet Partners will be providing relaxation and stress relief. In the event of rain, look for us under the covered walkway.&lt;/p&gt;  &lt;p&gt;Image Credit: Michael Spencer&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Terman Engineering Library is pleased to have therapy dogs again this quarter. Please join us in the Y2E2 Courtyard on Wednesday, May 3 from 3-4pm. Dog and owner teams from Pet Partners will be providing relaxation and stress relief. In the event of rain, look for us under the covered walkway.&lt;/p&gt;
+
+&lt;p&gt;Image Credit: Michael Spencer&lt;/p&gt;
+</description>
       <pubDate>Wed, 03 May 2023 15:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/take_a_break_pet_a_dog_446</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42833284686117/huge/0b44169f294c84afc035cc0538ab672a9297fa6e.jpg" medium="image" type="image/jpeg" height="418" width="418" isDefault="true" fileSize="94748"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42833284686117/huge/8a5bf2da2c60952dff020db1315be1d539d6e6a4.jpg" medium="image" type="image/jpeg" height="418" width="418" isDefault="true" fileSize="94748"/>
       <category>Social Event/Reception</category>
     </item>
     <item>
