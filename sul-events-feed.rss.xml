@@ -12,7 +12,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 08 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 09 May 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/access_assist</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public. &lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 08 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 09 May 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/unexpected_tech</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -42,29 +42,6 @@
       <link>https://events.stanford.edu/event/special_unique_and_rare_travel_and_tourism</link>
       <media:content url="https://localist-images.azureedge.net/photos/43104265756590/huge/4c3d6ad54acd84d8c40820d66d2a1e9477e2bbcd.jpg" medium="image" type="image/png" height="726" width="800" isDefault="true" fileSize="1399319"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>SSDS Intro to Qualtrics at Velma Denning Room (Green Library 120F)</title>
-      <description>&lt;p&gt;Attend this workshop and learn the Qualtrics survey software, why you should use it, and how to access it. We will teach you how to create a survey, write different question types and understand their behaviors, organize questions into blocks, explore response data, and more.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649655" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Prerequisites: &lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;None&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;(coming soon)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Wed, 10 May 2023 10:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/ssds_intro_to_qualtrics</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42944082270075/huge/7917167d26dc76add09950c2043d1e1af93d9a05.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>Lessons in archiving websites &amp; social media from the Saving Ukrainian Cultural Heritage Online project at Hohbach Hall 126 </title>
@@ -98,16 +75,19 @@ R and RStudio, navigating RStudio&lt;br /&gt;
 &lt;b&gt;9:45 - 10:45: R basics&lt;/b&gt;&lt;br /&gt;
 Variable assignment; functions, parameters, and arguments&lt;br /&gt;
 Data types: numeric, character, logical, integer, factor&lt;br /&gt;
-Data structures: lists and matrices, vectors and data frames&lt;/p&gt;
+Data structures: vectors and data frames (and lists and matrices)&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;10:45 - 11:00: Break&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;11:00-12:00PM: Data wrangling and reshaping&lt;/b&gt;&lt;br /&gt;
-The dollar sign operator and backet notation&lt;br /&gt;
+Indexing, the dollar sign operator, and backet notation&lt;br /&gt;
 The dplyr and tidyr R packages&lt;br /&gt;
+Package installations and finding help&lt;br /&gt;
 Working with text data&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;12:00 - 1:15: Data visualizaiton with ggplot2&lt;/b&gt;&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;12:00 - 1:00: Lunch on your own&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;1:00 - 2:00: Data visualizaiton with ggplot2&lt;/b&gt;&lt;br /&gt;
 ggplot2 requirements: layers, the plus symbol, data, aes, geom_, and theme_&lt;br /&gt;
 Histogram: hist and geom_histogram&lt;br /&gt;
 Boxplot: boxplot and geom_boxplot&lt;br /&gt;
@@ -115,11 +95,11 @@ Barchart: geom_col&lt;br /&gt;
 Scatterplot: plot, geom_point, and geom_jitter&lt;br /&gt;
 Line plot: geom_line&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;1:15 - 2:15: Exploratory data analysis&lt;/b&gt;&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;2:00 - 2:45: More exploratory data analysis&lt;/b&gt;&lt;br /&gt;
 Summary statistics: mean, standard deviation, median, skew, and kurtosis&lt;br /&gt;
 Principal component analysis&lt;br /&gt;
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
-&lt;b&gt;2:15 - 3:15: Hypotheses, p-values, and confidence intervals&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;2:45 - 3:15: Hypotheses, p-values, and confidence intervals&lt;/b&gt;&lt;br /&gt;
 Sums of squares tests: t.test, aov, cor.test, lm&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;3:15 - 3:30: Break&lt;/b&gt;&lt;/p&gt;
@@ -131,11 +111,11 @@ Reproducible research and the targets package&lt;br /&gt;
 Tips for writing&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;4:30 - 4:45: Wrap-up&lt;/b&gt;&lt;br /&gt;
-Green Library, SSDS, tutorials, and other resources&lt;/p&gt;
+Machine learning, Green Library, SSDS, and other resources&lt;/p&gt;
 </description>
       <pubDate>Fri, 12 May 2023 09:30:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/ssds_r_bootcamp</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42944157195645/huge/944724d1eae718392764776fe44b0762e6598432.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42944157195645/huge/943deb0605008289e5037fe3dc46142735db559e.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -162,14 +142,16 @@ Green Library, SSDS, tutorials, and other resources&lt;/p&gt;
       <category>Workshop</category>
     </item>
     <item>
-      <title>Tabletop Tuesdays at Green Library, East Wing, SVA Seminar Room (Hohbach 126)</title>
-      <description>&lt;p&gt;Save the date for May&amp;#39;s &lt;i&gt;Tabletop Tuesdays&amp;nbsp;&lt;/i&gt;(theme and featured games TBD).&amp;nbsp;&lt;/p&gt;
+      <title>Tabletop Tuesdays: Dealing with Sabaac at Hohbach Hall</title>
+      <description>&lt;p&gt;As a belated &lt;i&gt;May the Fourth Be With You&lt;/i&gt; celebration, join us for an exploration of the games associated with the Star Wars universe, including sabacc, that most notorious of galactic card games played by smugglers and pirates. First introduced in an early draft of the&amp;nbsp;&lt;i&gt;Empire Strikes Back&lt;/i&gt;&amp;nbsp;script, sabacc is the method by which Han Solo won his iconic ship the Millennium Falcon from Lando Calrissian. There are numerous fan versions of the rules for playing sabacc and it has been mentioned for many years in the Star Wars novels. However, the first official on-screen game was shown in the movie&amp;nbsp;&lt;i&gt;Solo: A Star Wars Story&lt;/i&gt;&amp;nbsp;(2018)&amp;mdash;the same year that the name &amp;ldquo;sabacc&amp;rdquo; was trademarked by Lucasfilm.&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;Tabletop Tuesdays&lt;/i&gt;&amp;nbsp;is a new event series held on the third Tuesday of each month. At these events, we&amp;#39;ll feature a selection of board games and collection items from across SUL&amp;#39;s holdings around a specific theme. Drop in to learn about the month&amp;#39;s featured game(s) and/or try some of the board games we have for open play at the Silicon Valley Archives.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Tabletop Tuesdays&lt;/i&gt;&amp;nbsp;is an event series held on the third Tuesday of each month. At these events, we&amp;#39;ll feature a selection of board games and collection items from across SUL&amp;#39;s holdings around a specific theme. Drop in to learn about the month&amp;#39;s featured game(s) and/or try some of the board games we have for open play at the Silicon Valley Archives.&amp;nbsp;&lt;/p&gt;
 </description>
       <pubDate>Tue, 16 May 2023 14:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/tabletop_tuesdays_6593</link>
-      <media:content url="https://localist-images.azureedge.net/photos/41286228738162/huge/3f8b100c63ed496606ccee46a8c4b5897cde4123.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="97366"/>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/43136483911053/huge/14e5bd75610469a92413769bde4ce4a4c9919d33.jpg" medium="image" type="image/jpeg" height="1250" width="1250" isDefault="true" fileSize="154785"/>
       <category>Other</category>
     </item>
     <item>
@@ -194,6 +176,19 @@ Green Library, SSDS, tutorials, and other resources&lt;/p&gt;
       <link>https://events.stanford.edu/event/cidr_python_data_wrangling_3345</link>
       <media:content url="https://localist-images.azureedge.net/photos/42944264665011/huge/57bde645816477766462736f858e868acdf24604.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>Neighbors for a Thousand Years. Austrians, Czechs, and Sudeten Germans at Building 200, History Corner</title>
+      <description>&lt;p style="text-align:start"&gt;&lt;span style="font-size:medium"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="text-decoration:none"&gt;&lt;span style="font-size:11pt"&gt;&lt;span&gt;&lt;span&gt;&lt;b&gt;Arnold Suppan&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="text-align:start"&gt;born 1945 in St. Veit/Glan, Carinthia, is Professor emeritus of East European History at the University of Vienna and full member of the Austrian Academy of Sciences. He has been visiting professor at the universities of Leiden, Fribourg, Stanford, and Budapest, as well as secretary general and vice-president of the Austrian Academy of Sciences.&amp;nbsp;He has published several books, including&amp;nbsp;&lt;i&gt;Innere Front 1918&lt;/i&gt;&amp;nbsp;(1974),&amp;nbsp;&lt;i&gt;Die &amp;ouml;sterreichischen Volksgruppen&lt;/i&gt;&amp;nbsp;(1983),&amp;nbsp;&lt;i&gt;Jugoslawien und &amp;Ouml;sterreich 1918-1938&amp;nbsp;&lt;/i&gt;(1996),&amp;nbsp;&lt;i&gt;Oblikovanje nacije u gradjanskoj Hrvatskoj&lt;/i&gt;&amp;nbsp;(1999),&amp;nbsp;&lt;i&gt;Deutsche Geschichte im Osten Europas:&lt;/i&gt;&amp;nbsp;&lt;i&gt;Zwischen Adria und Karawanken&lt;/i&gt;&amp;nbsp;(&amp;sup2;2002),&amp;nbsp;&lt;i&gt;1000 Jahre Nachbarschaft:&lt;/i&gt;&amp;nbsp;&amp;quot;&lt;i&gt;Tschechen&amp;ldquo; und &amp;quot;&amp;Ouml;sterreicher&amp;ldquo; in historischer Perspektive&amp;nbsp;&lt;/i&gt;(2016)&lt;i&gt;, Hitler&amp;ndash;Bene&amp;scaron;&amp;ndash;Tito&lt;/i&gt;&amp;nbsp;(in German 3 vols., &amp;sup3;2017, in English 1 vol., 2019), and&amp;nbsp;&lt;i&gt;The Imperialist Peace order in Central Europe: Saint-Germain and Trianon&lt;/i&gt;&amp;nbsp;(2019).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;&lt;a href="https://bit.ly/3GYDd2T"&gt;&lt;span style="font-size:medium"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="text-decoration:none"&gt;&lt;span style="text-align:start"&gt;RSVP Requested&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 23 May 2023 13:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/neighbors_for_a_thousand_years_austrians_czechs_and_sudeten_germans</link>
+      <geo:lat>37.427405</geo:lat>
+      <geo:long>-122.1697</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/42961918360246/huge/396551242eb084003eb1d699e2ba6e6af805874b.jpg" medium="image" type="image/jpeg" height="1024" width="877" isDefault="true" fileSize="384383"/>
+      <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
       <title>The War in Ukraine and the Baltic States at Encina Commons, Room 119</title>
@@ -379,17 +374,22 @@ When asked if you want to install the command line developer tools, click &amp;q
 &lt;p class="descnormal"&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;Stop by the Stanford Libraries for some self-care during finals week. De-stress with fun activities, yummy snacks, and more.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class="descnormal"&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;b&gt;Green Library |&lt;/b&gt; &lt;b&gt;Wednesday, June 7th | 1:00 &amp;ndash; 3:00 pm&lt;/b&gt;&lt;br /&gt;
-De-stressing activities at Green will include DIY calming jars, dog petting, specialty ice cream, as well as pizza and swag compliments of the Stanford Federal Credit Union. A variety of table activities including games, puzzles, and more will be available outside of Green Library, on the patio nearest Coupa Caf&amp;eacute; throughout the event. Puzzles and coloring books will be available inside Green Library throughout finals week as well!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+De-stressing activities at Green will include DIY calming jars, dog petting, specialty ice cream, as well as pizza and swag compliments of the Stanford Federal Credit Union. A variety of table activities including games, puzzles, and more will be available outside of Green Library, on the patio nearest Coupa Caf&amp;eacute; throughout the event. Puzzles and coloring books will be available inside Green Library throughout finals week as well! See &lt;a href="https://library-hours.stanford.edu/libraries/green?week=2023W23"&gt;Green Library&amp;#39;s open hours during finals week&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p class="descnormal"&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;b&gt;&lt;span style="font-size:11.5pt"&gt;Li and Ma&amp;nbsp;Science Library&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:11.5pt"&gt; | &lt;b&gt;Wednesday, June 7&lt;sup&gt;th&lt;/sup&gt; | 11:00 am &amp;ndash; 3:00 pm&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span style="font-size:11.5pt"&gt;Power up your day with fun-filled activities such as rock painting, coloring, puzzles, chess, and more! Everyone is welcome to come and de-stress at the Li and Ma Science Library!&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="descnormal"&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;b&gt;&lt;span style="font-size:11.5pt"&gt;Li and Ma&amp;nbsp;Science Library&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:11.5pt"&gt; &lt;b&gt;|&lt;/b&gt; &lt;b&gt;Wednesday, June 7&lt;sup&gt;th&lt;/sup&gt; | 11:00 am &amp;ndash; 3:00 pm&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:11.5pt"&gt;Power up your day with fun-filled activities such as rock painting, coloring, puzzles, chess, and more! Everyone is welcome to come and de-stress at the Li and Ma Science Library! &lt;a href="https://library-hours.stanford.edu/libraries/science?week=2023W23"&gt;Li and Ma Science Library hours during finals week&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p class="descnormal"&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;b&gt;Art and Architecture Library | June 8 &amp;ndash; 14&lt;/b&gt;&lt;br /&gt;
-Make your way over to the Art and Architecture Library throughout finals week, June 8 &amp;ndash; 14. You&amp;#39;ll find puzzles and coloring books out for you to enjoy.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="descnormal"&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;b&gt;Art &amp;amp; Architecture Library | June 8 &amp;ndash; 14 | During open hours&lt;/b&gt;&lt;br /&gt;
+Make your way over to the Art and Architecture Library throughout finals week, June 8 &amp;ndash; 14. You&amp;#39;ll find puzzles and coloring books out for you to enjoy. Please see the &lt;a href="https://library-hours.stanford.edu/libraries/art?week=2023W23"&gt;Art and Architecture Library&amp;#39;s hours of operation during finals week&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="descnormal"&gt;&lt;span style="font-size:12pt"&gt;&lt;span&gt;&lt;b&gt;Lathrop Learning Hub | June 5 &amp;ndash; 8 | 2:30 &amp;ndash; 3:30 pm&lt;/b&gt;&lt;br /&gt;
+If you find yourself in need of a mid-day pick-up, coffee, and snacks will be offered at the Lathrop Learning Hub from 2:30 &amp;ndash; 3:30 pm, Monday, June 5 through Thursday, June 8!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="descnormal"&gt;&amp;nbsp;&lt;/p&gt;
 </description>
       <pubDate>Wed, 07 Jun 2023 13:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/de-stress_at_stanford_libraries_368</link>
-      <media:content url="https://localist-images.azureedge.net/photos/43106545934909/huge/e346ef4652edca5c059988104e9d1e7d3565b9f4.jpg" medium="image" type="image/jpeg" height="600" width="1067" isDefault="true" fileSize="677059"/>
+      <media:content url="https://localist-images.azureedge.net/photos/43106545934909/huge/9e88278d8a8151d44e293e0361f6ed635b15820c.jpg" medium="image" type="image/jpeg" height="600" width="1067" isDefault="true" fileSize="677136"/>
       <category>Social Event/Reception</category>
     </item>
     <item>
