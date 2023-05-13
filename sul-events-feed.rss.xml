@@ -12,7 +12,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Fri, 12 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 13 May 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/access_assist</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the&amp;nbsp;&lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page&amp;nbsp;&lt;/a&gt;to confirm hours and access.&lt;/p&gt;
 </description>
-      <pubDate>Fri, 12 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 13 May 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/the_photographs_of_rod_dresser</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -42,74 +42,12 @@
 
 &lt;p&gt;This exhibit is free and open to the public. &lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Fri, 12 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 13 May 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/unexpected_tech</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42880922249072/huge/9e5b4f3bb1773b19cdd5bd25c519e69ddda5be82.jpg" medium="image" type="image/png" height="1164" width="1394" isDefault="true" fileSize="2848188"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>SSDS R Bootcamp at Tierney Room (Green Library 121A)</title>
-      <description>&lt;p&gt;Need to get up to speed with R in a hurry? Join SSDS as we spend the day learning R! This fast-paced bootcamp will introduce you to many aspects of R, including the basics of research design, navigating R and RStudio, data types and structures, wrangling and reshaping, visualization, exploratory data analysis, statistical tests, presentation of your research, and more.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://github.com/EastBayEv/R_bootcamp" target="_blank"&gt;Click here for the workshop materials.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649348" target="_blank"&gt;Click this text to register.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;9:15 - 9:30AM PST: Installations (optional).&lt;/b&gt; Show up early if you need installation help&lt;br /&gt;
-&lt;a href="https://cloud.r-project.org/" target="_blank"&gt;Click this text to download R&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://posit.co/download/rstudio-desktop/" target="_blank"&gt;Click this text to download RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;9:30 - 9:45: The modern academic research workflow&lt;/b&gt;&lt;br /&gt;
-Researcher responsibilities&lt;br /&gt;
-R and RStudio, navigating RStudio&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;9:45 - 10:45: R basics&lt;/b&gt;&lt;br /&gt;
-Variable assignment; functions, parameters, and arguments&lt;br /&gt;
-Data types: numeric, character, logical, integer, factor&lt;br /&gt;
-Data structures: vectors and data frames (and lists and matrices)&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;10:45 - 11:00: Break&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;11:00-12:00PM: Data wrangling and reshaping&lt;/b&gt;&lt;br /&gt;
-Indexing, the dollar sign operator, and backet notation&lt;br /&gt;
-The dplyr and tidyr R packages&lt;br /&gt;
-Package installations and finding help&lt;br /&gt;
-Working with text data&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;12:00 - 1:00: Lunch on your own&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;1:00 - 2:00: Data visualizaiton with ggplot2&lt;/b&gt;&lt;br /&gt;
-ggplot2 requirements: layers, the plus symbol, data, aes, geom_, and theme_&lt;br /&gt;
-Histogram: hist and geom_histogram&lt;br /&gt;
-Boxplot: boxplot and geom_boxplot&lt;br /&gt;
-Barchart: geom_col&lt;br /&gt;
-Scatterplot: plot, geom_point, and geom_jitter&lt;br /&gt;
-Line plot: geom_line&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;2:00 - 2:45: More exploratory data analysis&lt;/b&gt;&lt;br /&gt;
-Summary statistics: mean, standard deviation, median, skew, and kurtosis&lt;br /&gt;
-Principal component analysis&lt;br /&gt;
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
-&lt;b&gt;2:45 - 3:15: Hypotheses, p-values, and confidence intervals&lt;/b&gt;&lt;br /&gt;
-Sums of squares tests: t.test, aov, cor.test, lm&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;3:15 - 3:30: Break&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;3:30 - 4:30: Presenting your research&lt;/b&gt;&lt;br /&gt;
-R Markdown, knit, html, ioslides&lt;br /&gt;
-Dashboards with the flexdashboard package&lt;br /&gt;
-Reproducible research and the targets package&lt;br /&gt;
-Tips for writing&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;4:30 - 4:45: Wrap-up&lt;/b&gt;&lt;br /&gt;
-Machine learning, Green Library, SSDS, and other resources&lt;/p&gt;
-</description>
-      <pubDate>Fri, 12 May 2023 09:30:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/ssds_r_bootcamp</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42944157195645/huge/943deb0605008289e5037fe3dc46142735db559e.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>CIDR Intro to Python at Velma Denning Room (Green Library 120F)</title>
