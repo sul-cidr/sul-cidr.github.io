@@ -12,7 +12,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Sat, 20 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 21 May 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/access_assist</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public. &lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Sat, 20 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 21 May 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/unexpected_tech</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -61,48 +61,6 @@
       <link>https://events.stanford.edu/event/the_war_in_ukraine_and_the_baltic_states</link>
       <media:content url="https://localist-images.azureedge.net/photos/42783640147096/huge/68e78d678bc08233294ed0eb2fcd48dcfedf8d00.jpg" medium="image" type="image/jpeg" height="2424" width="3636" isDefault="true" fileSize="2717769"/>
       <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>SSDS Bash Bootcamp at Velma Denning Room (Green Library 120F)</title>
-      <description>&lt;p&gt;Have you ever wanted to build a basic data science toolkit but can&amp;rsquo;t get started? No need for Python and R to hog all the credit, kickstart Winter Quarter with SSDS&amp;rsquo;s Bash Bootcamp!&lt;/p&gt;
-
-&lt;p&gt;This 4-hour data science project will boost your confidence through transferrable skills essential for the modern, data-driven job market.&lt;/p&gt;
-
-&lt;p&gt;Here you will learn the basics of: 1) the Bash programming language, 2) Git for version control, 3) SQLite database engine, and 4) free static GitHub Pages.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649350" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Part 1 - 10:00-11:00 AM -&lt;/b&gt; Learn basic Bash code to navigate your computer&amp;rsquo;s file system and create directories and files using pwd, ls, cd, mkdir, and touch commands.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 2 - 11:00-12:00 PM -&lt;/b&gt; Build a Git repository to control version tracking with git clone, add, commit, push, and pull.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;12:00-1:00 PM - Lunch on your own&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 3 - 1:00-2:00 PM -&lt;/b&gt; Launch SQLite3 and learn to wrangle data with SELECT, FROM, WHERE, GROUP BY, and ORDER BY.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 4 - 2:00-3:00 PM -&lt;/b&gt; Use the GitHub repository you build in parts 1-3 and turn it into a simple static webpage with GitHub Pages.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Links to materials: &lt;a href="https://github.com/EastBayEv/BashGitHub" target="_blank"&gt;BashGitHub&lt;/a&gt;, &lt;a href="https://github.com/EastBayEv/IntroSQLite" target="_blank"&gt;IntroSQLite&lt;/a&gt;, and &lt;a href="https://github.com/EastBayEv/GitHubPages" target="_blank"&gt;GitHubPages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Prerequisites: basic familiarity with computers. &lt;a href="https://github.com" target="_blank"&gt;Sign up for free GitHub account.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;Before the workshop - Mac users&lt;/p&gt;
-
-&lt;p&gt;Make sure you have the Xcode developer toolset installed. Open a Terminal and type:&amp;nbsp;&amp;nbsp; xcode-select --install&lt;br /&gt;
-When asked if you want to install the command line developer tools, click &amp;quot;yes/install&amp;quot;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;Before the workshop - Windows users&lt;/p&gt;
-
-&lt;p&gt;Install GitBash here: &lt;a href="https://git-scm.com/downloads"&gt;https://git-scm.com/downloads&lt;/a&gt;. Download the file and double-click it to run the installer&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-      <pubDate>Fri, 26 May 2023 10:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/ssds_bash_bootcamp_7711</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42944281313427/huge/ca8cff869bc321dded937c717adabd232747fb22.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>CIDR Python Data Visualization at Velma Denning Room (Green Library 120F)</title>
@@ -176,42 +134,6 @@ When asked if you want to install the command line developer tools, click &amp;q
       <category>Workshop</category>
     </item>
     <item>
-      <title>CIDR Python Machine Learning at Velma Denning Room (Green Library 120F)</title>
-      <description>&lt;p&gt;This workshop provides a gentle introduction to machine learning vocabulary and concepts. You will learn the basics for classifying text and images using the scikit-learn, lime, and tensorflow Python libraries.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649354" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CIDR Introduction to Python workshop (or similar experience).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Intro_to_ML_with_Python" rel="noopener" target="_blank"&gt;https://github.com/sul-cidr/Workshops/tree/master/Intro_to_ML_with_Python&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Mon, 05 Jun 2023 09:10:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/cidr_python_machine_learning_3127</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42944386409314/huge/795a72a2631c658399a05f3bb87a85a06c9d6dcb.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Silicon Valley Talks: Accessible/Assistive  at Hohbach Hall, 123</title>
-      <description>&lt;p&gt;The Silicon Valley Archives is proud to host an event centered on the Optacon and the VersaBraille. The Optacon and VersaBraille are featured in the&amp;nbsp;&lt;a href="https://library.stanford.edu/exhibitions/accessibleassistive-addressing-barriers-information-technology" rel="noopener noreferrer" target="_blank"&gt;Accessible/Assistive: Addressing Barriers to Information with Technology&lt;/a&gt;&amp;nbsp;exhibit on display now in Hohbach Hall.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Telesensory Systems developed the Optacon and VersaBraille in the 1970s to assist people with visual impairments in accessing printed text.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;On June 6th, Judy Adams, Richard Oehm, and Noel Runyan will perform demonstrations for each device and lead a Q&amp;amp;A panel immediately afterward.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 06 Jun 2023 12:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/sva_accessible_tech</link>
-      <media:content url="https://localist-images.azureedge.net/photos/43226165463286/huge/696c6e693d4b45cc4cc7c34ce940ee1931f6954f.jpg" medium="image" type="image/jpeg" height="452" width="482" isDefault="true" fileSize="88122"/>
-      <category>Exhibition</category>
-    </item>
-    <item>
       <title>CIDR Intro to R at Velma Denning Room (Green Library 120F) </title>
       <description>&lt;p&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/p&gt;
 
@@ -236,10 +158,46 @@ When asked if you want to install the command line developer tools, click &amp;q
 &lt;li&gt;(coming soon)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 07 Jun 2023 09:10:00 -0700</pubDate>
+      <pubDate>Mon, 05 Jun 2023 09:10:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/cidr_intro_to_r_7267</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42944421819159/huge/02663a4298f1a8d83514754c7347233506b9a641.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <media:content url="https://localist-images.azureedge.net/photos/42944421819159/huge/4e2ce1b2774899c79ed7fde4289d4c5dec65c91c.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>CIDR Python Machine Learning at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;This workshop provides a gentle introduction to machine learning vocabulary and concepts. You will learn the basics for classifying text and images using the scikit-learn, lime, and tensorflow Python libraries.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649354" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Prerequisites:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CIDR Introduction to Python workshop (or similar experience).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop materials: &lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/sul-cidr/Workshops/tree/master/Intro_to_ML_with_Python" rel="noopener" target="_blank"&gt;https://github.com/sul-cidr/Workshops/tree/master/Intro_to_ML_with_Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 05 Jun 2023 14:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/cidr_python_machine_learning_3127</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944386409314/huge/c0f93dd815f90a991dddf893c84a55c640750fdc.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>Silicon Valley Talks: Accessible/Assistive  at Hohbach Hall, 123</title>
+      <description>&lt;p&gt;The Silicon Valley Archives is proud to host an event centered on the Optacon and the VersaBraille. The Optacon and VersaBraille are featured in the&amp;nbsp;&lt;a href="https://library.stanford.edu/exhibitions/accessibleassistive-addressing-barriers-information-technology" rel="noopener noreferrer" target="_blank"&gt;Accessible/Assistive: Addressing Barriers to Information with Technology&lt;/a&gt;&amp;nbsp;exhibit on display now in Hohbach Hall.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Telesensory Systems developed the Optacon and VersaBraille in the 1970s to assist people with visual impairments in accessing printed text.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;On June 6th, Judy Adams, Richard Oehm, and Noel Runyan will perform demonstrations for each device and lead a Q&amp;amp;A panel immediately afterward.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 06 Jun 2023 12:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/sva_accessible_tech</link>
+      <media:content url="https://localist-images.azureedge.net/photos/43226165463286/huge/696c6e693d4b45cc4cc7c34ce940ee1931f6954f.jpg" medium="image" type="image/jpeg" height="452" width="482" isDefault="true" fileSize="88122"/>
+      <category>Exhibition</category>
     </item>
     <item>
       <title>Silicon Valley Talks: John Tinnell at Hohbach Hall</title>
@@ -442,6 +400,48 @@ Aaron Trammell is an Assistant Professor of Informatics at UC Irvine. He is inte
       <pubDate>Wed, 21 Jun 2023 09:10:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/cidr_r_machine_learning_5471</link>
       <media:content url="https://localist-images.azureedge.net/photos/42944517441077/huge/e98a7ed243462c5fcca46067e22ba5fc9c20b4dd.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>SSDS Bash Bootcamp at Velma Denning Room (Green Library 120F)</title>
+      <description>&lt;p&gt;Have you ever wanted to build a basic data science toolkit but can&amp;rsquo;t get started? No need for Python and R to hog all the credit, kickstart Winter Quarter with SSDS&amp;rsquo;s Bash Bootcamp!&lt;/p&gt;
+
+&lt;p&gt;This 4-hour data science project will boost your confidence through transferrable skills essential for the modern, data-driven job market.&lt;/p&gt;
+
+&lt;p&gt;Here you will learn the basics of: 1) the Bash programming language, 2) Git for version control, 3) SQLite database engine, and 4) free static GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649350" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Part 1 - 10:00-11:00 AM -&lt;/b&gt; Learn basic Bash code to navigate your computer&amp;rsquo;s file system and create directories and files using pwd, ls, cd, mkdir, and touch commands.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Part 2 - 11:00-12:00 PM -&lt;/b&gt; Build a Git repository to control version tracking with git clone, add, commit, push, and pull.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;12:00-1:00 PM - Lunch on your own&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Part 3 - 1:00-2:00 PM -&lt;/b&gt; Launch SQLite3 and learn to wrangle data with SELECT, FROM, WHERE, GROUP BY, and ORDER BY.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Part 4 - 2:00-3:00 PM -&lt;/b&gt; Use the GitHub repository you build in parts 1-3 and turn it into a simple static webpage with GitHub Pages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Links to materials: &lt;a href="https://github.com/EastBayEv/BashGitHub" target="_blank"&gt;BashGitHub&lt;/a&gt;, &lt;a href="https://github.com/EastBayEv/IntroSQLite" target="_blank"&gt;IntroSQLite&lt;/a&gt;, and &lt;a href="https://github.com/EastBayEv/GitHubPages" target="_blank"&gt;GitHubPages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Prerequisites: basic familiarity with computers. &lt;a href="https://github.com" target="_blank"&gt;Sign up for free GitHub account.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;Before the workshop - Mac users&lt;/p&gt;
+
+&lt;p&gt;Make sure you have the Xcode developer toolset installed. Open a Terminal and type:&amp;nbsp;&amp;nbsp; xcode-select --install&lt;br /&gt;
+When asked if you want to install the command line developer tools, click &amp;quot;yes/install&amp;quot;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;Before the workshop - Windows users&lt;/p&gt;
+
+&lt;p&gt;Install GitBash here: &lt;a href="https://git-scm.com/downloads"&gt;https://git-scm.com/downloads&lt;/a&gt;. Download the file and double-click it to run the installer&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 26 Jun 2023 10:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/ssds_bash_bootcamp_7711</link>
+      <media:content url="https://localist-images.azureedge.net/photos/42944281313427/huge/227003a8d6599963a3e56864ffd90a45741a73b5.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
       <category>Workshop</category>
     </item>
     <item>
