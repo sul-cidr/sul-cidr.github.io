@@ -14,52 +14,12 @@
 
 &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries&amp;#39;&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges" target="_blank"&gt;entry requirements and available services.&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 26 Jun 2023 09:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Jun 2023 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/focus_on_community_the_ricardo_alvarado_photography_archive_at_stanford</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/43271934231917/huge/773f8f58e2de9f3b1aecd8f773a0a7d8ce9c94d1.jpg" medium="image" type="image/jpeg" height="600" width="1076" isDefault="true" fileSize="339433"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>SSDS Bash Bootcamp at Velma Denning Room (Green Library 120F)</title>
-      <description>&lt;p&gt;Have you ever wanted to build a basic data science toolkit but can&amp;rsquo;t get started? This 4-hour data science project will boost your confidence through transferrable skills essential for the modern, data-driven job market.&lt;/p&gt;
-
-&lt;p&gt;Here you will learn the basics of: 1) the Bash programming language, 2) Git for version control, 3) SQLite database engine, and 4) free static GitHub Pages.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://appointments.library.stanford.edu/event/10649350" target="_blank"&gt;Click this text to register. &lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Part 1 - 10:00-11:00 AM -&lt;/b&gt; Learn basic Bash code to navigate your computer&amp;rsquo;s file system and create directories and files using pwd, ls, cd, mkdir, and touch commands.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 2 - 11:00-12:00 PM -&lt;/b&gt; Build a Git repository to control version tracking with git clone, add, commit, push, and pull.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;12:00-1:00 PM - Lunch on your own&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 3 - 1:00-2:00 PM -&lt;/b&gt; Launch SQLite3 and learn to wrangle data with SELECT, FROM, WHERE, GROUP BY, and ORDER BY.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Part 4 - 2:00-3:00 PM -&lt;/b&gt; Use the GitHub repository you build in parts 1-3 and turn it into a simple static webpage with GitHub Pages.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Links to materials: &lt;a href="https://github.com/EastBayEv/BashGitHub" target="_blank"&gt;BashGitHub&lt;/a&gt;, &lt;a href="https://github.com/EastBayEv/IntroSQLite" target="_blank"&gt;IntroSQLite&lt;/a&gt;, and &lt;a href="https://github.com/EastBayEv/GitHubPages" target="_blank"&gt;GitHubPages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Prerequisites: basic familiarity with computers. &lt;a href="https://github.com" target="_blank"&gt;Sign up for free GitHub account.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;Before the workshop - Mac users&lt;/p&gt;
-
-&lt;p&gt;Make sure you have the Xcode developer toolset installed. Open a Terminal and type:&amp;nbsp;&amp;nbsp; xcode-select --install&lt;br /&gt;
-When asked if you want to install the command line developer tools, click &amp;quot;yes/install&amp;quot;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="desc_bigger"&gt;Before the workshop - Windows users&lt;/p&gt;
-
-&lt;p&gt;Install GitBash here: &lt;a href="https://git-scm.com/downloads"&gt;https://git-scm.com/downloads&lt;/a&gt;. Download the file and double-click it to run the installer&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-      <pubDate>Mon, 26 Jun 2023 10:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/ssds_bash_bootcamp_7711</link>
-      <media:content url="https://localist-images.azureedge.net/photos/42944281313427/huge/6f2a96b904e82acfe4373024c266bae0ee688c27.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="60813"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>Estonian TV Girls' Choir Concert at Meyer Green</title>
