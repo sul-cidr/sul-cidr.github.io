@@ -5,6 +5,32 @@
     <description></description>
     <link>https://events.stanford.edu/</link>
     <item>
+      <title>Encoding: Computers as a Global Medium at Hohbach Hall</title>
+      <description>&lt;p&gt;Drawing from the Libraries&amp;rsquo; extensive collections, &lt;i&gt;Encoding&lt;/i&gt; illustrates two fundamental shifts in the history of computing: recasting computers as a communications medium rather than solely as a means for calculation by &amp;ldquo;number crunching&amp;rdquo; and developing encoding systems that encompassed more of the world&amp;rsquo;s text and language systems. The result was global computing: a technology that today encompasses virtually all the world&amp;rsquo;s cultural, financial, educational and entertainment media. Notable collections include &lt;i&gt;the Unicode Collection&lt;/i&gt;, t&lt;i&gt;he Louis Rosenblum Papers&lt;/i&gt;, &amp;amp; &lt;i&gt;the Thomas S. Mullaney East Asian Information Technology History Collection&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/Encodingexhibit</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/43777083471902/huge/991d4719cb4ea54b5d3b0891f6761e6cfab031d7.jpg" medium="image" type="image/jpeg" height="3098" width="4000" isDefault="true" fileSize="1126422"/>
+      <category>Exhibition</category>
+    </item>
+    <item>
+      <title>The Poisonous Green Book of  the Victorian Era at Hohbach Hall</title>
+      <description>&lt;p&gt;During the Victorian Era, the toxic compound copper acetoarsenite was frequently used to create a bright green binding color. Inspired by the Winterthur Poison Books project, this exhibit examines the context and history behind copper acetoarsenite and the field of chemistry during this period, as well as the rise of workplace safety regulations. It explores the available testing methods for identifying this toxic compound and gives practical tips and advice for safe handling of books and materials.&lt;/p&gt;
+
+&lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/poisonousexhibit</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/43777130546735/huge/d77315abb9207909bfad2b5f2d994fbfae0f1324.jpg" medium="image" type="image/jpeg" height="2222" width="1452" isDefault="true" fileSize="332005"/>
+      <category>Exhibition</category>
+    </item>
+    <item>
       <title>Focus on Community: The Ricardo Alvarado Photography Archive at Stanford at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;a href="https://library.stanford.edu/spc/current-exhibits" rel="noopener" target="_blank"&gt;&lt;i&gt;Focus on Community: The Ricardo Alvarado Photography Archive at Stanford&lt;/i&gt;&lt;/a&gt;, on view May 26, 2023, through July 30, 2023, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing.&amp;nbsp;&lt;/p&gt;
 
@@ -14,7 +40,7 @@
 
 &lt;p&gt;The exhibition is free and open to the public. Learn about the Libraries&amp;#39;&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges" target="_blank"&gt;entry requirements and available services.&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 19 Jul 2023 09:00:00 -0700</pubDate>
+      <pubDate>Thu, 20 Jul 2023 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/focus_on_community_the_ricardo_alvarado_photography_archive_at_stanford</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -117,6 +143,19 @@
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/42669238566991/huge/a8d42572f76f6496f6d7d59ac24e1d5e8f575f5b.jpg" medium="image" type="image/png" height="881" width="1280" isDefault="true" fileSize="1139204"/>
+      <category>Lecture/Presentation/Talk</category>
+    </item>
+    <item>
+      <title>Tabletop Tuesdays at Hohbach Hall</title>
+      <description>&lt;p&gt;Save the date for October&amp;#39;s &lt;i&gt;Tabletop Tuesdays&lt;/i&gt;. Theme and featured games will be announced closer to the event date!&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Tabletop Tuesdays i&lt;/i&gt;s an event series held on the third Tuesday of each month. At these events, we feature a selection of board games and collection items from across SUL&amp;#39;s holdings around a specific theme. Drop in to learn about the month&amp;#39;s featured game(s) and/or try some of the board games we have for open play at the Silicon Valley Archives.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 17 Oct 2023 14:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/tabletop_tuesdays_5542</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/43466372701087/huge/61da1b9bba8d47130673f0d1369999ea4e3d85db.jpg" medium="image" type="image/jpeg" height="1512" width="2016" isDefault="true" fileSize="581277"/>
       <category>Lecture/Presentation/Talk</category>
     </item>
   </channel>
