@@ -10,7 +10,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Tue, 29 Aug 2023 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/Encodingexhibit</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -23,7 +23,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Tue, 29 Aug 2023 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/poisonousexhibit</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -56,7 +56,7 @@
 
 &lt;p&gt;&lt;span style="font-size:11.5pt"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal"&gt;&lt;span style="text-decoration:none"&gt;The exhibition is free and open to the public. Learn about the &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href="https://library.stanford.edu/using/access-and-privileges" style="text-decoration:none"&gt;&lt;span style="font-size:11.5pt"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal"&gt;&lt;u style="text-decoration:underline"&gt;&lt;span&gt;&lt;span&gt;Libraries&amp;#39; entry requirements and available services&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Tue, 29 Aug 2023 09:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Aug 2023 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/embodied_knowledge_women_and_science_before_silicon_valley</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -118,7 +118,7 @@
       <link>https://events.stanford.edu/event/embodied_knowledge</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/43979943702075/huge/f69b8d89721f257321a019c9a9dc840937155be2.jpg" medium="image" type="image/jpeg" height="600" width="1076" isDefault="true" fileSize="730683"/>
+      <media:content url="https://localist-images.azureedge.net/photos/43979943702075/huge/4b99fe6cf60d8e2605435b9d2e7a7795a16ab6e3.jpg" medium="image" type="image/jpeg" height="600" width="1076" isDefault="true" fileSize="730683"/>
       <category>Social Event/Reception</category>
     </item>
     <item>
@@ -133,6 +133,37 @@
       <link>https://events.stanford.edu/event/voices_to_be_heard_stories_to_be_told_exploring_the_dijkstra_black_music_collection_at_stanfords_archive_of_recorded_sound</link>
       <media:content url="https://localist-images.azureedge.net/photos/43200823850481/huge/46c4f7d1845d1055899b5c6ad0e8328726fafcee.jpg" medium="image" type="image/png" height="312" width="468" isDefault="true" fileSize="258253"/>
       <category>Lecture/Presentation/Talk</category>
+    </item>
+    <item>
+      <title>Advantages of Reusable Data: Utilizing Social Science Datasets in Redivis at Green Library, Bing Wing</title>
+      <description>&lt;p&gt;Data reuse, or secondary data analysis, is the analysis of existing data collected by other individuals or institutions for a new research purpose (&lt;a href="https://www.nnlm.gov/guides/data-glossary/data-reuse" target="_blank"&gt;National Library of Medicine&lt;/a&gt;). Data reuse is a resource-effective way to conduct novel research, discover new collaborators, and contribute to your academic field. In this workshop, we will learn about the advantages of reusable data and how to evaluate data for reuse. Then, we will apply these principles to Stanford Libraries&amp;rsquo; growing data collections, which are sourced from vendors like Gallup, Washington Post and CoreLogic. Finally, we will practice using basic SQL commands to query reusable data on the Redivis platform.&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;&lt;a href="https://appointments.library.stanford.edu/event/11219416" target="_blank"&gt;REGISTER NOW!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Prerequisites&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;None. Please bring your own computer. It would be helpful before the class to &lt;a href="https://redivis.com/SUL" target="_blank"&gt;create a free Redivis account&lt;/a&gt; if you don&amp;rsquo;t already have one.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Audience&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Advanced undergraduate students, graduate students and postdocs.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Learning Objectives&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;By the end of the workshop, attendees will be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Apply data quality criteria when considering a dataset for reuse&lt;/li&gt;
+&lt;li&gt;Define &amp;ldquo;relational database&amp;rdquo; and explain their applications in research&lt;/li&gt;
+&lt;li&gt;Recognize basic SQL keywords, such as SELECT, FROM, WHERE and JOIN&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 10 Oct 2023 13:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/reusable_data</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/44137673741924/huge/56112b67e6cddfdf69a69b483ae2097104e81553.jpg" medium="image" type="image/png" height="600" width="600" isDefault="true" fileSize="52840"/>
+      <category>Workshop</category>
     </item>
     <item>
       <title>Bob Stein on The Tapestry Project at Hohbach Hall</title>
