@@ -10,7 +10,7 @@
 
 &lt;p&gt;This exhibit is free and open to the public.&amp;nbsp;&lt;a href="https://library.stanford.edu/using/access-and-privileges"&gt;Learn more about visiting Stanford Libraries on our website&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 18 Sep 2023 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/Encodingexhibit</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -43,42 +43,12 @@
 
 &lt;p&gt;&lt;span style="font-size:11.5pt"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal"&gt;&lt;span style="text-decoration:none"&gt;The exhibition is free and open to the public. Learn about the &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href="https://library.stanford.edu/using/access-and-privileges" style="text-decoration:none"&gt;&lt;span style="font-size:11.5pt"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal"&gt;&lt;u style="text-decoration:underline"&gt;&lt;span&gt;&lt;span&gt;Libraries&amp;#39; entry requirements and available services&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 18 Sep 2023 09:00:00 -0700</pubDate>
+      <pubDate>Tue, 19 Sep 2023 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/embodied_knowledge_women_and_science_before_silicon_valley</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/43725646356122/huge/283f182485005a2848d9ad5d0707f7c7355c1020.jpg" medium="image" type="image/jpeg" height="600" width="1076" isDefault="true" fileSize="730683"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>East Asia Library Open House at East Asia Library</title>
-      <description>&lt;p&gt;Join us at the East Asia Library for our annual Fall Quarter Open House! Meet our librarians, enjoy some refreshments, learn more about our spaces and services, and win prizes by completing a scavenger hunt.&lt;/p&gt;
-</description>
-      <pubDate>Mon, 18 Sep 2023 12:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/east_asia_library_open_house</link>
-      <geo:lat>37.430031</geo:lat>
-      <geo:long>-122.166933</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/44252034694416/huge/b1de9a587252f78d56643b975da382e39bb9b24d.jpg" medium="image" type="image/png" height="1096" width="840" isDefault="true" fileSize="1020851"/>
-      <category>Social Event/Reception</category>
-    </item>
-    <item>
-      <title>Science Library Open House at Sapp Center for Science Teaching and Learning</title>
-      <description>&lt;p&gt;Come explore your Robin Li &amp;amp; Melissa Ma Science Library:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enjoy a mental break with puzzles and games.&lt;/li&gt;
-&lt;li&gt;Take a selfie with Einstein.&lt;/li&gt;
-&lt;li&gt;Meet your subject librarians over light refreshments in the 4th floor Training Room.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The Li &amp;amp; Ma Science Library is located on the 3rd and 4th floors of the Sapp Center for Science Teaching and Learning. The Science Library entrance is on the 3rd floor.&lt;/p&gt;
-</description>
-      <pubDate>Mon, 18 Sep 2023 14:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/sciencelibrary_openhouse_2023</link>
-      <geo:lat>37.430651</geo:lat>
-      <geo:long>-122.171413</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/41074048861468/huge/4c2dcaa4c442106db357970ba149e6de6fb46141.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="272380"/>
-      <category>Social Event/Reception</category>
     </item>
     <item>
       <title>Engineering Library Open House at Jen-Hsun Huang Building (School of Engineering)</title>
@@ -174,6 +144,41 @@
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/43979943702075/huge/4b99fe6cf60d8e2605435b9d2e7a7795a16ab6e3.jpg" medium="image" type="image/jpeg" height="600" width="1076" isDefault="true" fileSize="730683"/>
       <category>Social Event/Reception</category>
+    </item>
+    <item>
+      <title>ArcGIS Pro Quick Start (October 6th) at Branner Earth Sciences Library</title>
+      <description>&lt;p&gt;&lt;b&gt;Introduction to ArcGIS Pro&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This introductory workshop will focus on the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using ArcGIS Pro.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Topics covered:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;What is GIS?&lt;/p&gt;
+
+&lt;p&gt;Downloading and licensing through Stanford&lt;/p&gt;
+
+&lt;p&gt;Setting up a new Map Project&lt;/p&gt;
+
+&lt;p&gt;ArcGIS Pro user interface&lt;/p&gt;
+
+&lt;p&gt;Loading and styling spatial data&lt;/p&gt;
+
+&lt;p&gt;Basic Analysis Tools (Spatial Joins, Overlay Analysis)&lt;/p&gt;
+
+&lt;p&gt;Map Layout and Exports&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Required:&lt;/b&gt; No installations required but all attendees MUST have a laptop in order to follow along with workshop exercises. ArcGIS Pro is a Windows only application, but can be run from any laptop through the Stanford Virtual Computer Cluster (Apporto):&lt;b&gt;&lt;a href="https://stanford.apporto.com"&gt;https://stanford.apporto.com&lt;/a&gt;/&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;L﻿anding page:&lt;/b&gt; &lt;a href="https://storymaps.arcgis.com/stories/db92da69bdee4cae834ab36bc59ec358" rel="nofollow noopener noreferrer" target="_blank"&gt;ArcGIS Pro Quick Start&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Note&lt;/b&gt;: Open to current Stanford affiliates ONLY. This workshop or prior GIS experience are required for most other SGC workshops.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 06 Oct 2023 09:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/arcgispro_autumn2023</link>
+      <geo:lat>37.426402</geo:lat>
+      <geo:long>-122.172635</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/44316352230055/huge/73373f2c7b913f8ca602c83a539b4ed4652602f8.jpg" medium="image" type="image/jpeg" height="1080" width="1280" isDefault="true" fileSize="355446"/>
+      <category>Workshop</category>
     </item>
     <item>
       <title>VOICES TO BE HEARD, STORIES TO BE TOLD: Exploring the Dijkstra Black Music Collection at Stanford’s Archive of Recorded Sound</title>
@@ -352,6 +357,31 @@ The day before, on &lt;b&gt;October 24 &lt;/b&gt;from 3:00 to 4:00 pm, join us f
       <geo:long>-122.168622</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/40621750570646/huge/4fac2a857cffbbe07b7fa5dd9c09ed4ffc7c1db1.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="181353"/>
       <category>Social Event/Reception</category>
+    </item>
+    <item>
+      <title>Recoding America: Book Talk With Jennifer Pahlka at Hohbach Hall</title>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;BOOK TALK: Recoding America: Why Government is Failing in the Digital Age and How We Can Do Better&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Just when we most need our government to work &amp;ndash; to decarbonize our infrastructure and economy, to help the vulnerable through a pandemic, to defend ourselves against global threats &amp;ndash; it is faltering. Government at all levels has limped into the digital age, offering online services that can feel even more cumbersome than the paperwork that preceded them and widening the gap between the policy outcomes we intend and what we get.&lt;/p&gt;
+
+&lt;p&gt;But it&amp;rsquo;s not more money or more tech we need. Government is hamstrung by a rigid, industrial-era culture, in which elites dictate policy from on high, disconnected from and too often disdainful of the details of implementation. Lofty goals morph unrecognizably as they cascade through a complex hierarchy. But there is an approach taking hold that keeps pace with today&amp;rsquo;s world and reclaims government for the people it is supposed to serve. Jennifer Pahlka shows why we must stop trying to move the government we have today onto new technology and instead consider what it would mean to truly recode American government.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;SPEAKER: Jennifer Pahlka&lt;/b&gt; is the author of &lt;a href="https://us.macmillan.com/books/9781250266774/recodingamerica"&gt;Recoding America: Why Government is Failing in the Digital Age and How We Can Do Better&lt;/a&gt;. She founded Code for America in 2010 and led the organization for ten years. In 2013, she took a leave of absence to serve as U.S. Deputy Chief Technology Officer under President Obama and helped found the United States Digital Service. She served on the Defense Innovation Board under Presidents Obama and Trump. At the start of the pandemic, she also co-founded United States Digital Response, which helps government meet the needs of the public with volunteer tech support. She received the Skoll Award for Social Entrepreneurship, and was named by Wired as one of the 25 people who has most shaped the past 25 years. Jennifer is a graduate of Yale University.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;DISCUSSANT: Ingrid Pappel &lt;/b&gt;is the 2023 Global Digital Governance Fellow at Stanford University,&amp;nbsp;Associate Professor at the Department of Software Science and Vice-Dean for Master&amp;#39;s studies at the School of IT, Tallinn University of Technology. She has more than 20 years of experience in different development projects related to e-governance solutions in Estonia and abroad. She is the head of the Digi-State Technologies and Architecture research group, which addresses the complexity related to how governments can satisfy the demands of their citizens in times of need. Her research focuses on digital government ecosystems by investigating technologies that support digital transformation. Her research topics are related to the development activities in launching paperless management by creating interoperability with state registries and external and internal systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MODERATOR: Andrew J. Grotto&lt;/b&gt; is a William J. Perry International Security Fellow at the Cyber Policy Center and&amp;nbsp;a Research Fellow at the Hoover Institution, both at Stanford University. He is also Director of the&amp;nbsp;Program on Geopolitics, Technology, and Governance (FSI).&amp;nbsp;Grotto&amp;rsquo;s research interests center on the national security and international economic dimensions of America&amp;rsquo;s global leadership in information technology innovation, and its growing reliance on this innovation for its economic and social life.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;The event is free and open to the public. &lt;a href="https://forms.gle/CVscSgY3mbaawRrm9"&gt;RSVP is requested.&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 13 Nov 2023 12:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/jennifer-pahlka-recoding-america</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/44315401980036/huge/662f9c22eb3d428e289dffe3e7c3c3b4f5d0a868.jpg" medium="image" type="image/jpeg" height="5000" width="5000" isDefault="true" fileSize="4471232"/>
+      <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
       <title>Silicon Valley Talks: Henry Lowood, Replayed at Hohbach Hall</title>
