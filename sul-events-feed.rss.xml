@@ -10,7 +10,7 @@
 
 &lt;p&gt;A selection of portraits and text from their award-winning book &lt;a href="https://press.uchicago.edu/ucp/books/book/chicago/S/bo90479007.html"&gt;&lt;i&gt;Seeing Silicon Valley&lt;/i&gt;&lt;/a&gt; is on display throughout Hohbach Hall&amp;#39;s study spaces. This long-term exhibition will be up through 2025.&lt;/p&gt;
 </description>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/seeing_silicon_valley</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -25,7 +25,7 @@
 
 &lt;p&gt;Image:&amp;nbsp;Gabriel von Max,&amp;nbsp;&lt;i&gt;Abelard and Heloise&lt;/i&gt;, c. 1900, oil on canvas. The Jack Daulton Collection. Photography by Don Tuttle/Marty Kelly.&lt;/p&gt;
 </description>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_apes_and_us</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -36,7 +36,7 @@
       <title>The Joys of Winter: food, leisure reading, games, movies, travel!  at Lathrop Library</title>
       <description>&lt;p&gt;Come be inspired by books and objects from the East Asia Library&amp;rsquo;s collections related to the joys of winter, such as food, games, movies, travel, and, of course, leisure reading!&lt;/p&gt;
 </description>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/the_joys_of_winter_food_leisure_reading_games_movies_travel</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
@@ -51,7 +51,7 @@
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 </description>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/undergraduate_showcase_stanford_storytellers</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -84,7 +84,7 @@
 
 &lt;p&gt;&lt;span style="font-size:11.5pt"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal"&gt;&lt;span style="text-decoration:none"&gt;The exhibition is free and open to the public. Learn about the &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href="https://library.stanford.edu/using/access-and-privileges" style="text-decoration:none"&gt;&lt;span style="font-size:11.5pt"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal"&gt;&lt;u style="text-decoration:underline"&gt;&lt;span&gt;&lt;span&gt;Libraries&amp;#39; entry requirements and available services&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Thu, 11 Jan 2024 09:00:00 -0800</pubDate>
+      <pubDate>Fri, 12 Jan 2024 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/embodied_knowledge_women_and_science_before_silicon_valley</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -95,7 +95,7 @@
       <title>This Is Not Here: Some Fluxus Things from Bowes Art &amp; Architecture Library at McMurtry Building</title>
       <description>&lt;p&gt;Art Locked Stacks at Bowes Library holds Fluxus publications by John Cage, Nam June Paik, Allan Kaprow, Alison Knowles, and Yoko Ono, among others. The humor and absurdity that animated Fluxus encourages us to find art in the everyday, or at least not to take art so seriously. This is not a history of Fluxus, nor even an exhibition of everything at Bowes Library that could be considered Fluxus, but rather, in the Fluxus spirit, just some Fluxus things. Curated by Lindsay King, Head Librarian, Bowes Art &amp;amp; Architecture Library.&lt;/p&gt;
 </description>
-      <pubDate>Thu, 11 Jan 2024 09:00:00 -0800</pubDate>
+      <pubDate>Fri, 12 Jan 2024 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/this_is_not_here_some_fluxus_things_from_bowes_art_architecture_library</link>
       <geo:lat>37.432546</geo:lat>
       <geo:long>-122.171856</geo:long>
@@ -151,6 +151,63 @@
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/44837680239493/huge/7004c83595d5dc57be085ddfc20f22d3e73fc540.jpg" medium="image" type="image/png" height="491" width="432" isDefault="true" fileSize="199635"/>
       <category>Lecture/Presentation/Talk</category>
+    </item>
+    <item>
+      <title>Carpentries @ Stanford: Introduction to R</title>
+      <description>&lt;p&gt;This virtual workshop is a gentle introduction to the R programming language for those who have never (or barely) programmed in R, and especially to those who are new to programming in general. If you are unfamiliar with working with variables, vectors, and dataframes, then you are a good fit for this class! By the end of this workshop, you will have learned some of what R can do, explored the ecosystem of R and RStudio, modified/extracted data, and discovered resources to continue your learning even after this session.&lt;/p&gt;
+
+&lt;p&gt;Register&amp;nbsp;&lt;a href="https://forms.gle/MHCLbzPUCePoPJnY9"&gt;here&lt;/a&gt;&amp;nbsp;to attend. Spots are open to current Stanford Affiliates only and will be offered on a first-come, first-serve basis. Space is limited, with a waitlist when all spots are full.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Time: 1pm - 4pm (Pacific Standard Time)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Date: Thursday, February 8, 2024&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Lead Instructor: Dr. Alma Parada, Librarian (Earth Sciences &amp;amp; Life Sciences)&lt;/p&gt;
+</description>
+      <pubDate>Thu, 08 Feb 2024 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/carpentries_stanford_introduction_to_r_4546</link>
+      <media:content url="https://localist-images.azureedge.net/photos/45324412556982/huge/b0c8a7aeaa0f5901c159140d63718626530af1fd.jpg" medium="image" type="image/png" height="557" width="940" isDefault="true" fileSize="131193"/>
+      <category>Class/Seminar</category>
+    </item>
+    <item>
+      <title>Carpentries @ Stanford: Data Visualization in R</title>
+      <description>&lt;p&gt;This is part of a series of workshops for Love Data Week, an annual festival highlighting topics, opportunities and services relevant to data in research. Love Data Week 2024 will feature a&amp;nbsp;&lt;b&gt;Love Data Fair&lt;/b&gt;&amp;nbsp;on the afternoon of Valentine&amp;rsquo;s Day, February 14th, in Mackenzie Room, Jen-Hsun Huang Engineering Center.&lt;/p&gt;
+
+&lt;p&gt;This workshop is a gentle introduction to working with the ggplot2 visualization library in R for those who have moderate programming experience in R. If you know how to work with datasets (variables, matrices, dataframes) and functions in R, but you have never created figures beyond maybe a few base R visualizations (using the plot, hist, barplot functions), then this class is a good fit for you! By the end of this workshop, you will have learned the syntax of ggplot2, how to modify and customize graph aesthetics, how to generate 1D and 2D plots, and how to save your figures to your computer. Time permitting, we will explore a few extra features such as faceting, custom colors, and themes!&lt;/p&gt;
+
+&lt;p&gt;Register &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfmbN99R6Zn9TT2p4R-XNZg8jjDpjG_ASoWqj1cKb9_3NSbNQ/viewform"&gt;here&lt;/a&gt; to attend. Spots are open to current Stanford Affiliates only and will be offered on a first-come, first-serve basis. Space is limited,&amp;nbsp;with a waitlist when all spots are full.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Time: 1pm - 4pm (Pacific Standard Time)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Date: Thursday, February 15, 2024&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Lead Instructor: Dr. Alma Parada, Librarian (Earth Sciences &amp;amp; Life Sciences)&lt;/p&gt;
+</description>
+      <pubDate>Thu, 15 Feb 2024 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/carpentries_stanford_data_visualization_in_r</link>
+      <media:content url="https://localist-images.azureedge.net/photos/45331156755459/huge/756cd9b16388d3f2d42467f2f62be14981efc9b9.jpg" medium="image" type="image/png" height="557" width="940" isDefault="true" fileSize="131193"/>
+      <category>Class/Seminar</category>
+    </item>
+    <item>
+      <title>Geospatial Data in R at Green Library, Bing Wing</title>
+      <description>&lt;p&gt;This workshop will introduce you to geospatial libraries and concepts using R. Prior experience using R at an introductory level is expected. You will learn how to read spatial data into R and perform basic spatial analysis.&lt;br /&gt;
+&lt;br /&gt;
+Register &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdjDkRWV7Qr4W90LDIrbiFrtK693l-5fqg_TkGOOAaKiD6nag/viewform"&gt;here&lt;/a&gt;. Spots are open to current Stanford Affiliates only and will be offered on a first-come, first-serve basis. Space is limited, with a waitlist when all spots are full.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Time: 1pm - 3pm (Pacific Standard Time)&lt;br /&gt;
+&lt;br /&gt;
+Date: Thursday, February 22, 2024&lt;br /&gt;
+&lt;br /&gt;
+Location: In-person, Velma Denning Room, Green Library&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Lead Instructor: Dr. Claudia Engel, Academic Technology Specialist (Anthropology)&lt;/p&gt;
+</description>
+      <pubDate>Thu, 22 Feb 2024 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/geospatial_data_in_r</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/45333306310365/huge/971b1c341049fc53a5112e033d7f6d191504d4fe.jpg" medium="image" type="image/png" height="557" width="940" isDefault="true" fileSize="131193"/>
+      <category>Class/Seminar</category>
     </item>
     <item>
       <title>Silicon Valley Talks: Barbara Boissevain, "Salt of the Earth"  at Hohbach Hall</title>
