@@ -5,14 +5,12 @@
     <description></description>
     <link>https://events.stanford.edu/</link>
     <item>
-      <title>Branner Library Monthly Book &amp; Map Exhibit: Women's History Month at Mitchell Earth Sciences</title>
-      <description>&lt;p class="desc_bigger"&gt;&lt;b&gt;Branner Earth Sciences Library &amp;amp; Map Collection presents an exhibit celebrating women's history!&lt;/b&gt;&lt;/p&gt;
+      <title>Branner Library Monthly Book &amp; Map Exhibit: Earth Day 2024 - Southern Cone Wildlands at Mitchell Earth Sciences</title>
+      <description>&lt;p class="desc_bigger"&gt;&lt;b&gt;Branner Earth Sciences Library &amp;amp; Map Collection presents an exhibit celebrating Earth Day 2024 and the historic contributions of Tompkins Conservation to rewilding and conservation efforts in Argentina &amp;amp; Chile!&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt; &lt;/p&gt;
+&lt;p class="desc_bigger"&gt; &lt;/p&gt;
 
-&lt;p&gt;The book display includes a selection of titles exploring the history and influence of women in the diverse fields of earth and planetary sciences and biographies highlighting the remarkable contributions of Marie Tharp, Mae Jemison, and Isabella Aiona Abbott. Curated by student worker Alex Cessna.&lt;/p&gt;
-
-&lt;p&gt;The map exhibit highlights the history of women's suffrage and political engagement around the world, featuring 13 countries that have major elections occurring in 2024, from the United States, El Salvador, Brazil, to Finland, Liberia, and Pakistan. Curated by student workers Raiyan Haque and Karen Rodriguez.&lt;/p&gt;
+&lt;p&gt;The book and map exhibits highlight the natural history of South America's Southern Cone, particularly wildland conservation and ecotourism in Patagonia&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -22,11 +20,11 @@
 
 &lt;p class="desc_normal"&gt;Check out past exhibits featured in the &lt;a href="https://us20.campaign-archive.com/home/?u=6a552426d5d24e9958bbd78fe&amp;amp;id=2e6cf2db76"&gt;Branner Library Newsletter&lt;/a&gt;.  The exhibit is available for viewing throughout March during &lt;a href="https://library-hours.stanford.edu/libraries/branner"&gt;regular library open hours&lt;/a&gt;.&lt;/p&gt;
 </description>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/branner_library_monthly_book_map_exhibit_black_history_month</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/branner-library-monthly-book-map-exhibit-earth-day-2024</link>
       <geo:lat>37.426402</geo:lat>
       <geo:long>-122.172635</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/45765804879487/huge/fd8f8af4a778925564e0139425d01ec602b30f21.jpg" medium="image" type="image/png" height="540" width="540" isDefault="true" fileSize="247881"/>
+      <media:content url="https://localist-images.azureedge.net/photos/46040907814747/huge/5de5db223aeba64252bb5a893a91f41bff6f8f6d.jpg" medium="image" type="image/png" height="1545" width="2000" isDefault="true" fileSize="682161"/>
       <category>Exhibition</category>
     </item>
     <item>
@@ -37,7 +35,7 @@
 
 &lt;p&gt;This exhibition is sponsored by Stanford Libraries, the East Asia Library, the Introductory Seminars Program, and the Department of Religious Studies&lt;/p&gt;
 </description>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/religion_in_manga_and_anime_a_poster_exhibition_by_introsems_religst_6n</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
@@ -50,7 +48,7 @@
 
 &lt;p&gt;A selection of portraits and text from their award-winning book &lt;a href="https://press.uchicago.edu/ucp/books/book/chicago/S/bo90479007.html"&gt;&lt;i&gt;Seeing Silicon Valley&lt;/i&gt;&lt;/a&gt; is on display throughout Hohbach Hall's study spaces. This long-term exhibition will be up through 2025.&lt;/p&gt;
 </description>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/seeing_silicon_valley</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -65,7 +63,7 @@
 
 &lt;p&gt;Image: Gabriel von Max, &lt;i&gt;Abelard and Heloise&lt;/i&gt;, c. 1900, oil on canvas. The Jack Daulton Collection. Photography by Don Tuttle/Marty Kelly.&lt;/p&gt;
 </description>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/the_apes_and_us</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -177,6 +175,35 @@
       <pubDate>Fri, 05 Apr 2024 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/big-earth-hackathon-2024-spatial-data-bootcamp-sources-and-methods-for-wildfire-applications</link>
       <media:content url="https://localist-images.azureedge.net/photos/45864203950933/huge/a5512d6d9d1d0f1bcd1cad4e1a6d2075de47ee29.jpg" medium="image" type="image/jpeg" height="470" width="940" isDefault="true" fileSize="117439"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>Introduction to QGIS at Branner Earth Sciences Library</title>
+      <description>&lt;p&gt;This introductory workshop will focus on the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics covered:&lt;/p&gt;
+
+&lt;p&gt;What is a GIS?&lt;/p&gt;
+
+&lt;p&gt;Spatial Data Models and Formats&lt;/p&gt;
+
+&lt;p&gt;Projections and Coordinate Systems&lt;/p&gt;
+
+&lt;p&gt;Basic Data Management&lt;/p&gt;
+
+&lt;p&gt;The QGIS User Interface&lt;/p&gt;
+
+&lt;p&gt;Basic Analysis and Map Construction&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Note: &lt;/b&gt;Open to current Stanford affiliates &lt;b&gt;ONLY&lt;/b&gt;. This workshop or prior GIS experience are required for most other SGC workshops.&lt;/p&gt;
+
+&lt;p&gt;Plese use the Event Website to register. Registration page has link to online resouerces for workshop.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 05 Apr 2024 09:15:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/introduction-to-qgis</link>
+      <geo:lat>37.426402</geo:lat>
+      <geo:long>-122.172635</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/39501269457862/huge/c9436efb55d1fa91fd8c88e2008b705fd725d305.jpg" medium="image" type="image/png" height="422" width="597" isDefault="true" fileSize="284421"/>
       <category>Workshop</category>
     </item>
     <item>
