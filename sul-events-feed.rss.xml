@@ -15,12 +15,24 @@ Victoria Yau: “I slept in the mountain cloud” &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 </description>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/victoria-yau-i-slept-in-the-mountain-cloud</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/46252014368895/huge/6eb4274218d52cea507377e8acbd22c97908c505.jpg" medium="image" type="image/png" height="839" width="838" isDefault="true" fileSize="552389"/>
       <category>Exhibition</category>
+    </item>
+    <item>
+      <title>Book Display: Travel  at Hohbach Hall</title>
+      <description>&lt;p&gt;Come to Green Library and check out our book display on travel. Find a title you like? Check it out at the Circulation Desk!&lt;/p&gt;
+</description>
+      <pubDate>Tue, 02 Jul 2024 08:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/book-display-travel</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/46852608267200/huge/397e56d3c2a11933f6d0b01ed21b4e14fbec561e.jpg" medium="image" type="image/jpeg" height="1344" width="1080" isDefault="true" fileSize="377816"/>
+      <category>Exhibition</category>
+      <category>Other</category>
     </item>
     <item>
       <title>The New Deal &amp; The Federal Writers' Project at Green Library, Bing Wing</title>
@@ -41,7 +53,7 @@ As demonstrated throughout the exhibit, The FWP’s lasting influence on literar
 
 &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;
 </description>
-      <pubDate>Mon, 01 Jul 2024 09:00:00 -0700</pubDate>
+      <pubDate>Tue, 02 Jul 2024 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/new-deal</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -109,6 +121,14 @@ As demonstrated throughout the exhibit, The FWP’s lasting influence on literar
       <category>Lecture/Presentation/Talk</category>
       <category>Workshop</category>
       <category>Other</category>
+    </item>
+    <item>
+      <title>Introduction to NVivo</title>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jul 2024 11:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/introduction-to-nvivo-5048</link>
+      <media:content url="https://localist-images.azureedge.net/photos/46852978301307/huge/2b270820ca810e4fdfc0686a17d1af5570e00af3.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="76653"/>
+      <category>Workshop</category>
     </item>
   </channel>
 </rss>
