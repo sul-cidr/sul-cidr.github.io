@@ -12,7 +12,7 @@
 
 &lt;p&gt;Image: Joshua Roberts/Reuters, “Day 69" (&lt;a href="https://www.starlinglab.org/78daysarchive/"&gt;78 Days Archive&lt;/a&gt;), January 11, 2021.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/to-trust-or-not-to-trust-authenticity-by-design</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -30,7 +30,7 @@ Victoria Yau: “I slept in the mountain cloud” &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 </description>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/victoria-yau-i-slept-in-the-mountain-cloud</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
@@ -41,7 +41,7 @@ Victoria Yau: “I slept in the mountain cloud” &lt;/b&gt;&lt;/p&gt;
       <title>Book Display: National Hispanic Heritage Month at Hohbach Hall</title>
       <description>&lt;p&gt;September is National Hispanic Heritage Month. Come to Green Library and check out our book display. Find a title you like? Check it out at the Circulation Desk!&lt;/p&gt;
 </description>
-      <pubDate>Tue, 24 Sep 2024 08:00:00 -0700</pubDate>
+      <pubDate>Wed, 25 Sep 2024 08:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/book-display-national-hispanic-heritage-month</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -67,7 +67,7 @@ As demonstrated throughout the exhibit, The FWP’s lasting influence on literar
 
 &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 24 Sep 2024 09:00:00 -0700</pubDate>
+      <pubDate>Wed, 25 Sep 2024 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/new-deal</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -179,6 +179,25 @@ Check out past exhibits featured in the &lt;a href="https://us20.campaign-archiv
       <category>Workshop</category>
     </item>
     <item>
+      <title>Seeing without labels: Applied AI at the National Library of Sweden at Hohbach Hall</title>
+      <description>&lt;p&gt;While the digital archives of memory institutions have expanded exponentially in recent years, much of this material remains inaccessible. With the advent of mass digitization programs and the ever-increasing flow of incoming born digital material, the range and extent of digital heritage collections has grown enormously over the past two decades. However, due to a constellation of factors – from copyright restrictions and data protection regulation to outdated technical systems – it can often prove surprisingly difficult for researchers and the wider public to access and make use of these collections. Digitally collected does not simply equate to digitally available.&lt;/p&gt;
+
+&lt;p&gt;How can AI be used to improve this accessibility? This talk presents the work of KBLab, data lab at the &lt;a href="https://www.kb.se/in-english.html"&gt;National Library of Sweden&lt;/a&gt; (KB), in applying AI models trained at the library as a means of enhancing accessibility to the library’s digital collections. In the first part, we explain how and why KBLab has established itself as a key actor in the training of new Swedish AI models based on the library’s collections. In the second part, we offer a case study showing how these models can be applied to making parts of the collections currently lacking metadata searchable for researchers and users at large. More precisely, we present an example of how multimodal AI can be applied as the basis for an image search system to search and analyze large image collections, based upon the following demo: &lt;a href="https://lab.kb.se/bildsok/"&gt;https://lab.kb.se/bildsok/&lt;/a&gt;. We conclude with some broader reflections on the possibilities and challenges of establishing an AI-based infrastructure, including the potential for new organizational configurations to aid further exploration about the role of AI at the library.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;KBLab&lt;/b&gt; is a national infrastructure for digital research at the National Library of Sweden. Read more about our development projects within AI and data science on our &lt;a href="https://kb-labb.github.io/"&gt;blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Love Börjeson&lt;/b&gt; is director at KBLab and responsible for R&amp;amp;D at KB, as well as an affiliated researcher in applied language technology at The Stockholm School of Economics Institute for Research.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Chris Haffenden&lt;/b&gt; is research coordinator at KBLab and affiliated researcher at the Department of the History of Science and Ideas, Uppsala University.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 09 Oct 2024 14:30:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/seeing-without-labels-applied-ai-at-the-national-library-of-sweden</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/47596315802867/huge/1d3dcf3b5ae9032c8d54a4476fc4c20fe1fb0536.jpg" medium="image" type="image/jpeg" height="1094" width="1129" isDefault="true" fileSize="322902"/>
+      <category>Lecture/Presentation/Talk</category>
+    </item>
+    <item>
       <title>Introduction to R at Green Library, Bing Wing</title>
       <description>&lt;div&gt;
 &lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;This introductory workshop is geared towards those who would like to get started with R or need to brush up on their skills. You will learn how to use R, RStudio, how to create objects in R, how to work with different data types, how to read tabular data into R and how to subset tables.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -225,14 +244,6 @@ Check out past exhibits featured in the &lt;a href="https://us20.campaign-archiv
       <geo:long>-122.167086</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/46676503105277/huge/817c4038d6199c955ba7aa5bb39f440cd4faca45.jpg" medium="image" type="image/jpeg" height="2201" width="2400" isDefault="true" fileSize="498418"/>
       <category>Lecture/Presentation/Talk</category>
-    </item>
-    <item>
-      <title>Introduction to NVivo</title>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Oct 2024 11:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/introduction-to-nvivo-5048</link>
-      <media:content url="https://localist-images.azureedge.net/photos/46852978301307/huge/2b270820ca810e4fdfc0686a17d1af5570e00af3.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="76653"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>Introduction to Zotero at Building 200, History Corner</title>
@@ -330,7 +341,7 @@ Check out past exhibits featured in the &lt;a href="https://us20.campaign-archiv
       <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
-      <title>Justice, Equity, Diversity, and Inclusion (JEDI) Fair</title>
+      <title>Justice, Equity, Diversity, and Inclusion (JEDI) Fair at In-Person</title>
       <description>&lt;p&gt;Stanford Libraries is hosting its 4th annual &lt;b&gt;Justice, Equity, Diversity, and Inclusion (JEDI) Fair&lt;/b&gt;. &lt;/p&gt;
 
 &lt;p&gt;See social justice collections from the library, learn about DEI initiatives happening around campus, and find out how you can get involved in making the university and your community more just and equitable.&lt;/p&gt;
@@ -354,6 +365,8 @@ The day before, on &lt;b&gt;October 29 &lt;/b&gt;from 12:00 to 1:00 pm, join us 
 &lt;i&gt;Black Farmers: Together Toward Justice and Equity&lt;/i&gt; – In this session, Jocelyn Breeland will outline the Black Farmers Initiative, the discrimination Black farmers still face today, and the ways the initiative is successfully advancing toward equity and justice.&lt;/p&gt;
 
 &lt;p&gt;Jocelyn is a member of the 2023 and 2024 Stanford IDEAL Honor Rolls. She is also an alumna of Stanford University, with a Bachelor of Arts in International Relations. She and her full-service, in-house team support R&amp;amp;DE by developing and implementing strategic plans to engage campus audiences, promote the many services R&amp;amp;DE provides for the campus, and share the results of groundbreaking R&amp;amp;DE research and innovation, such as the Black Farmers Initiative.&lt;/p&gt;
+
+&lt;p&gt;To receive a Zoom link for the webinar, please&lt;b&gt; &lt;/b&gt;&lt;b&gt;&lt;a href="https://stanford.zoom.us/webinar/register/WN_jUk9ETtjQ-ejGXYHNBcb6A"&gt;Register here&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
 </description>
       <pubDate>Wed, 30 Oct 2024 13:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/justice-equity-diversity-and-inclusion-jedi-fair</link>
