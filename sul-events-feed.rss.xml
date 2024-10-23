@@ -12,7 +12,7 @@
 
 &lt;p&gt;Image: Joshua Roberts/Reuters, “Day 69" (&lt;a href="https://www.starlinglab.org/78daysarchive/"&gt;78 Days Archive&lt;/a&gt;), January 11, 2021.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/to-trust-or-not-to-trust-authenticity-by-design</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -30,7 +30,7 @@ Victoria Yau: “I slept in the mountain cloud” &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 </description>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/victoria-yau-i-slept-in-the-mountain-cloud</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
@@ -41,7 +41,7 @@ Victoria Yau: “I slept in the mountain cloud” &lt;/b&gt;&lt;/p&gt;
       <title>Whodunnit? Mystery and Detective Fiction at Hohbach Hall</title>
       <description>&lt;p&gt;Whodunnit? Come find out in Green Library, with the Mystery and Detective Fiction book display in October.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 22 Oct 2024 08:00:00 -0700</pubDate>
+      <pubDate>Wed, 23 Oct 2024 08:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/whodunnit-mystery-and-detective-fiction</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -58,7 +58,7 @@ Victoria Yau: “I slept in the mountain cloud” &lt;/b&gt;&lt;/p&gt;
 
 &lt;p class="desc_bigger"&gt; &lt;/p&gt;
 </description>
-      <pubDate>Tue, 22 Oct 2024 09:00:00 -0700</pubDate>
+      <pubDate>Wed, 23 Oct 2024 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/scrabrraanng-the-explosion-of-futurist-poetry</link>
       <geo:lat>37.432546</geo:lat>
       <geo:long>-122.171856</geo:long>
@@ -84,71 +84,12 @@ As demonstrated throughout the exhibit, The FWP’s lasting influence on literar
 
 &lt;p&gt;NOTE: Exhibit cases in the Peterson Gallery and Munger Rotunda are illuminated from 9 a.m. to 5 p.m. The exhibition is free and open to the public. Visitors are encouraged to call 650-723-0931 or visit the &lt;a href="https://library.stanford.edu/libraries_collections/hours_locations.html" rel="noopener" target="_blank"&gt;Library Hours page &lt;/a&gt;to confirm hours and access.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 22 Oct 2024 09:00:00 -0700</pubDate>
+      <pubDate>Wed, 23 Oct 2024 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/new-deal</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/46210554145667/huge/5835b820fcd4b2c26aeb7ed65aab8559a0126e81.jpg" medium="image" type="image/jpeg" height="600" width="1067" isDefault="true" fileSize="71541"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Data Manipulation with Pandas at Green Library, Bing Wing</title>
-      <description>&lt;p&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;This workshop teaches basic data manipulation with Python using the Pandas library, and will cover topics such as loading data into and out of a Pandas &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;DataFrame&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;, performing basic data cleaning, preparation, and analysis, and visualizing relevant aspects of a dataset.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Prerequisites:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;You should be familiar with basic Python syntax and fundamental programming concepts such as variables, functions, and control flow. If you need a refresher, check out A Byte of Python (&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href="https://python.swaroopch.com/" style="text-decoration:none;"&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;u style="text-decoration:underline;"&gt;&lt;span&gt;https://python.swaroopch.com/&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
-      <pubDate>Tue, 22 Oct 2024 14:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/data-manipulation-with-pandas</link>
-      <geo:lat>37.426984</geo:lat>
-      <geo:long>-122.167998</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/47562833510445/huge/2a2fc6ca19f13e87d375a74279e2c9482c1e12d3.jpg" medium="image" type="image/jpeg" height="600" width="600" isDefault="true" fileSize="59174"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Sewers for surveillance: Harnessing wastewater monitoring data for public health action (Bay Area Open Science Group October Meeting)</title>
-      <description>&lt;p style="text-align:start;"&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="text-decoration:none;"&gt;This month, the Bay Area Open Science Group will be joined by Elana Chan, a Civil &amp;amp; Environmental Engineering PhD Candidate in the Boehm Research Group at Stanford studying how wastewater monitoring data may be interpreted for public health action. Elana was recently awarded the Stanford University Libraries Data Sharing Prize for her transparent research practices including publishing her data and code alongside her research papers with detailed documentation in the Stanford Digital Repository.&lt;b&gt; &lt;/b&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p style="text-align:start;"&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="text-decoration:none;"&gt;&lt;b&gt;About the Bay Area Open Science Group&lt;/b&gt;&lt;br&gt;
-The Bay Area Open Science Group is a growing community for Bay Area (and more!) academics and researchers interested in incorporating open science into their research, teaching, and learning. Targeting students, faculty, and staff at UCSF, Berkeley, and Stanford, the goal of the community is to increase awareness of and engagement with all things open science, including open access articles, open research data, open source software, and open educational resources. Through this work the group hopes to connect researchers with tools they can use to make the products and process of science more equitable and reproducible. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-      <pubDate>Tue, 22 Oct 2024 14:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/sewers-for-surveillance</link>
-      <media:content url="https://localist-images.azureedge.net/photos/47747247704860/huge/be17a03ecfdba6d0cc6c52ead0b3c0eb11a5c607.jpg" medium="image" type="image/png" height="557" width="990" isDefault="true" fileSize="942056"/>
-      <category>Lecture/Presentation/Talk</category>
-      <category>Meeting</category>
-    </item>
-    <item>
-      <title>Whatever Victory Takes: The Lithuanian Perspective on Russia’s War against Ukraine and Transatlantic Security at Encina Hall</title>
-      <description>&lt;p&gt;&lt;b&gt;Join us for an engaging conversation with Ambassador of Lithuania to the United States Audra Plepytė and Director of the Freeman-Spogli Institute Michael McFaul on Russia’s war against Ukraine, its global implications, and transatlantic support to Ukraine:&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Whatever Victory Takes: The Lithuanian Perspective on Russia’s War against Ukraine and Transatlantic Security&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;As we are nearing 1,000 days of Russia’s full-scale war against Ukraine, the debate in Washington, D.C., and European capitals remains on what Ukraine can and cannot do to defend itself, its territory, and the whole democratic world. Lithuania has been among the most vocal supporters of Ukraine advocating that instead of Western commitments to stand with Ukraine as long as it takes, commitment to Ukraine’s victory is needed.&lt;/p&gt;
-
-&lt;p&gt;The event will feature a discussion on what is at stake in Russia’s war on Ukraine and why it matters beyond Ukraine and Europe. Ambassador Plepytė and Professor McFaul will discuss security on NATO’s Eastern flank, Western strategy for Ukraine, and the U.S. role in standing up to the new ‘axis of evil’ in defense of democracy and the free world.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;Ambassador &lt;b&gt;Audra Plepytė&lt;/b&gt; was appointed as Lithuania’s Ambassador to the United States of America and to the United Mexican States in 2021. Before this she was a Lithuanian Permanent Representative to the United Nations where she facilitated several negotiations, led the Group of Friends, and was elected to executive bodies of UN instruments and institutions, including being elected as the President of the Executive Board of the United Nations Children’s Fund (UNICEF) in 2021. As a career diplomat for over 30 years, she has held numerous positions within the Lithuanian Ministry of Foreign Affairs, dealing with bilateral and multilateral issues, heading the European Union Department (2014–2017), the Personnel Department, and International Missions and Conflict Prevention Division. She was also &lt;/i&gt;&lt;i&gt;Lithuania’s ambassador to Spain, World Tourism Organization from 2010 till 2014.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;&lt;b&gt;Michael McFaul&lt;/b&gt; is Director at the Freeman Spogli Institute for International Studies, the Ken Olivier and Angela Nomellini Professor of International Studies in the Department of Political Science, and the Peter and Helen Bing Senior Fellow at the Hoover Institution. He joined the Stanford faculty in 1995. He served for five years in the Obama administration, first as Special Assistant to the President and Senior Director for Russian and Eurasian Affairs at the National Security Council at the White House (2009-2012), and then as U.S. Ambassador to the Russian Federation (2012-2014).&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;Opening remarks will be delivered by &lt;b&gt;Michael Keller&lt;/b&gt;, Vice Provost and University Librarian.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;This in-person event is free and open to the public. &lt;a href="https://info-fsi.stanford.edu/acton/fs/blocks/showLandingPage/a/19053/p/p-004f/t/page/fm/0"&gt;Registration is required.&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;This event is part of &lt;a href="https://vabamu.ee/en/global-conversations-talk-series/"&gt;Global Conversations&lt;/a&gt;, a series of talks, lectures, and seminars hosted by Stanford University Libraries and &lt;a href="https://vabamu.ee/en/"&gt;Vabamu&lt;/a&gt; with the goal of educating scholars, students, leaders, and the public on the benefits of but also challenges related to sustaining freedom.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
-      <pubDate>Tue, 22 Oct 2024 16:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/whatever-victory-takes</link>
-      <geo:lat>37.427319</geo:lat>
-      <geo:long>-122.164625</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/47545305782291/huge/acd08f40e98073fd1f96e06cf79212b5348576f3.jpg" medium="image" type="image/jpeg" height="1155" width="1233" isDefault="true" fileSize="485919"/>
-      <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
       <title>Epicenters: Navigating Recovery and Renewal from Disasters at David Rumsey Map Center</title>
@@ -193,6 +134,8 @@ The Bay Area Open Science Group is a growing community for Bay Area (and more!) 
       <description>&lt;p&gt;Take a moment to relax while painting a rock or just stop by the Branner Earth Sciences Library for free coffee, tea, and snacks. We'll have Halloween inspired coloring pages too!&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Help us reduce waste, bring a covered mug!&lt;/b&gt;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;&lt;i&gt;&lt;span style="font-size:11.0pt;"&gt;&lt;span&gt;Please bring your Stanford ID card/mobile ID to enter the library, visitors must present their government issued ID at the front desk.&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
 </description>
       <pubDate>Thu, 24 Oct 2024 10:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/take-a-break-paint-a-rock-grab-a-coffee-Oct2024</link>
@@ -363,8 +306,6 @@ Check out past exhibits featured in the &lt;a href="https://us20.campaign-archiv
       <description>&lt;p&gt;Stanford Libraries is hosting its 4th annual &lt;b&gt;Justice, Equity, Diversity, and Inclusion (JEDI) Fair&lt;/b&gt;. &lt;/p&gt;
 
 &lt;p&gt;See social justice collections from the library, learn about DEI initiatives happening around campus, and find out how you can get involved in making the university and your community more just and equitable.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;Check back for updates.&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;Come expecting to leave empowered!&lt;/p&gt;
 
