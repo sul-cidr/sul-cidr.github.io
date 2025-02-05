@@ -14,7 +14,7 @@ A significant number of Korean scholars practiced literati painting during the J
 This exhibition of Cha’s Korean literati paintings was curated by Jee-Young Park, Korean Studies Librarian at Stanford East Asia Library; Ji Soo Kim, M.A. in  Museum Studies from San Francisco State University; and Wooju Chong, M. A. in Center for East Asian Studies from Stanford University, in consultation with the East Asia Library Exhibits Committee.&lt;br&gt;
  &lt;/p&gt;
 </description>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/cheonggea-ilsu-cha-grasp-the-essence-and-the-form-fades-away</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
@@ -29,7 +29,7 @@ This exhibition of Cha’s Korean literati paintings was curated by Jee-Young Pa
 
 &lt;p&gt;Image: Joshua Roberts/Reuters, “Day 69" (&lt;a href="https://www.starlinglab.org/78daysarchive/"&gt;78 Days Archive&lt;/a&gt;), January 11, 2021.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/to-trust-or-not-to-trust-authenticity-by-design</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -40,7 +40,7 @@ This exhibition of Cha’s Korean literati paintings was curated by Jee-Young Pa
       <title>Panoply of Pop-Ups exhibition, Bowes Library, Winter quarter at McMurtry Building</title>
       <description>&lt;p&gt;Spoiler alert: Come see flying playing cards in &lt;i&gt;Alice in Wonderland&lt;/i&gt; to Dada-inspired happenings in &lt;i&gt;Cabaret Voltaire. &lt;/i&gt;Featuring books from the Bowes Locked Stacks collection. Curated by Lorna Corbetta and Katie Keller. On view Winter quarter. M-Th 9-7, F 9-5, Sun 12-6. &lt;/p&gt;
 </description>
-      <pubDate>Tue, 04 Feb 2025 09:00:00 -0800</pubDate>
+      <pubDate>Wed, 05 Feb 2025 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/panoply-of-pop-ups-exhibition-bowes-library-winter-quarter</link>
       <geo:lat>37.432546</geo:lat>
       <geo:long>-122.171856</geo:long>
@@ -241,6 +241,28 @@ Check out past exhibits featured in the &lt;a href="https://us20.campaign-archiv
       <category>Workshop</category>
     </item>
     <item>
+      <title>How to Cite Data and Acknowledge Data Collaborators at Green Library, Bing Wing</title>
+      <description>&lt;p&gt;This event is part of &lt;a href="https://lovedataweek.stanford.edu/"&gt;Love Data Week at Stanford&lt;/a&gt;, an annual festival highlighting topics, opportunities and services relevant to data in research.&lt;/p&gt;
+
+&lt;p&gt;Many of our Stanford scholars are beginning to utilize data, and with that come the question of how to cite that data as well as collaborators who worked with them on it. This is an in-person/online hybrid workshop on how to properly cite data in their scholarship.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Please register &lt;a href="https://stanford.zoom.us/meeting/register/Yv6wXYqCQ02RBykNDJRCXw#/registration"&gt;here&lt;/a&gt; to reserve your spot for this workshop!&lt;/p&gt;
+
+&lt;p&gt;Location: Zoom and Velma Denning Room (120F), Green Library&lt;br&gt;
+Date and Time: 10:00AM to 11:00AM on Monday, February 10, 2025&lt;br&gt;
+Instructor:  Dr. Anne Ladyem McDivitt (Academic Technology Specialist for History)&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;This hybrid event will be held at Green Library. To access the library, please bring your Stanford ID or a valid government-issued ID.&lt;/i&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 10 Feb 2025 10:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/how-to-cite-data-and-acknowledge-data-collaborators</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/48782953056752/huge/f5754502fdcaaefd2b46278e8dcb760a01cf6431.jpg" medium="image" type="image/png" height="1275" width="1275" isDefault="true" fileSize="3486553"/>
+      <category>Workshop</category>
+    </item>
+    <item>
       <title>Love Data Week 2025 BioBlitz</title>
       <description>&lt;p&gt;This workshop is part of &lt;a href="https://lovedataweek.stanford.edu/"&gt;a series of workshops for Love Data Week&lt;/a&gt;, an annual festival highlighting topics, opportunities and services relevant to data in research. &lt;/p&gt;
 
@@ -253,6 +275,26 @@ Check out past exhibits featured in the &lt;a href="https://us20.campaign-archiv
       <pubDate>Mon, 10 Feb 2025 13:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/love-data-week-2025-bioblitz</link>
       <media:content url="https://localist-images.azureedge.net/photos/48713560296680/huge/b0a2fa943f353bdd19f861504b50ba2283e003cd.jpg" medium="image" type="image/png" height="2500" width="4446" isDefault="true" fileSize="1151688"/>
+      <category>Workshop</category>
+    </item>
+    <item>
+      <title>Words Into Data: Basic Workflows for Natural Language Processing</title>
+      <description>&lt;p class="desc_normal"&gt;Words Into Data is part of &lt;a href="https://lovedataweek.stanford.edu/"&gt;a series of workshops for Love Data Week&lt;/a&gt;, an annual festival highlighting topics, opportunities and services relevant to data in research.&lt;/p&gt;
+
+&lt;p class="desc_normal"&gt;This interactive workshop will familiarize users with a basic natural language processing (NLP) research pipeline using the Huggingface/transformers framework. You will learn to ingest, process, and tokenize text; extract Named Entity (people, places, events, etc.) data from it; and reformat that data so it can be used in higher-order research workflows like mapping, social network analysis, and more. Time allowing, we might even make a map or network graph ourselves!&lt;/p&gt;
+
+&lt;p class="desc_normal"&gt;Register &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdPwzFuXAo1j6tJXeLenM9eOmA6ofbw2yyeFIatZd49MONlWA/viewform?usp=dialog"&gt;here&lt;/a&gt; to attend. Spots are open to current Stanford Affiliates only and will be offered on a first-come, first-serve basis. Space is limited, and a waitlist will be available once all spots are filled. (Please note: You must be logged in to Google Drive with your Stanford email, such as &lt;a href="mailto:YourSUNetid@stanford.edu"&gt;YourSUNetid@stanford.edu&lt;/a&gt;, to access the registration form.)&lt;br&gt;
+ &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Location: Virtual (A zoom link will be sent to registrants.)&lt;/li&gt;
+&lt;li&gt;Date and Time: 2:00PM to 3:00PM PT on Monday, February 10, 2025&lt;/li&gt;
+&lt;li&gt;Instructor: Brad Rittenhouse, Research Data Facilitator, Stanford Research Computing&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 10 Feb 2025 14:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/words-into-data-basic-workflows-for-natural-language-processing</link>
+      <media:content url="https://localist-images.azureedge.net/photos/48749271346038/huge/9680fdff569ad84e418490b066e381faac1b1b14.jpg" medium="image" type="image/png" height="2500" width="4446" isDefault="true" fileSize="5218174"/>
       <category>Workshop</category>
     </item>
     <item>
@@ -335,6 +377,26 @@ This session will not be recorded, but lesson materials will be shared with part
       <link>https://events.stanford.edu/event/introduction-to-research-data-management</link>
       <media:content url="https://localist-images.azureedge.net/photos/48738406040509/huge/81f2b01921f798a1e668efa21ba6b12db2795850.jpg" medium="image" type="image/png" height="2500" width="4446" isDefault="true" fileSize="5217174"/>
       <category>Workshop</category>
+    </item>
+    <item>
+      <title>Special, Unique, and Rare: California at Green Library, Bing Wing</title>
+      <description>&lt;p class="desc_bigger"&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;This month’s Special, Unique and Rare popup exhibit highlights curated items from Stanford Libraries’ Special Collections and Green Library collections – artistic, geographical, historical, journalistic, institutional – that have something to say about &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;&lt;b&gt;CALIFORNIA&lt;/b&gt;.  Drop by &lt;b&gt;Hohbach 126 (Silicon Valley Archive seminar room, Green Library) any time between 2-4 PM on Tuesday, February 11th&lt;/b&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;&lt;span style="font-size:11pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Green Library's pop-up is the first of three around the Libraries on the theme of California, to be followed by: &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="desc_normal"&gt;&lt;b&gt;&lt;a href="https://events.stanford.edu/event/california-pop-up-bowes-art-architecture-library-feb-12-2-4-pm"&gt;California Pop-Up at Bowes Art and Architecture Library&lt;/a&gt; on Wednesday, February 12, 2025, from 2-4 pm (2nd Floor, McMurtry Building), and &lt;/b&gt;&lt;br&gt;
+ &lt;/p&gt;
+
+&lt;p class="desc_normal"&gt;&lt;b&gt;&lt;a href="https://events.stanford.edu/event/california-pop-up-exhibit-branner-earth-sciences-library"&gt;California Pop-Up Exhibit at Branner Earth Sciences Library&lt;/a&gt; on Thursday, February 13, 2025 from 1-3pm(2nd Floor, Mitchell Earth Sciences Building).&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+      <pubDate>Tue, 11 Feb 2025 14:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/special-unique-and-rare-california</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/48783541525447/huge/6ae27ac2113f83587eceeb6818d6261f9a1510bd.jpg" medium="image" type="image/jpeg" height="2755" width="2914" isDefault="true" fileSize="2512896"/>
+      <category>Exhibition</category>
     </item>
     <item>
       <title>Velma Denning Room and Research Data Services Open House at Green Library, Bing Wing</title>
@@ -565,6 +627,47 @@ Instructor: Katie Frey (Data Curator for Programmatic Access)&lt;/p&gt;
       <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
+      <title>California Pop-up Exhibit @ Branner Earth Sciences Library at Mitchell Earth Sciences</title>
+      <description>&lt;p&gt;As part of the Stanford Libraries pop-up exhibits on &lt;b&gt;California&lt;/b&gt;, Branner Earth Sciences Library &amp;amp; Map Collections will be featuring maps, reports, and minerals created as part of the&lt;a href="https://exhibits.stanford.edu/sgs-collection"&gt; &lt;b&gt;Stanford Geological Survey&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Thursday, February 13, 2025 from 1-3pm in Branner Library (2nd Floor, Mitchell Earth Sciences Building). &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;On display will be several items including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://searchworks.stanford.edu/view/7594435"&gt;Herbert Hoover's student topographic map of the Stanford campus created c. 1893.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://searchworks.stanford.edu/view/5968665"&gt;Report and map by Mary Balch Kennedy (1929)&lt;/a&gt; who was not allowed to attend the required Summer Geology Camp because she was a woman, instead she had to map the geology of the New Almaden Quadrangle alone in rugged terrain.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://searchworks.stanford.edu/view/4793992"&gt;R.B. Marshall's map (1895) covering a large amount, if not all, of the Stanford lands&lt;/a&gt;.  He notes the "marsh line" which extended to present day HIghway 101 as a dotted line across the top section of the map. This may be the only map from this time depicting the marshlands with such detail at this time.&lt;/li&gt;
+&lt;li&gt;We will also feature several minerals from the Stanford Doerr School of Sustainability Specimen Collection, collected during the surveys or in surveyed areas, including Epidote, Gold, Jade, Actinolite, and Quartz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class="desc_normal"&gt; &lt;/p&gt;
+
+&lt;p class="desc_normal"&gt;Before heading to Branner on Thursday, check out the two other California Pop-up Exhibits happening Tuesday (2/11) and Wednesday (2/12)!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tues 2- 4pm, &lt;a href="https://events.stanford.edu/event/special-unique-and-rare-california"&gt;Special, Unique and Rare: California @ Green Library&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Wed, 2-4pm, &lt;a href="https://events.stanford.edu/event/california-pop-up-bowes-art-architecture-library-feb-12-2-4-pm"&gt;California Pop-Up @ Bowes Art &amp;amp; Architecture Library&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class="desc_normal"&gt; &lt;/p&gt;
+
+&lt;p class="desc_normal"&gt;This event is part of &lt;a href="https://lovedataweek.sites.stanford.edu/"&gt;Love Data Week at Stanford&lt;/a&gt;, an annual festival highlighting topics, opportunities and services relevant to data in research. &lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;A current Stanford ID is needed to enter the library, visitors must present a government issued ID card to sign-in at the front desk.&lt;/i&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 13 Feb 2025 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/california-pop-up-exhibit-branner-earth-sciences-library</link>
+      <geo:lat>37.426402</geo:lat>
+      <geo:long>-122.172635</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/48701549748781/huge/4aec8816918800c9b951d7a3d7fb4bd28ec8816a.jpg" medium="image" type="image/jpeg" height="985" width="785" isDefault="true" fileSize="132577"/>
+      <category>Exhibition</category>
+    </item>
+    <item>
       <title>Using LLMs to Extract Structured Data from PDFs at Green Library, Bing Wing</title>
       <description>&lt;p class="desc_bigger" style="text-align:start;"&gt;&lt;span style="font-size:11pt;"&gt;&lt;span style="font-style:normal;"&gt;&lt;span&gt;&lt;span&gt;&lt;span style="text-decoration:none;"&gt;&lt;span&gt;&lt;span&gt;This workshop is part of Stanford's &lt;a href="https://lovedataweek.stanford.edu/" style="text-decoration:underline;"&gt;Love Data Week 2025&lt;/a&gt;. The topic is the use of large language models (LLMs) to extract structured data from PDFs or other data. Imagine that you have a PDF with some tabular data in it, like a table. You want that data to work in a computable form (like CSV) for use in Excel or other tools. Large language models (LLMs) might be able to help with this task. &lt;a href="https://uit.stanford.edu/service/aiplayground" style="text-decoration:underline;"&gt;The Stanford AI Playground&lt;/a&gt; provides an easy mechanism to experiment with LLMs to help with data extraction or manipulation.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -590,8 +693,6 @@ Date and Time: 1:00PM to 2:00PM PT on Thursday, February 13, 2025&lt;/span&gt;&l
 &lt;p class="desc_normal"&gt;The group, composed of students of all levels and led by instructors Chris Chafe and Nilam Ram, will use software, acoustic, and electric instruments to present temporal data as audiovisual material, allowing users to interact with existing information in novel ways.&lt;/p&gt;
 
 &lt;p class="desc_normal"&gt;Not sure what data sonification is? Check out this &lt;a href="https://ccrma.stanford.edu/~cc/153d/playingSpectra2024.webm"&gt;prevous performance&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p class="desc_normal"&gt; &lt;/p&gt;
 
 &lt;p class="desc_normal"&gt;This event is part of &lt;a href="https://lovedataweek.sites.stanford.edu/"&gt;Love Data Week at Stanford&lt;/a&gt;, an annual festival highlighting topics, opportunities and services relevant to data in research. &lt;/p&gt;
 
@@ -688,6 +789,106 @@ Lead Instructor: Dr. Claudia Engel, Academic Technology Specialist (Anthropolo
       <link>https://events.stanford.edu/event/copy-of-take-a-break-pet-a-dog-983</link>
       <media:content url="https://localist-images.azureedge.net/photos/44413091992153/huge/3b9b9706613f371cbdb56151f9dcc5610c7e83bc.jpg" medium="image" type="image/jpeg" height="3333" width="5000" isDefault="true" fileSize="2062913"/>
       <category>Social Event/Reception</category>
+    </item>
+    <item>
+      <title>Coup 53: Documentary Film Screening at Green Library, Bing Wing</title>
+      <description>&lt;p&gt;The Stanford University Libraries are pleased to host a special in-person screening of &lt;i&gt;&lt;b&gt;Coup 53,&lt;/b&gt;&lt;/i&gt;&lt;b&gt; a documentary feature film from Taghi Amirani and Walter Murch.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;While making a documentary about the &lt;a href="https://en.wikipedia.org/wiki/1953_Iranian_coup_d'%C3%A9tat"&gt;CIA/MI6 coup in Iran in 1953&lt;/a&gt;, Iranian director &lt;a href="https://en.wikipedia.org/wiki/Taghi_Amirani"&gt;Taghi Amirani&lt;/a&gt; and editor &lt;a href="https://en.wikipedia.org/wiki/Walter_Murch"&gt;Walter Murch&lt;/a&gt; (&lt;i&gt;Apocalypse Now, The Conversation, The English Patient&lt;/i&gt;) discover never seen before archive material hidden for decades. The 16mm footage and documents not only allow them to tell the story of the overthrow of the Iranian government in unprecedented detail but also lead to explosive revelations about dark secrets buried for 67 years. Working with &lt;a href="https://en.wikipedia.org/wiki/Ralph_Fiennes"&gt;Ralph Fiennes&lt;/a&gt; (&lt;i&gt;The Grand Budapest Hotel, Schindler’s List, The English Patient&lt;/i&gt;) to help bring the lost material to life, what begins as a historical documentary about four days in August 1953 turns into a live investigation, taking the filmmakers into uncharted cinematic waters. The roots of Iran's volatile relationship with America and Britain have never been so forensically and dramatically exposed.  &lt;a href="https://youtu.be/4Bf2CB45ndo?si=Qv-ENhQf5eM4Xj15"&gt;View the trailer &lt;/a&gt;for &lt;i&gt;Coup 53 &lt;/i&gt;and read &lt;a href="https://drive.google.com/file/d/1rmCNVGFpirpUwrvsvb8sV0lHF1rj2C2z/view?usp=sharing"&gt;press reviews&lt;/a&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;u&gt;Schedule&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;9:15 am: Introduction &lt;/p&gt;
+
+&lt;p&gt;9:30 - 11:30 am: Film Screening&lt;/p&gt;
+
+&lt;p&gt;11:30 am - 12 pm: Q&amp;amp;A session with director Taghi Amirani and editor Walter Murch&lt;/p&gt;
+
+&lt;p&gt;The event is free and open to the public, but registration is required to attend.&lt;/p&gt;
+
+&lt;p&gt;Please use the &lt;b&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeiopxkhJzJ0NKITnaPYMGFeYhtBk9yZyria112fCE40DE8VA/viewform?usp=sharing"&gt;RSVP Form to register&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 06 Mar 2025 09:15:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/coup-53-documentary-film-screening</link>
+      <geo:lat>37.426984</geo:lat>
+      <geo:long>-122.167998</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/48775042759457/huge/99e021a8e0f1668eadfd9d90ecf8697cb7ac237e.jpg" medium="image" type="image/jpeg" height="600" width="1067" isDefault="true" fileSize="223502"/>
+      <category>Film/Screening</category>
+    </item>
+    <item>
+      <title>Archiving the History of Modern Iranian Women at In person at Stanford (RSVP for location)</title>
+      <description>&lt;p class="desc_bigger"&gt;&lt;b&gt;&lt;span style="font-size:16pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;From Houri Moghadam to Homa Sarshar: Iranian Women Archives at Stanford &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Join us for a half-day conference celebrating important archival collections at Stanford University created by or about Iranian women. Scholars will explore the intricacies of archival creation, the vital role these collections play in preserving the modern history of Iranian women, and the pressing need for continued archival research and scholarship in this area.&lt;/p&gt;
+
+&lt;p&gt;Sponsored by Stanford's Green Library and the Hamid and Christina Moghadam Program in Iranian Studies&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Agenda details and RSVP forthcoming. Conference is in English.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class="desc_bigger"&gt;PANELISTS&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Kioumars Ghereghlou&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Kioumars Ghereghlou" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/media/image/ghereghlou_web.jpg" style="height:300px;width:300px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Kioumars Ghereghlou is the Curator for Middle East Collections at the Stanford University Libraries. His most recent book is a critical edition of Hayati Tabrizi’s (d. after 1554) newly-found chronicle of the early Safavids and the opening years of the reign of Shah Isma’il I (New Haven, Conn.: American Oriental Society, 2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Sepideh Mohammadian&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Sepideh Mohammadian" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/media/image/mohammadian_sq.jpg" style="height:306px;width:300px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Sepideh Mohammadian was born in 1986 in Tehran, Iran. She is an author, screenwriter and researcher. She earned her BA in Law and MA in sociology and is fluent in Farsi, English, French and Turkish. Mohammadian has been writing for 20 years now, working with Roshangaran Publication since the beginning of her career as a writer. She has worked with several literary magazines in Iran having published short stories and also is a member of Pen America. Mohammadian’s research works focus on semiotics in films and the difficulties social, racial and sexual minorities face in society. She has written eight books some of which are banned in Iran. Her latest book, &lt;i&gt;The Assembly of the Forgotten&lt;/i&gt;, which was banned in Iran, was recently published by Mehri Publication in London. Since she has been advocating for the freedom to write, particularly for marginalized voices, she actively promotes and highlights banned books by fellow writers on her social media platforms, aiming to raise awareness of their work and the unjust censorship they face.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Negar Mottahedeh&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Negar Mottahedeh" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/media/image/mottahedeh_sq.jpg" style="height:306px;width:300px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Negar Mottahedeh is a Professor of Literature at Duke University. Her research on film, social media, and social movements in the Middle East has been published with Stanford University Press, Syracuse University Press, Duke University Press. This includes her monographs &lt;i&gt;Whisper Tapes: Kate Millet in Iran&lt;/i&gt; which was published with Stanford UP in 2019, &lt;i&gt;Displaced Allegories: Iranian Cinema 1980-2000&lt;/i&gt; published with DUP in 2008 and&lt;i&gt; #iranelection: hashtag solidarity and the transformation of online life&lt;/i&gt;. She has written for WIRED magazine, The Hill, Salon.com, The Observer and The Wall Street Journal. She holds a PhD in Comparative Studies in Discourse and Society from the University of Minnesota and a BA in International Relations from Mount Holyoke College.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Abbas Milani&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Abbas Milani" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/media/image/abbas-milani_sm.jpg" style="height:306px;width:300px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Abbas Milani is the Director of the Hamid and Christina Moghadam Program in Iranian Studies at Stanford University, an Adjunct Professor, and co-director of the Iran Democracy Project and a research fellow at the Hoover Institution. His expertise is U.S.-Iran relations as well as Iranian cultural, political, and security issues. Milani is the author of numerous books in Persian and English. Most recently, he published &lt;i&gt;30 Portraits&lt;/i&gt; (Persian Circle). Milani has also translated numerous books and articles into Persian and English. He has published more than 250 essays and book reviews in journals and papers.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Farzaneh Milani&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Farzaneh Milani" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/events/91716-1.jpg" style="height:300px;width:300px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Farzaneh Milani is Raymond J. Nelson Professor Emerita of Iranian literature and Gender Studies at the University of Virginia. She has published several articles and books, most recently, &lt;i&gt;The Literary Biography of Forugh Farrokhzad and Unpublished Letters&lt;/i&gt;. Milani is currently working on a book project tentatively titled, “Iranian Women Writers at the Threshold of the Local and the Global.”&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Nahid Pirnazar&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Nahid Pirnazar" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/media/image/pirnazar_sq.jpg" style="height:306px;width:300px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Nahid Pirnazar is a lecturer of Iranian Studies at UCLA where she received her Ph.D. in 2004 in Iranian Studies with an emphasis on Judeo-Persian literature and Iranian Jewish History. She has been teaching the Habib Levy Visiting Professorship of Judeo-Persian Literature at UCLA since 2000, and the History of Iranian Jews at UCLA since 2007. Pirnazar is the founder and president of The House of Judeo-Persian Manuscripts, an academic organization, which collects, preserves, transliterates and publishes Judeo-Persian manuscripts. She presents her research internationally, which focuses on varied aspects of Judeo-Persian writings and Iranian literature as well as the history, culture and national identity of Iranian Jews. Among her many publications in both English and Persian, the most recent ones are: &lt;i&gt;Judeo-Persian Writings, A Manifestation of Intellectual and Literary Life&lt;/i&gt; (Routhledge, 2020); &lt;i&gt;Ketab-e Anusi, Poetic Narratives of the Life of Iranian Jews in the Safavid Era&lt;/i&gt;, which is the latest volume in the series  of “Ketab-e Iran Namag”, published jointly by University of Toronto, Elahe Omidyar Mir-Djalali Institute of Iranian Studies &amp;amp; Houses of Judeo-Persian Manuscripts, 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Homa Sarshar&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Homa Sarshar" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/media/image/sarshar_sq_0.jpg" style="height:306px;width:300px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Homa Sarshar is a published author, award-winning journalist, writer, and media personality. She is the author of five books and the editor of nine volumes. From 1964 to 1978, she worked as a correspondent, reporter, and columnist for Zan-e Ruz weekly magazine and Kayhan daily newspaper in Iran. From 1972 to 1978 she worked as a television producer, director, and talk-show host for National Iranian Radio &amp;amp; Television. In 1978, Sarshar moved to Los Angeles where she resumed her career as a freelance journalist, radio and television producer, and on-air host. In 1982 as the co-producer, writer, and talk-show host of Omid Radio she co-founded a daily AM radio broadcast. In 1996, Sarshar founded the Center for Iranian Jewish Oral History (CIJOH) in Los Angeles. In 2006, she founded Honar Foundation in Los Angeles. From 2006 until March 2021 Sarshar has been producing, writing, and hosting a two hour weekly radio show at 670AM KIRN. She earned a BA in French literature from Tehran University; a MA in journalism from the Annenberg School of Communications, USC; and a Ph.D. (HC) in Journalism from College of Letters and Science at the American World University – LA, CA. She has received numerous awards for her work, including the Medal for Special Achievement in Women's Rights, given by The Iranian Women's Organization of Tehran, Iran; Journalism Award: Distinguished Iranian Women by the Encyclopaedia Iranica; Commendation for Community Affairs Services by the County of Los Angeles; 2013 Ellis Island Medal of Honor; 2016 American Heritage Award by American Immigration Council; and in 2023 the 13th Bita Prize for Persian Arts - Stanford University, Iranian Studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Mona Tajali&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;img alt="Mona Tajali" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/media/image/tajali_sq.jpg" style="height:306px;width:300px;"&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Mona Tajali is a scholar of gender and politics, specializing in women's political participation and representation in Muslim countries, with a comparative focus on Iran, Afghanistan, and Turkey. Her research includes analysis of feminist mobilization against patriarchal structures as well as the experiences of institutionalization of women's rights in semi-democratic and non-democratic contexts. She is the author of &lt;i&gt;Women’s Political Representation in Iran and Turkey: Demanding a Seat at the Table&lt;/i&gt; (2022) and co-author of &lt;i&gt;Electoral Politics: Making Quotas Work for Women&lt;/i&gt; (2011), both published as open access. She is also the co-editor of &lt;i&gt;Women and Constitutions in Muslim Contexts&lt;/i&gt; (2024), the first compilation analyzing several national constitutions of the Muslim world through a gender lens. A firm believer in engaging across the academic-practitioner divide, Tajali has been a long-term collaborator with transnational solidarity network and Women Living Under Muslim Laws (WLUML), and, since 2019, has served as a member of its executive board. She is published in both academic and popular outlets, among them the Middle East Journal, Politics &amp;amp; Gender, The Conversation, and The Washington Post. Tajali is a former associate professor of international relations and women’s, gender, and sexuality studies at Agnes Scott College in Atlanta.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Mandana Zandian&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Mandana Zandian" src="https://iranian-studies.stanford.edu/sites/iranianstudies/files/media/image/zandian_sq.jpg" style="height:306px;width:300px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Mandana Zandian graduated from Shahid Beheshti Medical School in 1997. She worked as a researcher at Cedars-Sinai Hospital in Los Angeles for 20 years, specializing in research on aggressive forms of advanced cancers.  Dr. Zandian is also a published poet, author, and journalist, actively collaborating with "Rahavard" quarterly journal. Her books include: &lt;i&gt;Omid o Azadi&lt;/i&gt; (Hope and Liberty, Los Angeles, 2012) on the life and works of Iraj Gorgin; &lt;i&gt;Baz-khani-e Dah Shab&lt;/i&gt; (The Ten-Nights Revisited, Los Angeles, 2014); &lt;i&gt;Ehsan Yarshater in Conversation with Mandana Zandian&lt;/i&gt; (Los Angeles, 2016); She also edited &lt;i&gt;Yaddashtha&lt;/i&gt; (Diaries, Washington DC, 2021), a collection of notes written between 1986-2012 for the journals "Irannameh" and "Iranshenasi" by Dr. Ehsan Yarshater. Zandian's most recent collection of poems is titled &lt;i&gt;Seda-ye Saye-haye Ham Boodim&lt;/i&gt; (Our Voice Echoed the Shadows of All, Los Angeles, 2019).  Dr. Zandian is also the host and producer of a podcast on Persian Literature titled "A Window of Freedom." Her latest book is titled &lt;i&gt;Persian Cypress and the Booms of Modernity, in Conversation with Abbas Milani&lt;/i&gt; (Los Angeles, 2023).&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Stanford is committed to ensuring its facilities, programs and services are accessible to everyone. To request access information and/or accommodations for this event, please complete&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;a href="https://tinyurl.com/AccessStanford"&gt;https://tinyurl.com/AccessStanford&lt;/a&gt;&lt;span&gt;&lt;span&gt; &lt;/span&gt;at the latest one week before the event.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 06 Mar 2025 14:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/archiving-the-history-of-modern-iranian-women</link>
+      <media:content url="https://localist-images.azureedge.net/photos/48775571599842/huge/da820662f31878a6ae8794708d915c9d42f646f0.jpg" medium="image" type="image/jpeg" height="2500" width="4446" isDefault="true" fileSize="3566195"/>
+      <category>Conference/Symposium</category>
     </item>
     <item>
       <title>Tabletop Tuesdays: March 2025 at Hohbach Hall</title>
