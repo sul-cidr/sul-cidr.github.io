@@ -14,7 +14,7 @@
 
 &lt;p&gt;&lt;a href="https://library.stanford.edu/news/east-asia-library-exhibits-selections-yumiko-tsumura-collection-japanese-poetry"&gt;Read an interview with the donor, Yumiko Tsumura, to learn more about her and each of these authors.&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/translating-three-japanese-masters</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
@@ -37,7 +37,7 @@
 
 &lt;p&gt;&lt;a href="https://events.stanford.edu/event/rebooting-a-nation"&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;May 7, 2025: Book Talk with Joel Burke, "Rebooting a Nation: The Incredible Rise of Estonia, E-Government and the Startup Revolution"&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/why-estonia-exhibit</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -50,53 +50,12 @@
 
 &lt;p&gt;On view in Bowes Art &amp;amp; Architecture Library, April 1 - June 20th. M-Th 9-7, Fri 9-5, Sun. 12-6.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 29 Apr 2025 09:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Apr 2025 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/art-of-the-ad-fashion-for-a-new-century</link>
       <geo:lat>37.432546</geo:lat>
       <geo:long>-122.171856</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/49092294783840/huge/f89ef044fd107f813a0005d6667e49c04115261e.jpg" medium="image" type="image/png" height="600" width="1067" isDefault="true" fileSize="626799"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Data Wrangling with Python at Green Library</title>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Location: Hohbach Hall Presentation Room 122, Green Library&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Date and Time: 1PM–3PM, Tuesday, April 29, 2025&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Instructor: Simon Wiles, Digital Scholarship Research Developer&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;This workshop teaches basic data manipulation with Python using the Pandas library, and will cover topics such as loading data into and out of a Pandas DataFrame, performing basic data cleaning, preparation, and analysis, and visualizing relevant aspects of a dataset.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Prerequisites: &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;You should be familiar with basic Python syntax and fundamental programming concepts such as variables, functions, and control flow. If you need a refresher, check out &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href="https://python.swaroopch.com/" style="text-decoration:none;"&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;u style="text-decoration:underline;"&gt;&lt;span&gt;A Byte of Python&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Please register to attend. Registration is exclusively open to current Stanford Affiliates and will be offered on a first-come, first-served basis. Given the limited space, a waitlist will be available once all spots are filled. (Note: To access the registration form, please ensure you are logged into Google on your current browser with your Stanford email, such as &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href="mailto:YourSUNetID@stanford.edu" style="text-decoration:none;"&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;u style="text-decoration:underline;"&gt;&lt;span&gt;YourSUNetID@stanford.edu&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;.)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-      <pubDate>Tue, 29 Apr 2025 13:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/data-wrangling-with-python-2025-04-29</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/49412429914576/huge/fcf6883343ef12c4c5b373d4a5b5466a1147f390.jpg" medium="image" type="image/png" height="600" width="1067" isDefault="true" fileSize="39152"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Working with Archives: Joys and Tribulations of Investigating Historical Sources (plus a hands on session) at Green Library, Bing Wing</title>
-      <description>&lt;p&gt;&lt;span style="font-size:13.5pt;"&gt;Stanford Manuscript Sciences hosts Martha Newman, a medievalist and a collector of stories. We’ll hear all about her adventures in the archives and we’ll look at some examples of historical documents and manuscripts to think about ways of approaching these medieval textual objects. &lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:13.5pt;"&gt;In her work, Professor Newman explores the ways religious practices and ideas intersect with social change in western Europe. Her research focuses on monasticism, monastic attitudes toward women and the poor, and religious conceptions of labor. Her latest book, &lt;a href="https://www.upenn.edu/pennpress/book/16145.html" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Cistercian Stories for Nuns and Monks: The Sacramental Imagination of Engelhard of Langheim&lt;/span&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt;, &lt;/span&gt;&lt;/i&gt;was published by The University of Pennsylvania Press in 2020. It investigates a collection of Cistercian stories dedicated to a community of religious women and analyzes their presentation of a sacramental religiosity that nuns and monks could share. In the last few years, she has also published "&lt;a href="https://www.tandfonline.com/doi/abs/10.1080/03044181.2022.2060487" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;The Necromancer and the Abbot: Summoning the Dead in Cistercian Exempla&lt;/span&gt;&lt;/a&gt;" in the &lt;i&gt;&lt;span&gt;Journal of Medieval History&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style="font-style:normal;"&gt;;&lt;/span&gt;&lt;/i&gt; and “Assigned Female at Death: Joseph of Schönau and the Disruption of Medieval Gender Binaries,” in &lt;a href="https://www.aup.nl/en/book/9789462988248/trans-and-genderqueer-subjects-in-medieval-hagiography" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Trans and Genderqueer Subjects in Medieval Hagiography&lt;/span&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:13.5pt;"&gt;Please use the registration link if you plan to attend.&lt;/span&gt;&lt;/p&gt;
-</description>
-      <pubDate>Tue, 29 Apr 2025 15:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/working-with-archives-joys-and-tribulations-of-investigating-historical-sources-plus-a-hands-on-session</link>
-      <geo:lat>37.426984</geo:lat>
-      <geo:long>-122.167998</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/49465724711823/huge/f06c5cfabaf70cb8505523166b0af0f7f34c70e6.jpg" medium="image" type="image/jpeg" height="750" width="1000" isDefault="true" fileSize="355748"/>
-      <category>Workshop</category>
     </item>
     <item>
       <title>Data Visualization in R</title>
@@ -188,6 +147,53 @@
       <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
+      <title>David Rumsey Map Center Guided Tour at David Rumsey Map Center (Green Library)</title>
+      <description>&lt;p&gt;&lt;b&gt;Explore the World of Maps at the David Rumsey Map Center&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Join us for a &lt;b&gt;guided tour&lt;/b&gt; of the David Rumsey Map Center at Stanford Libraries. Upon arrival, you'll be greeted by one of our knowledgeable staff members for an immersive experience.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;30-Minute Overview&lt;/b&gt;: Dive deep into the &lt;b&gt;history, collections, and special exhibitions&lt;/b&gt; of the David Rumsey Map Center, enriched with insights and stories from our passionate team.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Interactive Experience&lt;/b&gt;: After the guided portion, we invite you to explore the &lt;b&gt;digital collections&lt;/b&gt; on our state-of-the-art large touch screen monitors. Feel the past come alive at your fingertips!&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Exhibition Exploration&lt;/b&gt;: Take your time to &lt;b&gt;peruse our rotating exhibition&lt;/b&gt;, showcasing rare and fascinating maps from various eras and regions.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Connect with Experts&lt;/b&gt;: Our friendly staff will be around for a chat, ready to share their knowledge and answer any questions you might have.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;✍️ &lt;b&gt;Registration Details&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;🔗 &lt;a href="https://forms.gle/BDoTttbKFf72cmjr6"&gt;&lt;b&gt;Register for the tour here&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Deadline&lt;/b&gt;: Registration closes at 4:00pm on the Thursday before the tour.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Note&lt;/b&gt;: Tours without registrants by the deadline will be canceled.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Drop-in Visitors&lt;/b&gt;: Not registered? No problem! We welcome and encourage visitors to explore the David Rumsey Map Center, its exhibitions, and technology at their own pace.&lt;/p&gt;
+
+&lt;p&gt;🚫 &lt;b&gt;Please Note&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;No food, drink, or pen/ink&lt;/b&gt; is allowed inside the Center to protect our collections.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Photography&lt;/b&gt;: Feel free to capture your memories! Personal photography without flash is permitted.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Discover the stories maps can tell at the David Rumsey Map Center. &lt;b&gt;See you there!&lt;/b&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 02 May 2025 14:00:00 -0700</pubDate>
+      <link>https://events.stanford.edu/event/david-rumsey-map-center-tour</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg" medium="image" type="image/jpeg" height="1281" width="1920" isDefault="true" fileSize="883046"/>
+      <category>Tour</category>
+    </item>
+    <item>
       <title>R for Reproducible Scientific Analysis</title>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Location: Virtual&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
@@ -264,53 +270,6 @@
       <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
-      <title>David Rumsey Map Center Guided Tour at David Rumsey Map Center (Green Library)</title>
-      <description>&lt;p&gt;&lt;b&gt;Explore the World of Maps at the David Rumsey Map Center&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Join us for a &lt;b&gt;guided tour&lt;/b&gt; of the David Rumsey Map Center at Stanford Libraries. Upon arrival, you'll be greeted by one of our knowledgeable staff members for an immersive experience.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;b&gt;30-Minute Overview&lt;/b&gt;: Dive deep into the &lt;b&gt;history, collections, and special exhibitions&lt;/b&gt; of the David Rumsey Map Center, enriched with insights and stories from our passionate team.&lt;/li&gt;
-&lt;li&gt;
-&lt;b&gt;Interactive Experience&lt;/b&gt;: After the guided portion, we invite you to explore the &lt;b&gt;digital collections&lt;/b&gt; on our state-of-the-art large touch screen monitors. Feel the past come alive at your fingertips!&lt;/li&gt;
-&lt;li&gt;
-&lt;b&gt;Exhibition Exploration&lt;/b&gt;: Take your time to &lt;b&gt;peruse our rotating exhibition&lt;/b&gt;, showcasing rare and fascinating maps from various eras and regions.&lt;/li&gt;
-&lt;li&gt;
-&lt;b&gt;Connect with Experts&lt;/b&gt;: Our friendly staff will be around for a chat, ready to share their knowledge and answer any questions you might have.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;✍️ &lt;b&gt;Registration Details&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;🔗 &lt;a href="https://forms.gle/BDoTttbKFf72cmjr6"&gt;&lt;b&gt;Register for the tour here&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;&lt;b&gt;Deadline&lt;/b&gt;: Registration closes at 4:00pm on the Thursday before the tour.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;b&gt;Note&lt;/b&gt;: Tours without registrants by the deadline will be canceled.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Drop-in Visitors&lt;/b&gt;: Not registered? No problem! We welcome and encourage visitors to explore the David Rumsey Map Center, its exhibitions, and technology at their own pace.&lt;/p&gt;
-
-&lt;p&gt;🚫 &lt;b&gt;Please Note&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;b&gt;No food, drink, or pen/ink&lt;/b&gt; is allowed inside the Center to protect our collections.&lt;/li&gt;
-&lt;li&gt;
-&lt;b&gt;Photography&lt;/b&gt;: Feel free to capture your memories! Personal photography without flash is permitted.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Discover the stories maps can tell at the David Rumsey Map Center. &lt;b&gt;See you there!&lt;/b&gt;&lt;/p&gt;
-</description>
-      <pubDate>Fri, 09 May 2025 14:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/david-rumsey-map-center-tour</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg" medium="image" type="image/jpeg" height="1281" width="1920" isDefault="true" fileSize="883046"/>
-      <category>Tour</category>
-    </item>
-    <item>
       <title>Research Data Management and Open Science Workshop</title>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Location: Virtual&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
@@ -331,13 +290,13 @@
       <title>Spotlight on Special Collections at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries presents &lt;a href="https://library.stanford.edu/special-collections-exhibits"&gt;Spotlight on Special Collections&lt;/a&gt;, on view in the Peterson Gallery and Munger Rotunda from May 15 to August 31, 2025.  &lt;/p&gt;
 
-&lt;p&gt;Spotlight Exhibits is an open-source digital exhibit platform developed and maintained by Stanford’s Digital Library Systems and Services department (DLSS). Eleven years since its inception, the site hosts 164 online exhibits that span the range of Stanford’s general and special collections and cover such diverse topics as Ancient, Medieval, and Early Modern Manuscripts, Philip Zimbardo’s Stanford Prison Experiment, Sunset Magazine, the Gardiner Transit Collection, and the photography archives of Bob Fitch, David Bacon, and Douglas Menuez.  Created by Stanford librarians, faculty, and students, and arranged and described in narrative format, the site’s digital content is accessed thousands of times a day. It helps make the libraries’ collections accessible to a vast audience of researchers at Stanford and beyond.  DLSS continues to add functionality, including the display of streaming media. &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://exhibits.stanford.edu/"&gt;Spotlight Exhibits&lt;/a&gt; is an open-source digital exhibit platform developed and maintained by Stanford’s Digital Library Systems and Services department (DLSS). Eleven years since its inception, the site hosts 164 online exhibits that span the range of Stanford’s general and special collections and cover such diverse topics as &lt;a href="https://exhibits.stanford.edu/mss"&gt;Ancient, Medieval, and Early Modern Manuscripts&lt;/a&gt;, Philip Zimbardo’s &lt;a href="https://exhibits.stanford.edu/spe"&gt;Stanford Prison Experiment&lt;/a&gt;, &lt;a href="https://exhibits.stanford.edu/sunset"&gt;Sunset Magazine&lt;/a&gt;, the &lt;a href="https://exhibits.stanford.edu/gardiner-sfba"&gt;Gardiner Transit Collection&lt;/a&gt;, and the photography archives of &lt;a href="https://exhibits.stanford.edu/fitch"&gt;Bob Fitch&lt;/a&gt;, &lt;a href="https://exhibits.stanford.edu/bacon"&gt;David Bacon&lt;/a&gt;, and &lt;a href="https://exhibits.stanford.edu/menuez"&gt;Douglas Menuez&lt;/a&gt;.  Created by Stanford librarians, faculty, and students, and arranged and described in narrative format, the site’s digital content is accessed thousands of times a day. It helps make the libraries’ collections accessible to a vast audience of researchers at Stanford and beyond.  DLSS continues to add functionality, including the display of streaming media. &lt;/p&gt;
 
 &lt;p&gt;This exhibition, Spotlight on Special Collections, invites viewers into the deep collections that underlie or form the basis for the digital exhibits by presenting original artifacts, books, and manuscripts represented on the platform. Library curators selected from the approximately 100 Spotlight exhibits that feature Special Collections and University Archives content to show in the galleries. Original objects on display include historical photographs, books, illuminated manuscripts, early printed documents, musical scores, objects related to Stanford’s history, and ephemera representing movements for social change. &lt;/p&gt;
 
 &lt;p&gt;No single exhibition could capture the full range and diversity of the content available on the Spotlight platform. However, with this exhibition, we have endeavored to represent the depth and breadth of this rich resource as it pertains to our Special Collections and University Archives holdings. &lt;/p&gt;
 
-&lt;p&gt;This exhibition is curated by Benjamin Lee Stone with Rebecca Wingfield and Franz Kunst, Benjamin Albritton, Ray Hegemeier, Josh Schneider, with Connor Yankowitz, Kathleen Smith, Charlotte Kwok-Glasser, and Natalie Marine-Street; produced by Deardra Fuzzell with assistance from Elizabeth Fischbach and Connor Yankowitz. &lt;/p&gt;
+&lt;p&gt;This exhibition is curated by Benjamin Lee Stone with Rebecca Wingfield and Franz Kunst, Benjamin Albritton, Ray Heigemeir, Josh Schneider, with Connor Yankowitz, Kathleen Smith, Charlotte Kwok-Glasser, and Natalie Marine-Street; produced by Deardra Fuzzell with assistance from Elizabeth Fischbach and Connor Yankowitz. &lt;/p&gt;
 </description>
       <pubDate>Thu, 15 May 2025 16:30:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/spotlight-on-special-collections</link>
