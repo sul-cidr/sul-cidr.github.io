@@ -14,7 +14,7 @@
 
 &lt;p&gt;&lt;a href="https://library.stanford.edu/news/east-asia-library-exhibits-selections-yumiko-tsumura-collection-japanese-poetry"&gt;Read an interview with the donor, Yumiko Tsumura, to learn more about her and each of these authors.&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 07 May 2025 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/translating-three-japanese-masters</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
@@ -37,7 +37,7 @@
 
 &lt;p&gt;&lt;a href="https://events.stanford.edu/event/rebooting-a-nation"&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;May 7, 2025: Book Talk with Joel Burke, "Rebooting a Nation: The Incredible Rise of Estonia, E-Government and the Startup Revolution"&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 07 May 2025 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/why-estonia-exhibit</link>
       <geo:lat>37.426631</geo:lat>
       <geo:long>-122.167086</geo:long>
@@ -50,104 +50,12 @@
 
 &lt;p&gt;On view in Bowes Art &amp;amp; Architecture Library, April 1 - June 20th. M-Th 9-7, Fri 9-5, Sun. 12-6.&lt;/p&gt;
 </description>
-      <pubDate>Wed, 07 May 2025 09:00:00 -0700</pubDate>
+      <pubDate>Thu, 08 May 2025 09:00:00 -0700</pubDate>
       <link>https://events.stanford.edu/event/art-of-the-ad-fashion-for-a-new-century</link>
       <geo:lat>37.432546</geo:lat>
       <geo:long>-122.171856</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/49092294783840/huge/f89ef044fd107f813a0005d6667e49c04115261e.jpg" medium="image" type="image/png" height="600" width="1067" isDefault="true" fileSize="626799"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>QGIS cartography / maps for academic journals at Branner Earth Sciences Library</title>
-      <description>&lt;p&gt;Get familiar with the Map Layout tools in QGIS while learning the fundamentals of effective cartographic design for publication (posters, digital slides, journal article figures).&lt;/p&gt;
-
-&lt;p&gt;This workshop will cover the basics of effective visual design in cartography as well as the practical steps to publishing a map fugure from QGIS.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;&lt;b&gt;Topics:&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Establishing a good Visual Hierarchy&lt;/p&gt;
-
-&lt;p&gt;How to use (and not abuse) color in maps&lt;/p&gt;
-
-&lt;p&gt;Methods for simplifying busy or complex data&lt;/p&gt;
-
-&lt;p&gt;QGIS map layout tools&lt;/p&gt;
-
-&lt;p&gt;Adding and modifying map items (N arrows, Scale Bars, Legends)&lt;/p&gt;
-
-&lt;p&gt;Adding images&lt;/p&gt;
-
-&lt;p&gt;Adding locators and inset maps&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
-      <pubDate>Wed, 07 May 2025 09:30:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/qgis-cartography-maps-for-academic-journals-9262</link>
-      <geo:lat>37.426413</geo:lat>
-      <geo:long>-122.172471</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/44783711033488/huge/3c34d2679526e663ced0ec9297c4df8c3d41f769.jpg" medium="image" type="image/jpeg" height="470" width="940" isDefault="true" fileSize="178693"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>R for Reproducible Scientific Analysis</title>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Location: Virtual&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Date and Time: 1:00PM - 4:00PM, Wednesday, May 7, 2025&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Lead Instructor: Dr. Alma Parada, Head Librarian, Branner Earth Sciences Library&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;This workshop is an introduction to reproducible data analysis in R for those who have basic programming experience in R. This class will focus on project management , task automation, and general best practices. By the end of this workshop, you will have learned how to write functions and scripts to use between projects and that can be shared with others through reports created in R Markdown.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:12pt;"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="font-style:normal;"&gt;&lt;span style="text-decoration:none;"&gt;Please register to attend. A Zoom link will be provided upon registration.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-      <pubDate>Wed, 07 May 2025 13:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/r-for-reproducible-scientific-analysis</link>
-      <media:content url="https://localist-images.azureedge.net/photos/49412438712559/huge/cddedefe758530dcf876537ff2fb4b02dd6a8c7e.jpg" medium="image" type="image/png" height="600" width="1067" isDefault="true" fileSize="39961"/>
-      <category>Workshop</category>
-    </item>
-    <item>
-      <title>Take a break, pet a dog at Science and Engineering Quad, Y2E2 Courtyard</title>
-      <description>&lt;p&gt;The Terman Engineering Library is pleased to have therapy dogs again this quarter. Please join us in the Y2E2 Courtyard on Wednesday, May 7 from 3-4pm. Dog and owner teams from Pet Partners will be providing relaxation and stress relief. In the event of rain, look for us under the covered walkway.&lt;/p&gt;
-
-&lt;p&gt;Image Credit: Michael Spencer&lt;/p&gt;
-</description>
-      <pubDate>Wed, 07 May 2025 15:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/copy-of-take-a-break-pet-a-dog-4083</link>
-      <media:content url="https://localist-images.azureedge.net/photos/44413091992153/huge/3b9b9706613f371cbdb56151f9dcc5610c7e83bc.jpg" medium="image" type="image/jpeg" height="3333" width="5000" isDefault="true" fileSize="2062913"/>
-      <category>Social Event/Reception</category>
-    </item>
-    <item>
-      <title>Book talk with Ala Ebtekar – Thirty-Six Views of the Moon at Green Library, Bing Wing</title>
-      <description>&lt;p&gt;Join us for a talk and reading with &lt;b&gt;Ala Ebtekar&lt;/b&gt; on &lt;b&gt;&lt;a href="https://www.alaebtekar.com/works/project-three-t5mw3" target="_blank"&gt;&lt;i&gt;Thirty-Six Views of the Moon&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;, his new monograph comprised of a collection of photographs, night exposures — left from dusk till dawn and exposed by moonlight on book pages from texts referencing the moon and night sky spanning the last ten centuries.&lt;/p&gt;
-
-&lt;p&gt;Following the talk will be a panel discussion with the artist  &lt;b&gt;Ala Ebtekar&lt;/b&gt;; &lt;b&gt;Alexander Nemerov&lt;/b&gt;, the Carl and Marilynn Thoma Provostial Professor in the Arts and Humanities at Stanford; and &lt;b&gt;Ladan Akbarnia&lt;/b&gt;, Curator of South Asian and Islamic Art at The San Diego Museum of Art; moderated by &lt;b&gt;Kim Beil&lt;/b&gt;, associate director of the ITALIC interdisciplinary arts program at Stanford.&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href="https://forms.gle/ceYM3mYNkaULZCwGA" target="_blank"&gt; &lt;b&gt;register&lt;/b&gt;&lt;/a&gt; if you would like to attend.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;Please be advised that this event may be filmed, and official photographs may be taken for posting on Stanford websites and/or may be used in other university publications. By registering for this event and/or entering this event venue, you consent to Stanford University using your image and likeness. &lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;_____________________________________________________&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="https://i.postimg.cc/5y8rhXRC/Ala.jpg" style="height:auto;width:100px;"&gt; &lt;a href="https://www.alaebtekar.com/" target="_blank"&gt;&lt;b&gt;Ala Ebtekar&lt;/b&gt;&lt;/a&gt; (b. 1978, Berkeley, CA) has situated his practice as a leveling and collapsing of time and space. His work frequently orchestrates various orbits and cadences of time, bringing forth sculptural and photographic possibilities of the universe and time observing humanity. Exploring time, exposure, and light as both medium and metaphor, he uses sunlight, moonlight, and starlight to create durational works—sometimes taking an entire night to expose—which he views as collaborations with the sun, moon, and stars.&lt;/p&gt;
-
-&lt;p&gt;Ebtekar, throughout his practice, has employed the tactile traditions and properties of bookmaking, page and illumination in bound manuscripts, and classical training in Iranian coffeehouse painting. His alchemy of combining these legacies weaves into his commitment and work alongside enduring centuries of reclaimed text &amp;amp; image archives, poetry, and translation.&lt;/p&gt;
-
-&lt;p&gt;His work has been widely exhibited across the globe at institutions such as the British Museum, Xinjiang Biennale, California Biennial, Maraya Art Centre in Sharjah, Honolulu Museum of Art, and the Brooklyn Museum. His works are held in leading public and private collections, including the Whitney Museum of American Art, British Museum, de Young Fine Arts Museum, Microsoft Art Collection, Devi Art Foundation in India, and Berkeley Art Museum, among others.&lt;/p&gt;
-
-&lt;p&gt;Ebtekar holds a BFA from the San Francisco Art Institute and an MFA from Stanford University, where he has been a lecturer since 2009. He is the founder and director of Art, Social Space, and Public Discourse, a global initiative on art that investigates the multiple contexts that shift and define changing ideas of public space, and a founding member of Stanford’s Creative Cities working group. His recent public art commissions include projects at SFO, Alserkal in the UAE, and the Asian Art Museum. Ebtekar is the 2025 King Artist in Residence at Arion Press.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="https://i.postimg.cc/RZzzPBq8/Ladan.jpg" style="height:auto;width:100px;"&gt; &lt;b&gt;Ladan Akbarnia &lt;/b&gt; (PhD, Harvard University) is Curator of South Asian and Islamic Art at The San Diego Museum of Art (SDMA) and curator of &lt;i&gt;Wonders of Creation: Art, Science, and Innovation in the Islamic World&lt;/i&gt; (2024–25), which addresses intersections of art and science through the lens of a 13th-century Islamic cosmography. A specialist in Islamic visual culture, she studies cross-cultural transmissions; Sufism; contemporary art; and museum display methodologies. Previously, she curated the Islamic collections at the Brooklyn and British Museums, including a major reinstallation of the latter’s Albukhary Foundation Gallery of the Islamic World.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="https://i.postimg.cc/tgNRdg52/Beil.jpg" style="height:auto;width:100px;"&gt; &lt;a href="https://profiles.stanford.edu/kim-beil" target="_blank"&gt;&lt;b&gt;Kim Beil&lt;/b&gt;&lt;/a&gt; is the associate director of the ITALIC interdisciplinary arts program at Stanford. In addition to two books on photography, &lt;a href="https://bookshop.org/p/books/good-pictures-a-history-of-popular-photography-kim-beil/11832647" style="text-decoration:none;"&gt; &lt;i&gt;Good Pictures: A History of Popular Photography&lt;/i&gt; &lt;/a&gt; and &lt;a href="https://www.mackbooks.us/products/anonymous-objects-inscrutable-photographs-and-the-unknown-kim-beil-spbh-editions?srsltid=AfmBOoq4aJznNIQMIo5PZ8Mn4wJVKclXtGS-Z62EmWvMrirzS0FWepFN" target="_blank"&gt; &lt;i&gt;Anonymous Objects: Inscrutable Photographs and the Unknown&lt;/i&gt; &lt;/a&gt;, she also writes for the general public about the intersections of art and the natural world. Her writing has appeared in &lt;i&gt;The Atlantic&lt;/i&gt;, the &lt;i&gt;Believer&lt;/i&gt;, &lt;i&gt;Cabinet&lt;/i&gt; magazine, &lt;i&gt;The New York Times&lt;/i&gt;, &lt;i&gt;The Paris Review&lt;/i&gt;, and &lt;i&gt;Smithsonian&lt;/i&gt; magazine.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="https://i.postimg.cc/Sstn8sSH/Nemerov.jpg" style="height:auto;width:100px;"&gt; &lt;a href="https://art.stanford.edu/people/alexander-nemerov" target="_blank"&gt;&lt;b&gt;Alexander Nemerov&lt;/b&gt;&lt;/a&gt;, a professor at Stanford, is the author of many books, including most recently &lt;i style="font-style:italic;"&gt;The Forest: A Fable of America in the 1830s&lt;/i&gt; (2023), called by the novelist Annie Proulx “deeply beautiful, achingly painful and astonishingly tender," and &lt;i style="font-style:italic;"&gt;Fierce Poise: Helen Frankenthaler and 1950s New York&lt;/i&gt;, short-listed for the National Book Critics Circle Award in Biography.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 07 May 2025 17:00:00 -0700</pubDate>
-      <link>https://events.stanford.edu/event/book-talk-with-ala-ebtekar-thirty-six-views-of-the-moon</link>
-      <geo:lat>37.426984</geo:lat>
-      <geo:long>-122.167998</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/49420519466440/huge/15590af69dbeb88f22471f5137d32542b3cb9af0.jpg" medium="image" type="image/jpeg" height="600" width="1067" isDefault="true" fileSize="477134"/>
-      <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
       <title>Thomas Lalevée (ANU): Before Durkheim: Early French Social Science and the Politics of Progress at Green Library, Bing Wing</title>
