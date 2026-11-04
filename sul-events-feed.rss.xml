@@ -12,7 +12,7 @@
 
 &lt;p&gt;The exhibition is curated by Jee-Young Park, Korean Studies Librarian, and Jisoo Kim, an SFSU MA Museum Studies graduate and San Francisco-based curator.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/korean-indigenous-futures</link>
       <geo:lat>37.429468</geo:lat>
       <geo:long>-122.167272</geo:long>
@@ -23,7 +23,7 @@
       <title>Text Machines: Scarlet Thread of the Digital Order (1883-2026) at Green Library, Bing Wing</title>
       <description>&lt;p&gt;Stanford Libraries now holds an 1883 edition of a rare book, Les laboureurs: poème tiré de Jocelyn, whose pages (text and ornaments) were entirely woven on a Jacquard loom by the firm of silk merchant Joseph-Alphonse Henry. This exhibition explores the cultural contexts and material conditions of Les laboureurs’ production, and considers parallels between technology-driven global change in the late nineteenth century and in our current day. The exhibition includes microscope images revealing the textile structure of the woven text as well as a woven enlargement that illustrates its basic principles, along with several artworks inspired by or related to the themes of the exhibition. &lt;/p&gt;
 </description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/text-machines-scarlet-thread-of-the-digital-order-1883-2026</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
@@ -38,7 +38,7 @@
 
 &lt;p&gt;Tour by Dr. Brandon-Salmon on 9/5 at 6 pm prior to &lt;a href="https://art.stanford.edu/events/electric-contrasts-study-evening"&gt;Electric Contrasts Study Evening.&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 -0800</pubDate>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315</link>
       <geo:lat>37.432546</geo:lat>
       <geo:long>-122.171856</geo:long>
@@ -59,22 +59,12 @@
 
 &lt;p&gt;A Vision of Paris: the Roxane Debuisson Collection at Stanford will be open to the public. Registration at the entrance with a valid government ID is required to enter the Cecil H. Green Library and view the exhibit. &lt;/p&gt;
 </description>
-      <pubDate>Tue, 03 Nov 2026 10:00:00 -0800</pubDate>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford</link>
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/53869869915497/huge/a69a56de3c253ceba914f0ea619e3040181c6f33.jpg" medium="image" type="image/jpeg" height="960" width="1440" isDefault="true" fileSize="198417"/>
       <category>Exhibition</category>
-    </item>
-    <item>
-      <title>Green Library Book Display: Witches and Witchcraft at Hohbach Hall</title>
-      <description>&lt;p&gt;Green Library's latest book display features books on "Witches and Witchcraft." From scholarly works on the history of witchcraft and witch trials to novels featuring witches, these titles will spark your curiosity and might even leave you spellbound. All books are available to check out. &lt;/p&gt;
-</description>
-      <pubDate>Tue, 03 Nov 2026 13:00:00 -0800</pubDate>
-      <link>https://events.stanford.edu/event/green-library-book-display-witches-and-witchcraft</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
-      <media:content url="https://localist-images.azureedge.net/photos/54321279785084/huge/11b55e03e947fe6003eb33e7c5cdd80490327218.jpg" medium="image" type="image/png" height="1344" width="1080" isDefault="true" fileSize="2658542"/>
     </item>
     <item>
       <title>How to Be More Effective with AI Tools While Coding at Green Library, Bing Wing</title>
@@ -115,6 +105,16 @@
       <geo:long>-122.167571</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/53923524240935/huge/4fff769cf5feaab3558d7c41f99a8b7ff4e0bd38.jpg" medium="image" type="image/png" height="2000" width="2000" isDefault="true" fileSize="4243101"/>
       <category>Exhibition</category>
+    </item>
+    <item>
+      <title>Green Library Book Display: Witches and Witchcraft at Hohbach Hall</title>
+      <description>&lt;p&gt;Green Library's latest book display features books on "Witches and Witchcraft." From scholarly works on the history of witchcraft and witch trials to novels featuring witches, these titles will spark your curiosity and might even leave you spellbound. All books are available to check out. &lt;/p&gt;
+</description>
+      <pubDate>Wed, 04 Nov 2026 13:00:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/green-library-book-display-witches-and-witchcraft</link>
+      <geo:lat>37.426631</geo:lat>
+      <geo:long>-122.167086</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/54321279785084/huge/11b55e03e947fe6003eb33e7c5cdd80490327218.jpg" medium="image" type="image/png" height="1344" width="1080" isDefault="true" fileSize="2658542"/>
     </item>
     <item>
       <title>Take a break, pet a dog at Science and Engineering Quad, Y2E2 Courtyard</title>
@@ -424,7 +424,7 @@ Check out past exhibits and subscribe to the &lt;a href="https://us20.campaign-
       <category>Workshop</category>
     </item>
     <item>
-      <title>Estonia at the Front Line: Security, Resilience, and Technology: A Discussion with the Prime Minister of Estonia Kristen Michal at Hohbach Hall</title>
+      <title>Estonia at the Front Line: Security, Resilience, and Technology: A Discussion with the Prime Minister of Estonia Kristen Michal at Encina Hall</title>
       <description>&lt;p&gt;&lt;b&gt;Join us for an engaging discussion with Prime Minister of the Republic of Estonia Kristen Michal on:&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;i&gt;Estonia at the Front Line: Security, Resilience, and Technology: Security, Europe, and Technology&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
@@ -450,8 +450,8 @@ The discussion will be moderated by &lt;b&gt;Michael McFaul&lt;/b&gt;, Ken Olivi
 </description>
       <pubDate>Tue, 17 Nov 2026 12:00:00 -0800</pubDate>
       <link>https://events.stanford.edu/event/prime-minister-estonia-2026</link>
-      <geo:lat>37.426631</geo:lat>
-      <geo:long>-122.167086</geo:long>
+      <geo:lat>37.427319</geo:lat>
+      <geo:long>-122.164625</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/54188039227107/huge/7ce833555a7046e65258c607f9c12607d48b8556.jpg" medium="image" type="image/jpeg" height="1067" width="1600" isDefault="true" fileSize="159969"/>
       <category>Lecture/Presentation/Talk</category>
     </item>
@@ -553,6 +553,26 @@ The discussion will be moderated by &lt;b&gt;Michael McFaul&lt;/b&gt;, Ken Olivi
       <geo:lat>37.426984</geo:lat>
       <geo:long>-122.167998</geo:long>
       <media:content url="https://localist-images.azureedge.net/photos/53949501849289/huge/60cee755371cdf7ad425dd89b92c1bc3955ef1cc.jpg" medium="image" type="image/jpeg" height="583" width="410" isDefault="true" fileSize="110936"/>
+      <category>Lecture/Presentation/Talk</category>
+    </item>
+    <item>
+      <title>Film Screening of the Latvian submission for the Academy Awards – Ulya at Bishop Auditorium</title>
+      <description>&lt;p class="desc_normal"&gt; &lt;/p&gt;
+
+&lt;p class="desc_normal"&gt;&lt;b&gt;Join us for a film screening of Latvia's submission for the Academy Awards and commentary from Dr. Karla Oeler, Director of the Center for Russian, Eastern European, and Eurasian Studies and Associate Professor of Film and Media Studies in the Department of Art &amp;amp; Art History.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Ulya&lt;/i&gt; (2026) is a true story about Uljana Semjonova, who is a very tall girl living on a remote farm in Soviet Latvia in 1964. Her height, almost two meters, worries her family, who aren't sure how she will fit into the world. When her class photo reaches basketball coaches, she is taken to Riga to train with TTT Riga. She works hard but feels torn, because basketball doesn't give her the ordinary life she dreams of. After running away back home, she realizes that both the village and the sport see her only as "the tall girl." When she finally accepts herself, she must decide whether to stay hidden or try to become the best basketball player in the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;b&gt;Dr. Karla Oeler &lt;/b&gt;is the Director of the Center for Russian, Eastern European, and Eurasian Studies and an Associate Professor of Film and Media Studies in the Department of Art &amp;amp; Art History. Her research and teaching interests are film history, theory and criticism, with emphases including the theory and practice of Sergei Eisenstein, cinematic representations of violence and thinking, and the relations between film aesthetics, literature, theory and philosophy. She is the author of A Grammar of Murder:  Violent Scenes and Film Form (University of Chicago Press, 2009).  Her work has appeared in numerous forums including Cinema Journal, The Journal of Visual Culture, and Slavic Review on a range of topics including works by Fyodor Dostoevsky, Jean-Luc Godard, Sergei Parajanov, and Jean Renoir.  She is currently writing a book called “The Surface of Things:  Cinema and Interiority.”  &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;This event is free and open to the public. &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScpwdybItslBRJvAh6uE31N4z7nWhDvy18n7TLD4zTGPMCoJw/viewform?usp=header"&gt;Registration&lt;/a&gt; is required.&lt;/b&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 03 Dec 2026 18:30:00 -0800</pubDate>
+      <link>https://events.stanford.edu/event/film-screening-of-ulya</link>
+      <geo:lat>37.429468</geo:lat>
+      <geo:long>-122.167272</geo:long>
+      <media:content url="https://localist-images.azureedge.net/photos/54426719056534/huge/11a35b6d4c9d59a76277dc6c47cae2be34d1c4ea.jpg" medium="image" type="image/png" height="1932" width="1368" isDefault="true" fileSize="3287289"/>
+      <category>Film/Screening</category>
       <category>Lecture/Presentation/Talk</category>
     </item>
     <item>
